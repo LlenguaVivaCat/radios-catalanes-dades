@@ -1,5 +1,5 @@
 {
-  "serial": 8,
+  "serial": 9,
   "version": 2,
   "source": "llenguaviva.cat",
   "license": "Tots els drets reservats",
@@ -1850,7 +1850,11 @@
       },
       "newUntil": "2026-11-16",
       "band": "am",
-      "region": "barcelona"
+      "region": "barcelona",
+      "outage": {
+        "since": "2026-11-10",
+        "message": "L'emissió per internet de Ràdio Vallromanes no funciona des del 10 de novembre. Ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "radiomarina",
@@ -2659,12 +2663,16 @@
         "lon": 1.6119
       },
       "band": "am",
-      "region": "penedes"
+      "region": "penedes",
+      "outage": {
+        "since": "2026-11-10",
+        "message": "L'emissió per internet de Sarroca Ràdio no funciona des del 10 de novembre. Ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "onabitlles",
-      "name": "OnaBitlles",
-      "shortName": "OnaBitlles",
+      "name": "Ona Bitlles",
+      "shortName": "Ona Bitlles",
       "territory": "catalunya",
       "category": "local",
       "streamUrl": "https://streaming.enacast.com/onabitlles128.mp3",
@@ -2688,7 +2696,7 @@
       "region": "penedes",
       "outage": {
         "since": "2026-11-09",
-        "message": "L'emissió per internet de OnaBitlles no funciona des del 9 de novembre. Ja ho sabem i ho seguim."
+        "message": "L'emissió per internet d'Ona Bitlles no funciona des del 9 de novembre. Ja ho sabem i ho seguim."
       }
     },
     {
