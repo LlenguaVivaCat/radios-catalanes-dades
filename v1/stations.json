@@ -1,0 +1,3303 @@
+{
+  "serial": 8,
+  "version": 2,
+  "source": "llenguaviva.cat",
+  "license": "Tots els drets reservats",
+  "stations": [
+    {
+      "id": "catradio",
+      "name": "Catalunya Ràdio",
+      "shortName": "Cat Ràdio",
+      "territory": "catalunya",
+      "category": "generalista",
+      "streamUrl": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [
+        "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
+      ],
+      "website": "https://www.3cat.cat/catradio/",
+      "logo": "catradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.7,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3924,
+        "lon": 2.1414
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "rac1",
+      "name": "RAC1",
+      "shortName": "RAC1",
+      "territory": "catalunya",
+      "category": "generalista",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1_SC"
+      ],
+      "website": "https://www.rac1.cat",
+      "logo": "rac1",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.1,
+      "lowBitrateUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1AAC.aac",
+      "lowDelayUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1AAC_LD.aac",
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3925,
+        "lon": 2.1459
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "rna",
+      "name": "Ràdio Nacional d'Andorra",
+      "shortName": "RNA",
+      "territory": "andorra",
+      "category": "generalista",
+      "streamUrl": "https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [],
+      "website": "https://www.rtva.ad/en-directe/rna",
+      "logo": "rna",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -23.8,
+      "place": {
+        "name": "Andorra la Vella",
+        "area": "Andorra",
+        "lat": 42.5069,
+        "lon": 1.5213
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "apuntfm",
+      "name": "À Punt Ràdio",
+      "shortName": "À Punt",
+      "territory": "pais-valencia",
+      "category": "generalista",
+      "streamUrl": "https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [],
+      "website": "https://www.apuntmedia.es",
+      "logo": "apuntfm",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.9,
+      "place": {
+        "name": "Burjassot",
+        "area": "Horta Nord",
+        "lat": 39.5109,
+        "lon": -0.4245
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "ib3",
+      "name": "IB3 Ràdio",
+      "shortName": "IB3 Ràdio",
+      "territory": "illes-balears",
+      "category": "generalista",
+      "streamUrl": "https://icecast.ib3radio.com/ib3radio.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming01.ib3radio.com:8000/ib3radio.mp3"
+      ],
+      "website": "https://ib3.org",
+      "logo": "ib3",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -21.7,
+      "place": {
+        "name": "Palma",
+        "area": "Mallorca",
+        "lat": 39.5651,
+        "lon": 2.663
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "arrels",
+      "name": "Ràdio Arrels",
+      "shortName": "Arrels",
+      "territory": "catalunya-nord",
+      "category": "generalista",
+      "streamUrl": "http://stream.radios-arra.fr:8000/radioarrels",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radioarrels.cat",
+      "logo": "arrels",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -5.7,
+      "place": {
+        "name": "Perpinyà",
+        "area": "Rosselló",
+        "lat": 42.6985,
+        "lon": 2.8953
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "radio4",
+      "name": "Ràdio 4 (RNE)",
+      "shortName": "Ràdio 4",
+      "territory": "catalunya",
+      "category": "generalista",
+      "streamUrl": "https://dispatcher.rndfnk.com/crtve/rner4/main/mp3/high",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://dispatcher.rndfnk.com/crtve/rner4/main/aac/high"
+      ],
+      "website": "https://www.rtve.es/play/radio/radio-4/",
+      "logo": "radio4",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.8,
+      "lowBitrateUrl": "https://dispatcher.rndfnk.com/crtve/rner4/main/aac/low",
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.4027,
+        "lon": 2.1945
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "catinfo",
+      "name": "Catalunya Informació",
+      "shortName": "Cat Info",
+      "territory": "catalunya",
+      "category": "informativa",
+      "streamUrl": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [
+        "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
+      ],
+      "website": "https://www.3cat.cat/catalunyainformacio/",
+      "logo": "catinfo",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -15.2,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3924,
+        "lon": 2.1414
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "flaixfm",
+      "name": "Flaix FM",
+      "shortName": "Flaix FM",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://stream.flaixfm.cat/icecast",
+      "streamType": "aac",
+      "fallbackUrls": [],
+      "website": "https://www.flaixfm.cat",
+      "logo": "flaixfm",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -8.8,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3925,
+        "lon": 2.1639
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "rac105",
+      "name": "RAC105",
+      "shortName": "RAC105",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105_SC"
+      ],
+      "website": "https://www.rac105.cat",
+      "logo": "rac105",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.7,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3925,
+        "lon": 2.1459
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "icat",
+      "name": "iCat",
+      "shortName": "iCat",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://directes-radio-int.3catdirectes.cat/live-content/icat-hls/master.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [
+        "https://shoutcast.ccma.cat/ccma/icatHD.mp3"
+      ],
+      "website": "https://www.3cat.cat/icat/",
+      "logo": "icat",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.8,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3924,
+        "lon": 2.1414
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "catmusica",
+      "name": "Catalunya Música",
+      "shortName": "Cat Música",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/master.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [
+        "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
+      ],
+      "website": "https://www.3cat.cat/catmusica/",
+      "logo": "catmusica",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.4,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3924,
+        "lon": 2.1414
+      },
+      "coverage": "territory"
+    },
+    {
+      "id": "radiovilablareix",
+      "name": "Ràdio Vilablareix",
+      "shortName": "Vilablareix",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://enacast.com/radiovilablareix/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiovilablareix128.mp3"
+      ],
+      "website": "https://www.radiovilablareix.cat/",
+      "logo": "radiovilablareix",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -10.4,
+      "lowBitrateUrl": "https://enacast.com/radiovilablareix/streams/SD",
+      "place": {
+        "name": "Vilablareix",
+        "area": "Gironès",
+        "lat": 41.9525,
+        "lon": 2.7937
+      }
+    },
+    {
+      "id": "ib3menorca",
+      "name": "IB3 Ràdio Menorca",
+      "shortName": "IB3 Menorca",
+      "territory": "illes-balears",
+      "category": "generalista",
+      "streamUrl": "https://icecast.ib3radio.com/ib3radio_menorca",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming01.ib3radio.com:8000/ib3radio_menorca"
+      ],
+      "website": "https://ib3.org",
+      "logo": "ib3",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -17.7,
+      "badge": "Menorca",
+      "place": {
+        "name": "Maó",
+        "area": "Menorca",
+        "lat": 39.8894,
+        "lon": 4.2642
+      }
+    },
+    {
+      "id": "ib3pitiuses",
+      "name": "IB3 Ràdio Eivissa i Formentera",
+      "shortName": "IB3 Pitiüses",
+      "territory": "illes-balears",
+      "category": "generalista",
+      "streamUrl": "https://icecast.ib3radio.com/ib3radio_pitiuses",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming01.ib3radio.com:8000/ib3radio_pitiuses"
+      ],
+      "website": "https://ib3.org",
+      "logo": "ib3",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -17.4,
+      "badge": "Pitiüses",
+      "place": {
+        "name": "Eivissa",
+        "area": "Eivissa",
+        "lat": 38.9089,
+        "lon": 1.4328
+      }
+    },
+    {
+      "id": "radioaltea",
+      "name": "Ràdio Altea",
+      "shortName": "Altea",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radioaltea/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radioaltea128.mp3"
+      ],
+      "website": "https://www.radioaltea.com/",
+      "logo": "radioaltea",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -13.2,
+      "lowBitrateUrl": "https://enacast.com/radioaltea/streams/SD",
+      "place": {
+        "name": "Altea",
+        "area": "Marina Baixa",
+        "lat": 38.6078,
+        "lon": -0.0644
+      }
+    },
+    {
+      "id": "radioribaroja",
+      "name": "Ràdio Riba-roja",
+      "shortName": "Riba-roja",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radioribarroja/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radioribarroja128.mp3"
+      ],
+      "website": "https://www.radioriba-roja.com/",
+      "logo": "radioribaroja",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -11.8,
+      "lowBitrateUrl": "https://enacast.com/radioribarroja/streams/SD",
+      "place": {
+        "name": "Riba-roja de Túria",
+        "area": "Camp de Túria",
+        "lat": 39.5475,
+        "lon": -0.5683
+      }
+    },
+    {
+      "id": "radiobenicarlo",
+      "name": "Ràdio Benicarló",
+      "shortName": "Benicarló",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radiobenicarlo/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiobenicarlo128.mp3"
+      ],
+      "website": "https://www.radiobenicarlo.org/",
+      "logo": "radiobenicarlo",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -14.7,
+      "lowBitrateUrl": "https://enacast.com/radiobenicarlo/streams/SD",
+      "place": {
+        "name": "Benicarló",
+        "area": "Baix Maestrat",
+        "lat": 40.4186,
+        "lon": 0.4231
+      }
+    },
+    {
+      "id": "imaginaradio",
+      "name": "Imagina Ràdio",
+      "shortName": "Imagina",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://streaming.enacast.com/imaginaradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/imaginaradio/streams/HD"
+      ],
+      "website": "https://www.imaginaradio.cat/",
+      "logo": "imaginaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.6,
+      "place": {
+        "name": "Tortosa",
+        "area": "Baix Ebre",
+        "lat": 40.8125,
+        "lon": 0.5211
+      }
+    },
+    {
+      "id": "tarragonaradio",
+      "name": "Tarragona Ràdio",
+      "shortName": "Tarragona",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/tarragona128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming.enantena.com:8000/tarragona128.mp3"
+      ],
+      "website": "https://www.tarragonaradio.cat",
+      "logo": "tarragonaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18,
+      "place": {
+        "name": "Tarragona",
+        "area": "Tarragonès",
+        "lat": 41.1175,
+        "lon": 1.2528
+      }
+    },
+    {
+      "id": "canalblau",
+      "name": "Canal Blau FM",
+      "shortName": "Canal Blau",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/canalblau128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/canalblau/streams/HD"
+      ],
+      "website": "https://podcast.canalblau.cat/",
+      "logo": "canalblau",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -21.1,
+      "place": {
+        "name": "Vilanova i la Geltrú",
+        "area": "Garraf",
+        "lat": 41.2243,
+        "lon": 1.7259
+      }
+    },
+    {
+      "id": "radiosabadell",
+      "name": "Ràdio Sabadell",
+      "shortName": "Sabadell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streamer.radio.co/s39e9c768a/listen",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiosabadell.fm",
+      "logo": "radiosabadell",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.9,
+      "place": {
+        "name": "Sabadell",
+        "area": "Vallès Occidental",
+        "lat": 41.5483,
+        "lon": 2.1075
+      }
+    },
+    {
+      "id": "radiovic",
+      "name": "Ràdio Vic",
+      "shortName": "Ràdio Vic",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiovic56.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiovic/streams/HD"
+      ],
+      "website": "https://www.radiovic.cat",
+      "logo": "radiovic",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.3,
+      "place": {
+        "name": "Vic",
+        "area": "Osona",
+        "lat": 41.9304,
+        "lon": 2.2546
+      }
+    },
+    {
+      "id": "gironafm",
+      "name": "Girona FM",
+      "shortName": "Girona FM",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/gironafm/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/gironafmHD.mp3"
+      ],
+      "website": "https://www.gironafm.cat",
+      "logo": "gironafm",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -8.6,
+      "lowBitrateUrl": "https://enacast.com/gironafm/streams/SD",
+      "place": {
+        "name": "Girona",
+        "area": "Gironès",
+        "lat": 41.9833,
+        "lon": 2.8167
+      }
+    },
+    {
+      "id": "ua1lleida",
+      "name": "UA1 Lleida Ràdio",
+      "shortName": "UA1 Lleida",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://panel5.soydigital.fm/8032/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.ua1.cat",
+      "logo": "ua1lleida",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.6,
+      "place": {
+        "name": "Lleida",
+        "area": "Segrià",
+        "lat": 41.6167,
+        "lon": 0.6333
+      }
+    },
+    {
+      "id": "radioseu",
+      "name": "RàdioSeu",
+      "shortName": "RàdioSeu",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiolaseu128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radioseu.cat/",
+      "logo": "radioseu",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -18.6,
+      "place": {
+        "name": "la Seu d'Urgell",
+        "area": "Alt Urgell",
+        "lat": 42.3578,
+        "lon": 1.4586
+      }
+    },
+    {
+      "id": "radioestel",
+      "name": "Ràdio Estel",
+      "shortName": "Ràdio Estel",
+      "territory": "catalunya",
+      "category": "generalista",
+      "streamUrl": "https://srv6021.dns-lcinternet.com:10244/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radioestel.cat",
+      "logo": "radioestel",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.4,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3799,
+        "lon": 2.1375
+      },
+      "band": "am",
+      "region": "barcelona",
+      "coverage": "territory"
+    },
+    {
+      "id": "flaixbac",
+      "name": "Ràdio Flaixbac",
+      "shortName": "Flaixbac",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://stream.flaixbac.cat/icecast",
+      "streamType": "aac",
+      "fallbackUrls": [],
+      "website": "https://www.flaixbac.cat",
+      "logo": "flaixbac",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -8.4,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3925,
+        "lon": 2.1639
+      },
+      "band": "am",
+      "region": "barcelona",
+      "coverage": "territory"
+    },
+    {
+      "id": "coolturafm",
+      "name": "Cooltura FM",
+      "shortName": "Cooltura FM",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://server9.emitironline.com:19244/",
+      "streamType": "aac",
+      "fallbackUrls": [],
+      "website": "https://www.coolturafm.cat",
+      "logo": "coolturafm",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -26.6,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3825,
+        "lon": 2.1769
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiojoventut",
+      "name": "Ràdio Joventut",
+      "shortName": "Ràdio Joventut",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://stream.idelta.es/listen/radio_joventut/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radiojoventut.es/",
+      "logo": "radiojoventut",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.6,
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.3825,
+        "lon": 2.1769
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "terrassaradio",
+      "name": "Terrassa Ràdio",
+      "shortName": "Terrassa",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://control.streaming-pro.com:8002/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://canalterrassa.cat/radio",
+      "logo": "terrassaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19,
+      "place": {
+        "name": "Terrassa",
+        "area": "Vallès Occidental",
+        "lat": 41.5611,
+        "lon": 2.0081
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "onamar",
+      "name": "Ona Mar FM",
+      "shortName": "Ona Mar",
+      "territory": "catalunya",
+      "category": "musical",
+      "streamUrl": "https://streaming.enacast.com/onamar128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/onamar/streams/HD"
+      ],
+      "website": "https://onamar.net",
+      "logo": "onamar",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9.9,
+      "place": {
+        "name": "Badalona",
+        "area": "Barcelonès",
+        "lat": 41.4333,
+        "lon": 2.2333
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiob",
+      "name": "Ràdio Ciutat de Badalona",
+      "shortName": "Badalona",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiob128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiob/streams/HD"
+      ],
+      "website": "https://www.radiob.cat",
+      "logo": "radiob",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiob56.mp3",
+      "place": {
+        "name": "Badalona",
+        "area": "Barcelonès",
+        "lat": 41.4333,
+        "lon": 2.2333
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosantandreu",
+      "name": "Ràdio Sant Andreu",
+      "shortName": "Sant Andreu",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://directe.radiosantandreu.com/online",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiosantandreu.com/",
+      "logo": "radiosantandreu",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.1,
+      "place": {
+        "name": "Sant Andreu (Barcelona)",
+        "area": "Barcelonès",
+        "lat": 41.4355,
+        "lon": 2.1898
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "mataroradio",
+      "name": "Mataró Ràdio",
+      "shortName": "Mataró",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/mataroradioHD.mp3"
+      ],
+      "website": "https://www.tvmataro.cat/",
+      "logo": "mataroradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.4,
+      "lowBitrateUrl": "https://streaming.enacast.com/mataroradioSD.mp3",
+      "place": {
+        "name": "Mataró",
+        "area": "Maresme",
+        "lat": 41.5423,
+        "lon": 2.4392
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "cugatmedia",
+      "name": "Cugat Mèdia Ràdio",
+      "shortName": "Cugat Ràdio",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://directe.cugat.cat/directeHQ.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.cugat.cat",
+      "logo": "cugatmedia",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -16.5,
+      "lowBitrateUrl": "https://directe.cugat.cat/directe.mp3",
+      "place": {
+        "name": "Sant Cugat del Vallès",
+        "area": "Vallès Occidental",
+        "lat": 41.4735,
+        "lon": 2.0852
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocornella",
+      "name": "Ràdio Cornellà",
+      "shortName": "Cornellà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radiocornella/streams/SD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiocornella128.mp3"
+      ],
+      "website": "https://www.radiocornella.cat/",
+      "logo": "radiocornella",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.6,
+      "place": {
+        "name": "Cornellà de Llobregat",
+        "area": "Baix Llobregat",
+        "lat": 41.355,
+        "lon": 2.0711
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosantboi",
+      "name": "Ràdio Sant Boi",
+      "shortName": "Sant Boi",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiosantboi128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiosantboi/streams/HD"
+      ],
+      "website": "https://www.radiosantboi.cat/",
+      "logo": "radiosantboi",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.6,
+      "lowBitrateUrl": "https://enacast.com/radiosantboi/streams/SD",
+      "place": {
+        "name": "Sant Boi de Llobregat",
+        "area": "Baix Llobregat",
+        "lat": 41.3458,
+        "lon": 2.0417
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiorubi",
+      "name": "Ràdio Rubí",
+      "shortName": "Rubí",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiorubi128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiorubi/streams/HD"
+      ],
+      "website": "https://www.radiorubi.cat/",
+      "logo": "radiorubi",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiorubi56.mp3",
+      "place": {
+        "name": "Rubí",
+        "area": "Vallès Occidental",
+        "lat": 41.4933,
+        "lon": 2.0325
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocastelldefels",
+      "name": "Ràdio Castelldefels",
+      "shortName": "Castelldefels",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiocastelldefels128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiocastelldefels/streams/HD"
+      ],
+      "website": "",
+      "logo": "radiocastelldefels",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.2,
+      "place": {
+        "name": "Castelldefels",
+        "area": "Baix Llobregat",
+        "lat": 41.28,
+        "lon": 1.9767
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "elpratradio",
+      "name": "El Prat Ràdio",
+      "shortName": "El Prat",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://server.elprat.digital/stream.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.elprat.digital/radio/",
+      "logo": "elpratradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.9,
+      "place": {
+        "name": "el Prat de Llobregat",
+        "area": "Baix Llobregat",
+        "lat": 41.3246,
+        "lon": 2.0953
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiomollet",
+      "name": "Ràdio Mollet",
+      "shortName": "Mollet",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiomollet128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiomollet/streams/HD"
+      ],
+      "website": "https://www.radiomollet.com/",
+      "logo": "radiomollet",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.5,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiomollet56.mp3",
+      "place": {
+        "name": "Mollet del Vallès",
+        "area": "Vallès Oriental",
+        "lat": 41.5356,
+        "lon": 2.2107
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiogava",
+      "name": "Ràdio Gavà",
+      "shortName": "Gavà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radiogava/streams/SD",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiogava.cat/",
+      "logo": "radiogava",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.2,
+      "place": {
+        "name": "Gavà",
+        "area": "Baix Llobregat",
+        "lat": 41.3072,
+        "lon": 2.0039
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "ripolletradio",
+      "name": "Ripollet Ràdio",
+      "shortName": "Ripollet",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://directe.ripolletradio.cat/live",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.ripolletradio.cat",
+      "logo": "ripolletradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.1,
+      "place": {
+        "name": "Ripollet",
+        "area": "Vallès Occidental",
+        "lat": 41.4965,
+        "lon": 2.1534
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiobarbera",
+      "name": "Ràdio Barberà",
+      "shortName": "Barberà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiobarberaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiobarbera.cat/",
+      "logo": "radiobarbera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.9,
+      "place": {
+        "name": "Barberà del Vallès",
+        "area": "Vallès Occidental",
+        "lat": 41.5164,
+        "lon": 2.1244
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiopineda",
+      "name": "Ràdio Pineda",
+      "shortName": "Pineda",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiopineda128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopineda/streams/HD"
+      ],
+      "website": "https://www.radiopineda.cat/",
+      "logo": "radiopineda",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -8.4,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiopineda56.mp3",
+      "place": {
+        "name": "Pineda de Mar",
+        "area": "Maresme",
+        "lat": 41.6272,
+        "lon": 2.6911
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiopremiademar",
+      "name": "Ràdio Premià de Mar",
+      "shortName": "Premià de Mar",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiopremiademar128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopremiademar/streams/HD"
+      ],
+      "website": "https://premiamedia.cat/",
+      "logo": "radiopremiademar",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.1,
+      "place": {
+        "name": "Premià de Mar",
+        "area": "Maresme",
+        "lat": 41.492,
+        "lon": 2.362
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "molinsdereiradio",
+      "name": "Molins de Rei Ràdio",
+      "shortName": "Molins de Rei",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiomolins.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiomolinsderei.cat/",
+      "logo": "molinsdereiradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.4,
+      "place": {
+        "name": "Molins de Rei",
+        "area": "Baix Llobregat",
+        "lat": 41.4139,
+        "lon": 2.0158
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "olesaradio",
+      "name": "Olesa Ràdio",
+      "shortName": "Olesa",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30303/olesaradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/olesaradioHD.mp3"
+      ],
+      "website": "https://www.olesaradio.cat/",
+      "logo": "olesaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/olesaradioSD.mp3",
+      "place": {
+        "name": "Olesa de Montserrat",
+        "area": "Baix Llobregat",
+        "lat": 41.545,
+        "lon": 1.8944
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radioesparreguera",
+      "name": "Ràdio Esparreguera",
+      "shortName": "Esparreguera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30091/radioesparraguera128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radioesparraguera128.mp3"
+      ],
+      "website": "https://www.radioesparreguera.cat/",
+      "logo": "radioesparreguera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -31.1,
+      "place": {
+        "name": "Esparreguera",
+        "area": "Baix Llobregat",
+        "lat": 41.5381,
+        "lon": 1.8692
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "vilassarradio",
+      "name": "Vilassar Ràdio",
+      "shortName": "Vilassar",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiovilassardemarHD.mp3"
+      ],
+      "website": "https://vilassarradio.cat/",
+      "logo": "vilassarradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -15.4,
+      "place": {
+        "name": "Vilassar de Mar",
+        "area": "Maresme",
+        "lat": 41.5053,
+        "lon": 2.3928
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiodesvern",
+      "name": "Ràdio Desvern",
+      "shortName": "Desvern",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiodesvern128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiodesvern/streams/HD"
+      ],
+      "website": "https://www.radiodesvern.com/",
+      "logo": "radiodesvern",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -17.7,
+      "place": {
+        "name": "Sant Just Desvern",
+        "area": "Baix Llobregat",
+        "lat": 41.3833,
+        "lon": 2.075
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocalella",
+      "name": "Ràdio Calella",
+      "shortName": "Calella",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://sonic.sistemahost.es/8100/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://sonic.sistemahost.es:8100/stream"
+      ],
+      "website": "https://www.radiocalellatv.cat",
+      "logo": "radiocalella",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.3,
+      "place": {
+        "name": "Calella",
+        "area": "Maresme",
+        "lat": 41.6169,
+        "lon": 2.6642
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosantquirze",
+      "name": "Ràdio Sant Quirze",
+      "shortName": "Sant Quirze",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiosantquirzeHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiosantquirze/streams/HD"
+      ],
+      "website": "https://www.radiosantquirze.cat/",
+      "logo": "radiosantquirze",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -6.2,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiosantquirze56.mp3",
+      "place": {
+        "name": "Sant Quirze del Vallès",
+        "area": "Vallès Occidental",
+        "lat": 41.5301,
+        "lon": 2.082
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "onamalgrat",
+      "name": "Ona Malgrat",
+      "shortName": "Ona Malgrat",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/onamalgrat128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/onamalgrat/streams/HD"
+      ],
+      "website": "https://www.onamalgrat.cat/",
+      "logo": "onamalgrat",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9.3,
+      "place": {
+        "name": "Malgrat de Mar",
+        "area": "Maresme",
+        "lat": 41.6456,
+        "lon": 2.7428
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiotordera",
+      "name": "Ràdio Tordera",
+      "shortName": "Tordera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiotorderaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiotordera/streams/HD"
+      ],
+      "website": "https://radiotordera.cat/radio/",
+      "logo": "radiotordera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.4,
+      "place": {
+        "name": "Tordera",
+        "area": "Maresme",
+        "lat": 41.7008,
+        "lon": 2.72
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "punt7radiosantceloni",
+      "name": "Punt 7 Ràdio Sant Celoni",
+      "shortName": "Punt 7",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/punt7radiosantceloni128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/punt7radiosantceloni/streams/HD"
+      ],
+      "website": "https://www.radiosantceloni.cat/",
+      "logo": "punt7radiosantceloni",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/punt7radiosantceloni56.mp3",
+      "place": {
+        "name": "Sant Celoni",
+        "area": "Vallès Oriental",
+        "lat": 41.6895,
+        "lon": 2.4897
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "rap107",
+      "name": "RAP 107",
+      "shortName": "RAP 107",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30048/rap56.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.rap107.fm/",
+      "logo": "rap107",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.9,
+      "place": {
+        "name": "Parets del Vallès",
+        "area": "Vallès Oriental",
+        "lat": 41.5733,
+        "lon": 2.2337
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocaldes",
+      "name": "Ràdio Caldes",
+      "shortName": "Caldes",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30062/radiocaldes128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiocaldes128.mp3"
+      ],
+      "website": "https://www.radiocaldes.cat/",
+      "logo": "radiocaldes",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.7,
+      "place": {
+        "name": "Caldes de Montbui",
+        "area": "Vallès Oriental",
+        "lat": 41.6328,
+        "lon": 2.1675
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosilenci",
+      "name": "Ràdio Silenci",
+      "shortName": "Silenci",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiosilenci128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiosilenci/streams/HD"
+      ],
+      "website": "https://www.radiosilenci.cat",
+      "logo": "radiosilenci",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiosilenci56.mp3",
+      "place": {
+        "name": "la Garriga",
+        "area": "Vallès Oriental",
+        "lat": 41.6804,
+        "lon": 2.2833
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radioarenys",
+      "name": "Ràdio Arenys",
+      "shortName": "Arenys",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radioarenysdemar128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radioarenysdemar/streams/HD"
+      ],
+      "website": "https://www.radioarenys.cat",
+      "logo": "radioarenys",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -22,
+      "lowBitrateUrl": "https://streaming.enacast.com/radioarenysdemar56.mp3",
+      "place": {
+        "name": "Arenys de Mar",
+        "area": "Maresme",
+        "lat": 41.5819,
+        "lon": 2.5503
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiopalau",
+      "name": "Ràdio Palau",
+      "shortName": "Palau",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30123/radiopalau96.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopalau/streams/HD"
+      ],
+      "website": "https://www.radiopalau.cat/",
+      "logo": "radiopalau",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.4,
+      "place": {
+        "name": "Palau-solità i Plegamans",
+        "area": "Vallès Occidental",
+        "lat": 41.5876,
+        "lon": 2.1785
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocanet",
+      "name": "Ràdio Canet",
+      "shortName": "Canet",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30149/radiocanetdemar128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiocanetdemar128.mp3"
+      ],
+      "website": "https://www.radiocanet.cat",
+      "logo": "radiocanet",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.3,
+      "lowBitrateUrl": "https://enacast.com/radiocanetdemar/streams/SD",
+      "place": {
+        "name": "Canet de Mar",
+        "area": "Maresme",
+        "lat": 41.5911,
+        "lon": 2.5828
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radioabrera",
+      "name": "Ràdio Abrera",
+      "shortName": "Abrera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radioabrera128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radioabrera/streams/HD"
+      ],
+      "website": "https://www.radioabrera.cat/",
+      "logo": "radioabrera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radioabrera56.mp3",
+      "place": {
+        "name": "Abrera",
+        "area": "Baix Llobregat",
+        "lat": 41.5165,
+        "lon": 1.9024
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiollavaneres",
+      "name": "Ràdio Llavaneres",
+      "shortName": "Llavaneres",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiollavaneres128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiollavaneres/streams/HD"
+      ],
+      "website": "https://www.radiollavaneres.cat",
+      "logo": "radiollavaneres",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -4.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiollavaneres56.mp3",
+      "place": {
+        "name": "Sant Andreu de Llavaneres",
+        "area": "Maresme",
+        "lat": 41.5733,
+        "lon": 2.4828
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiovitamenia",
+      "name": "Ràdio Vitamènia",
+      "shortName": "Ràdio Vitamènia",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiovitameniaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiovitamenia/streams/HD"
+      ],
+      "website": "https://radiovitamenia.wordpress.com/",
+      "logo": "radiovitamenia",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -22.6,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiovitameniaSD.mp3",
+      "place": {
+        "name": "Santa Maria de Palautordera",
+        "area": "Vallès Oriental",
+        "lat": 41.6953,
+        "lon": 2.4458
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiopalafolls",
+      "name": "Ràdio Palafolls",
+      "shortName": "Palafolls",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com:8000/radiopalafolls128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopalafolls/streams/HD"
+      ],
+      "website": "https://radiopalafolls.cat/",
+      "logo": "radiopalafolls",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -5.7,
+      "place": {
+        "name": "Palafolls",
+        "area": "Maresme",
+        "lat": 41.6692,
+        "lon": 2.7506
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "matadeperaradio",
+      "name": "Matadepera Ràdio",
+      "shortName": "Matadepera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30360/radiomatadeperaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiomatadeperaHD.mp3"
+      ],
+      "website": "https://www.matadeperaradio.cat",
+      "logo": "matadeperaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -29.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiomatadeperaSD.mp3",
+      "place": {
+        "name": "Matadepera",
+        "area": "Vallès Occidental",
+        "lat": 41.6036,
+        "lon": 2.0244
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radioarenysdemunt",
+      "name": "Ràdio Arenys de Munt",
+      "shortName": "Arenys de Munt",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radioarenysdemunt/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radioarenysmunt.cat",
+      "logo": "radioarenysdemunt",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -15.4,
+      "lowBitrateUrl": "https://enacast.com/radioarenysdemunt/streams/SD",
+      "place": {
+        "name": "Arenys de Munt",
+        "area": "Maresme",
+        "lat": 41.6128,
+        "lon": 2.5403
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "vilassardedaltradio",
+      "name": "Vilassar de Dalt Ràdio",
+      "shortName": "Vilassar de Dalt",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiovilassardedalt128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiovilassardedalt/streams/HD"
+      ],
+      "website": "https://www.radiovilassardedalt.cat/",
+      "logo": "vilassardedaltradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiovilassardedalt56.mp3",
+      "place": {
+        "name": "Vilassar de Dalt",
+        "area": "Maresme",
+        "lat": 41.5164,
+        "lon": 2.3593
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosantesteve",
+      "name": "Ràdio Sant Esteve",
+      "shortName": "Sant Esteve",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30301/radiosantesteveHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiosantesteveHD.mp3"
+      ],
+      "website": "https://www.rtv10.cat/",
+      "logo": "radiosantesteve",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.3,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiosantesteveSD.mp3",
+      "place": {
+        "name": "Sant Esteve Sesrovires",
+        "area": "Baix Llobregat",
+        "lat": 41.495,
+        "lon": 1.8744
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiovila",
+      "name": "Ràdio Vila",
+      "shortName": "Ràdio Vila",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiovila128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiovila/streams/HD"
+      ],
+      "website": "https://www.radiovila.cat/",
+      "logo": "radiovila",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.2,
+      "place": {
+        "name": "Viladecavalls",
+        "area": "Vallès Occidental",
+        "lat": 41.5578,
+        "lon": 1.9558
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "onacodinenca",
+      "name": "Ona Codinenca",
+      "shortName": "Ona Codinenca",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30230/onacodinencaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/onacodinencaHD.mp3"
+      ],
+      "website": "https://onacodinenca.cat/",
+      "logo": "onacodinenca",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -22.6,
+      "lowBitrateUrl": "https://streaming.enacast.com/onacodinencaSD.mp3",
+      "place": {
+        "name": "Sant Feliu de Codines",
+        "area": "Vallès Oriental",
+        "lat": 41.6885,
+        "lon": 2.1647
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiosantvi",
+      "name": "Ràdio Santvi",
+      "shortName": "Ràdio Santvi",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://dhits.frilab.com:8443/santvi",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiosantvi.cat/",
+      "logo": "radiosantvi",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -7.8,
+      "place": {
+        "name": "Sant Vicenç de Montalt",
+        "area": "Maresme",
+        "lat": 41.5803,
+        "lon": 2.5086
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiocabrera",
+      "name": "Ràdio Cabrera",
+      "shortName": "Cabrera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streamcast1.ewserver.net/radio_cabrera",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://audiovisualcabrera.net/",
+      "logo": "radiocabrera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.7,
+      "place": {
+        "name": "Cabrera de Mar",
+        "area": "Maresme",
+        "lat": 41.5275,
+        "lon": 2.3956
+      },
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiovallromanes",
+      "name": "Ràdio Vallromanes",
+      "shortName": "Vallromanes",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30363/radiovallromanesHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiovallromanesHD.mp3"
+      ],
+      "website": "https://www.radiovallromanes.cat/",
+      "logo": "radiovallromanes",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "lowBitrateUrl": "https://relay.stream.enacast-cloud.com:30363/radiovallromanesSD.mp3",
+      "place": {
+        "name": "Vallromanes",
+        "area": "Vallès Oriental",
+        "lat": 41.5318,
+        "lon": 2.2982
+      },
+      "newUntil": "2026-11-16",
+      "band": "am",
+      "region": "barcelona"
+    },
+    {
+      "id": "radiomarina",
+      "name": "Ràdio Marina",
+      "shortName": "Ràdio Marina",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiomarina128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming.enantena.com:8000/radiomarina128.mp3",
+        "https://enacast.com/radiomarina/streams/HD"
+      ],
+      "website": "https://www.radiomarina.cat",
+      "logo": "radiomarina",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -15.6,
+      "place": {
+        "name": "Blanes",
+        "area": "Selva",
+        "lat": 41.674,
+        "lon": 2.7921
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radioolot",
+      "name": "Ràdio Olot",
+      "shortName": "Ràdio Olot",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://chrome2021.frilab.com:8443/olot",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://chrome.frilab.com:8000/radiolot"
+      ],
+      "website": "https://www.radiolot.cat",
+      "logo": "radioolot",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -7.1,
+      "place": {
+        "name": "Olot",
+        "area": "Garrotxa",
+        "lat": 42.1822,
+        "lon": 2.489
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "palafrugell",
+      "name": "Ràdio Palafrugell",
+      "shortName": "Palafrugell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://radio.martiproduccions.com/radiopalafrugell",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiopalafrugell.cat",
+      "logo": "palafrugell",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.2,
+      "place": {
+        "name": "Palafrugell",
+        "area": "Baix Empordà",
+        "lat": 41.9182,
+        "lon": 3.163
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiopalamos",
+      "name": "Ràdio Palamós",
+      "shortName": "Palamós",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiopalamosHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopalamos/streams/HD"
+      ],
+      "website": "https://www.palamoscomunicacio.cat/web/",
+      "logo": "radiopalamos",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.7,
+      "place": {
+        "name": "Palamós",
+        "area": "Baix Empordà",
+        "lat": 41.8495354,
+        "lon": 3.1278785
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiolabisbal",
+      "name": "Ràdio la Bisbal",
+      "shortName": "La Bisbal",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30038/radiobisbal128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiobisbal128.mp3"
+      ],
+      "website": "https://radio.labisbal.cat/",
+      "logo": "radiolabisbal",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.6,
+      "lowBitrateUrl": "https://enacast.com/radiobisbal/streams/SD",
+      "place": {
+        "name": "la Bisbal d'Empordà",
+        "area": "Baix Empordà",
+        "lat": 41.959,
+        "lon": 3.0378
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiocassa",
+      "name": "Ràdio Cassà",
+      "shortName": "Cassà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://eu1.lhdserver.es:9085/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiocassa.cat",
+      "logo": "radiocassa",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.7,
+      "place": {
+        "name": "Cassà de la Selva",
+        "area": "Gironès",
+        "lat": 41.8893,
+        "lon": 2.8742
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radioripoll",
+      "name": "Ràdio Ripoll",
+      "shortName": "Ripoll",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://eu1.lhdserver.es:3065/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://corisacat.cat/radio-ripoll-3/",
+      "logo": "radioripoll",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -7.1,
+      "place": {
+        "name": "Ripoll",
+        "area": "Ripollès",
+        "lat": 42.2011,
+        "lon": 2.1903
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "llagosteraradio",
+      "name": "Llagostera Ràdio",
+      "shortName": "Llagostera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:40248/llagosteraradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/llagosteraradioHD.mp3"
+      ],
+      "website": "https://www.llagosteraradio.cat/",
+      "logo": "llagosteraradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.8,
+      "place": {
+        "name": "Llagostera",
+        "area": "Gironès",
+        "lat": 41.8292,
+        "lon": 2.8933
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiovilafant",
+      "name": "Ràdio Vilafant",
+      "shortName": "Vilafant",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://sonic.mediatelekom.net/9986/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiovilafant.net/",
+      "logo": "radiovilafant",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -8.8,
+      "place": {
+        "name": "Vilafant",
+        "area": "Alt Empordà",
+        "lat": 42.2468,
+        "lon": 2.9379
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiocelra",
+      "name": "Ràdio Celrà",
+      "shortName": "Celrà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiocelra128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiocelra/streams/HD"
+      ],
+      "website": "https://radio.celra.cat/",
+      "logo": "radiocelra",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiocelra56.mp3",
+      "place": {
+        "name": "Celrà",
+        "area": "Gironès",
+        "lat": 42.0247,
+        "lon": 2.8789
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiobegur",
+      "name": "Ràdio Begur",
+      "shortName": "Begur",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiobegurHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiobegur.cat/",
+      "logo": "radiobegur",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiobegurSD.mp3",
+      "place": {
+        "name": "Begur",
+        "area": "Baix Empordà",
+        "lat": 41.9542,
+        "lon": 3.2088
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiosantgregori",
+      "name": "Ràdio Sant Gregori",
+      "shortName": "Sant Gregori",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://server10.emitironline.com:10296/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radio.santgregori.cat/",
+      "logo": "radiosantgregori",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -21,
+      "place": {
+        "name": "Sant Gregori",
+        "area": "Gironès",
+        "lat": 41.9893,
+        "lon": 2.7597
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiosantjoan",
+      "name": "Ràdio Sant Joan",
+      "shortName": "Sant Joan",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30332/rsjHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/rsjHD.mp3"
+      ],
+      "website": "https://www.rsj.cat/",
+      "logo": "radiosantjoan",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.9,
+      "lowBitrateUrl": "https://streaming.enacast.com/rsjSD.mp3",
+      "place": {
+        "name": "Sant Joan les Fonts",
+        "area": "Garrotxa",
+        "lat": 42.2125,
+        "lon": 2.5117
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiolesplanes",
+      "name": "Ràdio les Planes",
+      "shortName": "Les Planes",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://s131.radiolize.com/radio/8040/radio.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiolesplanes.com/",
+      "logo": "radiolesplanes",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -23,
+      "place": {
+        "name": "les Planes d'Hostoles",
+        "area": "Garrotxa",
+        "lat": 42.0566,
+        "lon": 2.5384
+      },
+      "band": "am",
+      "region": "girona"
+    },
+    {
+      "id": "radiomanresa",
+      "name": "Ràdio Manresa",
+      "shortName": "Manresa",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/taronjadigital-bages128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiomanresa.cat",
+      "logo": "radiomanresa",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -17.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/taronjadigital-bages56.mp3",
+      "place": {
+        "name": "Manresa",
+        "area": "Bages",
+        "lat": 41.7264,
+        "lon": 1.8292
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "el9fm",
+      "name": "El 9 FM",
+      "shortName": "El 9 FM",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://radio.el9fm.cat/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://radio.el9fm.cat:8000/stream"
+      ],
+      "website": "https://el9fm.cat",
+      "logo": "el9fm",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9.3,
+      "place": {
+        "name": "Vic",
+        "area": "Osona",
+        "lat": 41.9304,
+        "lon": 2.2546
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radioona",
+      "name": "Ràdio Ona",
+      "shortName": "Ràdio Ona",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30306/radioonaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radioonaHD.mp3"
+      ],
+      "website": "https://www.radioona.cat/",
+      "logo": "radioona",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radioonaSD.mp3",
+      "place": {
+        "name": "Torelló",
+        "area": "Osona",
+        "lat": 42.0492,
+        "lon": 2.2629
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "solsonafm",
+      "name": "Solsona FM",
+      "shortName": "Solsona FM",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/solsonafmHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/solsonafm/streams/HD"
+      ],
+      "website": "https://solsonafm.media/",
+      "logo": "solsonafm",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -19.2,
+      "place": {
+        "name": "Solsona",
+        "area": "Solsonès",
+        "lat": 41.9944,
+        "lon": 1.5178
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiosantfruitos",
+      "name": "Ràdio Sant Fruitós",
+      "shortName": "Sant Fruitós",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://ascella.streamerr.co/listen/radiosantfruitos/radio.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radiosantfruitos.cat/WEB/",
+      "logo": "radiosantfruitos",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.9,
+      "place": {
+        "name": "Sant Fruitós de Bages",
+        "area": "Bages",
+        "lat": 41.7507,
+        "lon": 1.8727
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiotaradell",
+      "name": "Ràdio Taradell",
+      "shortName": "Taradell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiotaradellHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiotaradell/streams/HD"
+      ],
+      "website": "https://www.taradell.cat/radio-taradell-107-7.html",
+      "logo": "radiotaradell",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9.7,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiotaradellSD.mp3",
+      "place": {
+        "name": "Taradell",
+        "area": "Osona",
+        "lat": 41.8737,
+        "lon": 2.2874
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiosuria",
+      "name": "Ràdio Súria",
+      "shortName": "Súria",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30287/radiosuriaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiosuriaHD.mp3"
+      ],
+      "website": "https://www.radiosuria.cat/",
+      "logo": "radiosuria",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiosuriaSD.mp3",
+      "place": {
+        "name": "Súria",
+        "area": "Bages",
+        "lat": 41.8311,
+        "lon": 1.7526
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiopuigreig",
+      "name": "Ràdio Puig-reig",
+      "shortName": "Puig-reig",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiopuigreig128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiopuig-reig.net",
+      "logo": "radiopuigreig",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -7.8,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiopuigreig56.mp3",
+      "place": {
+        "name": "Puig-reig",
+        "area": "Berguedà",
+        "lat": 41.9742,
+        "lon": 1.8806
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiopista",
+      "name": "Ràdio Pista",
+      "shortName": "Ràdio Pista",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiopista128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiopista/streams/HD"
+      ],
+      "website": "https://www.radiopista.cat/",
+      "logo": "radiopista",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9.9,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiopista56.mp3",
+      "place": {
+        "name": "Balenyà",
+        "area": "Osona",
+        "lat": 41.8129,
+        "lon": 2.2348
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "voltregaradio",
+      "name": "Voltregà Ràdio",
+      "shortName": "Voltregà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.radiovoltrega.com/directe",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiovoltrega.com",
+      "logo": "voltregaradio",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -12.6,
+      "place": {
+        "name": "Sant Hipòlit de Voltregà",
+        "area": "Osona",
+        "lat": 42.0172,
+        "lon": 2.2389
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radiomontesquiu",
+      "name": "Ràdio Montesquiu",
+      "shortName": "Montesquiu",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/montesquiuHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/montesquiu/streams/HD"
+      ],
+      "website": "https://www.montesquiu.cat/el-municipi/guia-del-municipi/equipaments/radio-montesquiu.html",
+      "logo": "radiomontesquiu",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.2,
+      "place": {
+        "name": "Montesquiu",
+        "area": "Osona",
+        "lat": 42.1111,
+        "lon": 2.2106
+      },
+      "band": "am",
+      "region": "catalunya-central"
+    },
+    {
+      "id": "radioelvendrell",
+      "name": "Ràdio el Vendrell",
+      "shortName": "El Vendrell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/rtvelvendrell/streams/SD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/rtvelvendrell128.mp3"
+      ],
+      "website": "https://www.rtvelvendrell.cat/directes/radio/",
+      "logo": "radioelvendrell",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.6,
+      "place": {
+        "name": "el Vendrell",
+        "area": "Baix Penedès",
+        "lat": 41.2201,
+        "lon": 1.5348
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "calafellradio",
+      "name": "Calafell Ràdio",
+      "shortName": "Calafell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/calafellradio128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/calafellradio/streams/HD"
+      ],
+      "website": "https://calafell.tv/",
+      "logo": "calafellradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.5,
+      "lowBitrateUrl": "https://streaming.enacast.com/calafellradio56.mp3",
+      "place": {
+        "name": "Calafell",
+        "area": "Baix Penedès",
+        "lat": 41.2004,
+        "lon": 1.5693
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "radiomaricel",
+      "name": "Ràdio Maricel",
+      "shortName": "Ràdio Maricel",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiomaricel.cat/",
+      "logo": "radiomaricel",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -21.8,
+      "place": {
+        "name": "Sitges",
+        "area": "Garraf",
+        "lat": 41.2339,
+        "lon": 1.8042
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "radiopiera",
+      "name": "Ràdio Piera",
+      "shortName": "Piera",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://rapiera-mscsoft.radioca.st/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radiopiera.online/",
+      "logo": "radiopiera",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.4,
+      "place": {
+        "name": "Piera",
+        "area": "Anoia",
+        "lat": 41.5222,
+        "lon": 1.7494
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "radiocubelles",
+      "name": "Ràdio Cubelles",
+      "shortName": "Cubelles",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/cubelles128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiocubelles.cat/",
+      "logo": "radiocubelles",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -11.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/cubelles56.mp3",
+      "place": {
+        "name": "Cubelles",
+        "area": "Garraf",
+        "lat": 41.21,
+        "lon": 1.6736
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "radiogelida",
+      "name": "Ràdio Gelida",
+      "shortName": "Gelida",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://gelida.raudio.es/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radiogelida.cat/",
+      "logo": "radiogelida",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -18.6,
+      "place": {
+        "name": "Gelida",
+        "area": "Alt Penedès",
+        "lat": 41.4409,
+        "lon": 1.8647
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "onalatorre",
+      "name": "Ona La Torre",
+      "shortName": "Ona La Torre",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/onalatorreSD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/onalatorre/streams/HD"
+      ],
+      "website": "https://www.ona-latorre.cat/",
+      "logo": "onalatorre",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.9,
+      "place": {
+        "name": "la Torre de Claramunt",
+        "area": "Anoia",
+        "lat": 41.5353,
+        "lon": 1.6608
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "sarrocaradio",
+      "name": "Sarroca Ràdio",
+      "shortName": "Sarroca",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/santmartisarrocaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/santmartisarroca/streams/HD"
+      ],
+      "website": "https://www.santmartisarroca.cat/sarrocaradio/",
+      "logo": "sarrocaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -23,
+      "lowBitrateUrl": "https://streaming.enacast.com/santmartisarrocaSD.mp3",
+      "place": {
+        "name": "Sant Martí Sarroca",
+        "area": "Alt Penedès",
+        "lat": 41.3872,
+        "lon": 1.6119
+      },
+      "band": "am",
+      "region": "penedes"
+    },
+    {
+      "id": "onabitlles",
+      "name": "OnaBitlles",
+      "shortName": "OnaBitlles",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/onabitlles128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/onabitlles/streams/HD"
+      ],
+      "website": "https://www.onabitlles.cat",
+      "logo": "onabitlles",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.4,
+      "lowBitrateUrl": "https://streaming.enacast.com/onabitlles56.mp3",
+      "place": {
+        "name": "Sant Pere de Riudebitlles",
+        "area": "Alt Penedès",
+        "lat": 41.4525,
+        "lon": 1.7047
+      },
+      "band": "am",
+      "region": "penedes",
+      "outage": {
+        "since": "2026-11-09",
+        "message": "L'emissió per internet de OnaBitlles no funciona des del 9 de novembre. Ja ho sabem i ho seguim."
+      }
+    },
+    {
+      "id": "radiociutatdetarragona",
+      "name": "Ràdio Ciutat de Tarragona",
+      "shortName": "Ciutat de Tarragona",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://rctgn.streaming-pro.com:6150/stream",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://rctgn.cat",
+      "logo": "radiociutatdetarragona",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.8,
+      "place": {
+        "name": "Tarragona",
+        "area": "Tarragonès",
+        "lat": 41.1175,
+        "lon": 1.2528
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "rodadeberaradio",
+      "name": "Roda de Berà Ràdio",
+      "shortName": "Roda de Berà",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30336/radiorodadeberaHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiorodadeberaHD.mp3"
+      ],
+      "website": "https://www.rodadeberaradio.cat/",
+      "logo": "rodadeberaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiorodadeberaSD.mp3",
+      "place": {
+        "name": "Roda de Berà",
+        "area": "Tarragonès",
+        "lat": 41.1857,
+        "lon": 1.4568
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "radiomontblanc",
+      "name": "Ràdio Montblanc",
+      "shortName": "Montblanc",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30045/radiomontblanc128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiomontblanc128.mp3"
+      ],
+      "website": "https://www.radiomontblanc.cat/",
+      "logo": "radiomontblanc",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.3,
+      "lowBitrateUrl": "https://enacast.com/radiomontblanc/streams/SD",
+      "place": {
+        "name": "Montblanc",
+        "area": "Conca de Barberà",
+        "lat": 41.3764,
+        "lon": 1.1639
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "radiolhospitaletdelinfant",
+      "name": "Ràdio l'Hospitalet de l'Infant",
+      "shortName": "L'Hospitalet",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiohospitalet128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiohospitalet/streams/HD"
+      ],
+      "website": "https://www.radiohospitalet.cat/",
+      "logo": "radiolhospitaletdelinfant",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14.9,
+      "lowBitrateUrl": "https://streaming.enacast.com/radiohospitalet56.mp3",
+      "place": {
+        "name": "l'Hospitalet de l'Infant",
+        "area": "Baix Camp",
+        "lat": 40.9925,
+        "lon": 0.9236
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "constantiradio",
+      "name": "Constantí Ràdio",
+      "shortName": "Constantí",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radioconstantiSD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radioconstanti/streams/HD"
+      ],
+      "website": "https://www.constantiradio.cat/",
+      "logo": "constantiradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.3,
+      "place": {
+        "name": "Constantí",
+        "area": "Tarragonès",
+        "lat": 41.1532,
+        "lon": 1.2143
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "radiolaselva",
+      "name": "Ràdio la Selva",
+      "shortName": "La Selva",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiolaselva128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiolaselva/streams/HD"
+      ],
+      "website": "https://www.radiolaselva.cat",
+      "logo": "radiolaselva",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -13.4,
+      "lowBitrateUrl": "https://enacast.com/radiolaselva/streams/SD",
+      "place": {
+        "name": "la Selva del Camp",
+        "area": "Baix Camp",
+        "lat": 41.2155,
+        "lon": 1.1373
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "radiomorell",
+      "name": "Ràdio Morell",
+      "shortName": "Morell",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiomorellSD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.radiomorell.cat/",
+      "logo": "radiomorell",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -16.8,
+      "place": {
+        "name": "el Morell",
+        "area": "Tarragonès",
+        "lat": 41.1922,
+        "lon": 1.2087
+      },
+      "band": "am",
+      "region": "camp-de-tarragona"
+    },
+    {
+      "id": "ampostaradio",
+      "name": "Amposta Ràdio",
+      "shortName": "Amposta",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "http://endirecte.amposta.cat:8000/radio",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://www.amposta.cat",
+      "logo": "ampostaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.5,
+      "place": {
+        "name": "Amposta",
+        "area": "Montsià",
+        "lat": 40.7106,
+        "lon": 0.5808
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "radiorapita",
+      "name": "Ràdio Ràpita",
+      "shortName": "Ràpita",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiorapita128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiorapita/streams/HD"
+      ],
+      "website": "https://www.radiorapita.cat",
+      "logo": "radiorapita",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14,
+      "place": {
+        "name": "la Ràpita",
+        "area": "Montsià",
+        "lat": 40.6203,
+        "lon": 0.5927
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "alcanarradio",
+      "name": "Alcanar Ràdio",
+      "shortName": "Alcanar",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30241/alcanarradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/alcanarradioHD.mp3"
+      ],
+      "website": "https://www.alcanarradio.cat/",
+      "logo": "alcanarradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.6,
+      "lowBitrateUrl": "https://streaming.enacast.com/alcanarradioSD.mp3",
+      "place": {
+        "name": "Alcanar",
+        "area": "Montsià",
+        "lat": 40.543,
+        "lon": 0.4808
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "antenacaro",
+      "name": "Antena Caro",
+      "shortName": "Antena Caro",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/antenacaro128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/antenacaro/streams/HD"
+      ],
+      "website": "https://antenacaro.cat/",
+      "logo": "antenacaro",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -7.3,
+      "lowBitrateUrl": "https://streaming.enacast.com/antenacaro56.mp3",
+      "place": {
+        "name": "Roquetes",
+        "area": "Baix Ebre",
+        "lat": 40.8206,
+        "lon": 0.5025
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "radioulldecona",
+      "name": "Ràdio Ulldecona",
+      "shortName": "Ulldecona",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/radioulldecona/streams/HD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radioulldecona128.mp3"
+      ],
+      "website": "https://www.uradio.cat/",
+      "logo": "radioulldecona",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -14,
+      "lowBitrateUrl": "https://enacast.com/radioulldecona/streams/SD",
+      "place": {
+        "name": "Ulldecona",
+        "area": "Montsià",
+        "lat": 40.5981,
+        "lon": 0.4482
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "laplanaradio",
+      "name": "La Plana Ràdio",
+      "shortName": "La Plana",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/laplanaradio128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming.enantena.com:8000/laplanaradio56.mp3",
+        "https://enacast.com/laplanaradio/streams/HD"
+      ],
+      "website": "https://www.laplanaradio.cat",
+      "logo": "laplanaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -21.6,
+      "lowBitrateUrl": "https://streaming.enacast.com/laplanaradio56.mp3",
+      "place": {
+        "name": "Santa Bàrbara",
+        "area": "Montsià",
+        "lat": 40.7146,
+        "lon": 0.4929
+      },
+      "band": "am",
+      "region": "terres-de-l-ebre"
+    },
+    {
+      "id": "radiotarrega",
+      "name": "Ràdio Tàrrega",
+      "shortName": "Tàrrega",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/radiotarrega128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/radiotarrega/streams/HD"
+      ],
+      "website": "https://www.radiotarrega.cat",
+      "logo": "radiotarrega",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -9,
+      "place": {
+        "name": "Tàrrega",
+        "area": "Urgell",
+        "lat": 41.6464,
+        "lon": 1.1394
+      },
+      "band": "am",
+      "region": "lleida"
+    },
+    {
+      "id": "alpicatradio",
+      "name": "Alpicat Ràdio",
+      "shortName": "Alpicat",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://enacast.com/alpicatradio/streams/SD",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/alpicatradio128.mp3"
+      ],
+      "website": "https://www.alpicatradio.com",
+      "logo": "alpicatradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.4,
+      "place": {
+        "name": "Alpicat",
+        "area": "Segrià",
+        "lat": 41.6681,
+        "lon": 0.5561
+      },
+      "band": "am",
+      "region": "lleida"
+    },
+    {
+      "id": "radiosioagramunt",
+      "name": "Ràdio Sió Agramunt",
+      "shortName": "Ràdio Sió",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30300/radiosioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/radiosioHD.mp3"
+      ],
+      "website": "https://www.radiosio.cat/",
+      "logo": "radiosioagramunt",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.2,
+      "place": {
+        "name": "Agramunt",
+        "area": "Urgell",
+        "lat": 41.7863,
+        "lon": 1.0964
+      },
+      "band": "am",
+      "region": "lleida"
+    },
+    {
+      "id": "emunfmradio",
+      "name": "Emun FM",
+      "shortName": "Emun FM",
+      "territory": "catalunya",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30209/emunfmradioSD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/emunfmradio/streams/HD"
+      ],
+      "website": "https://www.emunfmradio.cat/",
+      "logo": "emunfmradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -20.7,
+      "place": {
+        "name": "Torrefarrera",
+        "area": "Segrià",
+        "lat": 41.675,
+        "lon": 0.6081
+      },
+      "band": "am",
+      "region": "lleida"
+    },
+    {
+      "id": "andorramusica",
+      "name": "Andorra Música",
+      "shortName": "Andorra Música",
+      "territory": "andorra",
+      "category": "musical",
+      "streamUrl": "https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/e2b4dcb0-7ae3-4335-992a-23ba82e529b3/manifest.m3u8",
+      "streamType": "hls",
+      "fallbackUrls": [],
+      "website": "https://www.rtva.ad/en-directe/am",
+      "logo": "andorramusica",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.8,
+      "place": {
+        "name": "Andorra la Vella",
+        "area": "Andorra",
+        "lat": 42.5069,
+        "lon": 1.5213
+      },
+      "band": "am",
+      "region": "andorra",
+      "coverage": "territory"
+    },
+    {
+      "id": "aldaiaradio",
+      "name": "Aldaia Ràdio",
+      "shortName": "Aldaia",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30223/aldaiaradioHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/aldaiaradioHD.mp3"
+      ],
+      "website": "https://www.aldaiaradio.com/",
+      "logo": "aldaiaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.1,
+      "lowBitrateUrl": "https://streaming.enacast.com/aldaiaradioSD.mp3",
+      "place": {
+        "name": "Aldaia",
+        "area": "Horta Sud",
+        "lat": 39.4600981,
+        "lon": -0.4805803
+      },
+      "band": "am",
+      "region": "pais-valencia"
+    },
+    {
+      "id": "radiolom",
+      "name": "Ràdio l'Om",
+      "shortName": "Ràdio l'Om",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://radiolom.es:8800/;stream.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://radiolom.es",
+      "logo": "radiolom",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -10.1,
+      "place": {
+        "name": "Picassent",
+        "area": "Horta Sud",
+        "lat": 39.363519,
+        "lon": -0.4611789
+      },
+      "band": "am",
+      "region": "pais-valencia"
+    },
+    {
+      "id": "laveudondara",
+      "name": "La Veu d'Ondara",
+      "shortName": "La Veu d'Ondara",
+      "territory": "pais-valencia",
+      "category": "local",
+      "streamUrl": "https://relay.stream.enacast-cloud.com:40235/laveudondaraHD.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://streaming.enacast.com/laveudondaraHD.mp3"
+      ],
+      "website": "https://laveu.ondara.org/",
+      "logo": "laveudondara",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -8.6,
+      "lowBitrateUrl": "https://streaming.enacast.com/laveudondaraSD.mp3",
+      "place": {
+        "name": "Ondara",
+        "area": "Marina Alta",
+        "lat": 38.8277759,
+        "lon": 0.0170054
+      },
+      "band": "am",
+      "region": "pais-valencia"
+    },
+    {
+      "id": "ib3musica",
+      "name": "IB3 Música",
+      "shortName": "IB3 Música",
+      "territory": "illes-balears",
+      "category": "musical",
+      "streamUrl": "https://icecast.ib3radio.com/ib3musica.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming01.ib3radio.com:8000/ib3musica.mp3"
+      ],
+      "website": "https://ib3.org",
+      "logo": "ib3",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -19.5,
+      "badge": "Música",
+      "place": {
+        "name": "Palma",
+        "area": "Mallorca",
+        "lat": 39.5651,
+        "lon": 2.663
+      },
+      "band": "am",
+      "region": "illes-balears",
+      "coverage": "territory"
+    },
+    {
+      "id": "onamed",
+      "name": "Ona Mediterrània",
+      "shortName": "Ona Med",
+      "territory": "illes-balears",
+      "category": "generalista",
+      "streamUrl": "https://streaming.enacast.com/onamediterrania128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "http://streaming.enantena.com:8000/onamediterrania128.mp3",
+        "https://enacast.com/onamediterrania/streams/HD"
+      ],
+      "website": "https://www.onamediterrania.cat",
+      "logo": "onamed",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -12.5,
+      "lowBitrateUrl": "https://streaming.enacast.com/onamediterrania56.mp3",
+      "place": {
+        "name": "Palma",
+        "area": "Mallorca",
+        "lat": 39.5666,
+        "lon": 2.6526
+      },
+      "band": "am",
+      "region": "illes-balears",
+      "coverage": "territory"
+    },
+    {
+      "id": "alcudiaradio",
+      "name": "Alcúdia Ràdio",
+      "shortName": "Alcúdia",
+      "territory": "illes-balears",
+      "category": "local",
+      "streamUrl": "https://streaming.enacast.com/alcudiaradio128.mp3",
+      "streamType": "mp3",
+      "fallbackUrls": [
+        "https://enacast.com/alcudiaradio/streams/HD"
+      ],
+      "website": "https://www.alcudia.net",
+      "logo": "alcudiaradio",
+      "hasIcyMetadata": false,
+      "lang": "ca",
+      "loudnessLufs": -24.4,
+      "lowBitrateUrl": "https://streaming.enacast.com/alcudiaradio56.mp3",
+      "place": {
+        "name": "Alcúdia",
+        "area": "Mallorca",
+        "lat": 39.8525,
+        "lon": 3.1192
+      },
+      "band": "am",
+      "region": "illes-balears"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+# Cada 15 minuts: notícies de cada zona a la branca `noticies` (un sol commit, sense historial).
+# Cada passada engega la següent (el cron de GitHub sovint no arrenca); el cron queda de reserva.
+name: Notícies
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: noticies
+  cancel-in-progress: false
+jobs:
+  agrega:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - run: echo "INICI=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: estat.json
+          key: noticies-estat-${{ github.run_id }}
+          restore-keys: noticies-estat-
+      - name: Branca de notícies
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          url="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git clone -q --depth 1 --branch noticies "$url" sortida || { git init -q sortida && git -C sortida remote add origin "$url"; }
+      - name: Agrega
+        run: python3 noticies/agrega.py --sortida sortida/v1/noticies --estat estat.json
+      - name: Publica si ha canviat
+        working-directory: sortida
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git rev-parse -q --verify HEAD >/dev/null && git diff --cached --quiet; then echo "Sense canvis."; exit 0; fi
+          git checkout -q --orphan nova
+          git commit -q -m "Notícies"
+          git push -q -f origin nova:noticies
+      - uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        if: always()
+        with:
+          path: estat.json
+          key: noticies-estat-${{ github.run_id }}
+      - name: Encadena la següent
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          espera=$(( INICI + 840 - $(date +%s) ))
+          if [ "$espera" -gt 0 ]; then sleep "$espera"; fi
+          for i in 1 2 3 4 5; do
+            if gh workflow run noticies.yml --repo "${{ github.repository }}" --ref main; then exit 0; fi
+            echo "No s'ha pogut encadenar (intent $i); torno a provar d'aquí a 30 s"
+            sleep 30
+          done
+          exit 1

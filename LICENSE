@@ -1,0 +1,20 @@
+© 2026 llenguaviva.cat. Tots els drets reservats.
+
+La selecció, l'ordenació i les dades d'aquest repositori (incloses les mesures de sonoritat) formen una base de dades protegida pels articles 133 i següents de la Llei de propietat intel·lectual. No se'n permet l'extracció ni la reutilització, totals o parcials, sense permís escrit.
+
+Els noms, els logos i les marques de les emissores són dels seus titulars.
+
+Permisos: https://llenguaviva.cat/contacte.html
+
+«Avui» (v1/avui.json i v1/avui-dies.json)
+
+Els textos de v1/avui.json (els poemes) i de v1/avui-dies.json (el santoral, els refranys i els dies mundials) no són nostres i no entren en la reserva de drets d'aquest repositori, que només hi cobreix la selecció i l'ordenació. Cada text conserva la seva condició, que cada fitxer indica a «fonts» i, peça per peça, a «fontId»:
+
+- Poemes (v1/avui.json): domini públic (autors morts fa més de 80 anys i obres publicades fins al 1930), transcrits a Viquitexts (ca.wikisource.org).
+- Santoral (v1/avui-dies.json): Viquipèdia en català (ca.wikipedia.org), pàgines de cada dia, i Viquipèdia en anglès (General Roman Calendar), Creative Commons BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
+- Refranys (v1/avui-dies.json):
+  - Víctor Pàmies, Refranyer temàtic (tematic.dites.cat), Creative Commons BY 2.5: https://creativecommons.org/licenses/by/2.5/es/deed.ca
+  - Viquidites (ca.wikiquote.org), Creative Commons BY-SA 4.0.
+  - Jose Gargallo Gregori, El Refranyer (elrefranyer.com): reproduïts amb permís de l'autor; per reutilitzar-los cal el seu permís.
+  - Joan Carles Amat, Quatre cents aforismes cathalans (1718), i Carles Ros, Tratat de adages y refranys valencians (1788): domini públic.
+- Dies mundials (v1/avui-dies.json): Nacions Unides; noms en català del calendari del Parlament de Catalunya o traduïts per nosaltres.

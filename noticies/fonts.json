@@ -1,0 +1,1315 @@
+{
+  "version": 1,
+  "default": "paisos-catalans",
+  "controls": {
+    "www.elpuntavui.cat": "https://www.elpuntavui.cat/xyzinexistent.feed?type=rss",
+    "naciodigital.cat": "https://naciodigital.cat/feed/xyzinexistent"
+  },
+  "territories": {
+    "catalunya": "paisos-catalans",
+    "pais-valencia": "pais-valencia",
+    "illes-balears": "illes-balears",
+    "andorra": "andorra",
+    "catalunya-nord": "catalunya-nord",
+    "franja": "paisos-catalans",
+    "alguer": "paisos-catalans"
+  },
+  "stations": {
+    "alcanarradio": "terres-ebre",
+    "alcudiaradio": "illes-balears",
+    "aldaiaradio": "horta",
+    "alpicatradio": "lleida",
+    "ampostaradio": "terres-ebre",
+    "andorramusica": "andorra",
+    "antenacaro": "terres-ebre",
+    "apuntfm": "pais-valencia",
+    "arrels": "catalunya-nord",
+    "calafellradio": "penedes",
+    "canalblau": "penedes",
+    "constantiradio": "tarragona",
+    "coolturafm": "barcelona",
+    "cugatmedia": "sant-cugat",
+    "el9fm": "osona",
+    "elpratradio": "el-prat",
+    "emunfmradio": "lleida",
+    "gironafm": "girona",
+    "ib3": "illes-balears",
+    "ib3menorca": "menorca",
+    "ib3musica": "illes-balears",
+    "ib3pitiuses": "pitiuses",
+    "imaginaradio": "terres-ebre",
+    "laplanaradio": "terres-ebre",
+    "laveudondara": "pais-valencia",
+    "llagosteraradio": "girona",
+    "matadeperaradio": "valles-occidental",
+    "mataroradio": "maresme",
+    "molinsdereiradio": "baix-llobregat",
+    "olesaradio": "baix-llobregat",
+    "onabitlles": "penedes",
+    "onacodinenca": "codines",
+    "onalatorre": "anoia",
+    "onamalgrat": "maresme",
+    "onamar": "badalona",
+    "onamed": "illes-balears",
+    "palafrugell": "emporda",
+    "punt7radiosantceloni": "valles-oriental",
+    "radioabrera": "baix-llobregat",
+    "radioaltea": "pais-valencia",
+    "radioarenys": "maresme",
+    "radioarenysdemunt": "maresme",
+    "radiob": "badalona",
+    "radiobarbera": "valles-occidental",
+    "radiobegur": "emporda",
+    "radiobenicarlo": "pais-valencia",
+    "radiocabrera": "maresme",
+    "radiocaldes": "valles-oriental",
+    "radiocalella": "maresme",
+    "radiocanet": "maresme",
+    "radiocassa": "girona",
+    "radiocastelldefels": "baix-llobregat",
+    "radiocelra": "girona",
+    "radiociutatdetarragona": "tarragona",
+    "radiocornella": "baix-llobregat",
+    "radiocubelles": "penedes",
+    "radiodesvern": "baix-llobregat",
+    "radioelvendrell": "penedes",
+    "radioesparreguera": "baix-llobregat",
+    "radiogava": "baix-llobregat",
+    "radiogelida": "penedes",
+    "radiojoventut": "barcelona",
+    "radiolabisbal": "emporda",
+    "radiolaselva": "baix-camp",
+    "radiolesplanes": "les-planes",
+    "radiolhospitaletdelinfant": "baix-camp",
+    "radiollavaneres": "maresme",
+    "radiolom": "horta",
+    "radiomanresa": "catalunya-central",
+    "radiomaricel": "sitges",
+    "radiomarina": "selva",
+    "radiomollet": "valles-oriental",
+    "radiomontblanc": "conca-de-barbera",
+    "radiomontesquiu": "osona",
+    "radiomorell": "tarragona",
+    "radioolot": "garrotxa",
+    "radioona": "osona",
+    "radiopalafolls": "palafolls",
+    "radiopalamos": "emporda",
+    "radiopalau": "valles-occidental",
+    "radiopiera": "anoia",
+    "radiopineda": "maresme",
+    "radiopista": "osona",
+    "radiopremiademar": "maresme",
+    "radiopuigreig": "catalunya-central",
+    "radiorapita": "terres-ebre",
+    "radioribaroja": "horta",
+    "radioripoll": "ripolles",
+    "radiorubi": "valles-occidental",
+    "radiosabadell": "sabadell",
+    "radiosantandreu": "sant-andreu",
+    "radiosantboi": "baix-llobregat",
+    "radiosantesteve": "baix-llobregat",
+    "radiosantfruitos": "catalunya-central",
+    "radiosantgregori": "girona",
+    "radiosantjoan": "garrotxa",
+    "radiosantquirze": "valles-occidental",
+    "radiosantvi": "maresme",
+    "radioseu": "alt-urgell",
+    "radiosilenci": "valles-oriental",
+    "radiosioagramunt": "urgell",
+    "radiosuria": "catalunya-central",
+    "radiotaradell": "osona",
+    "radiotarrega": "urgell",
+    "radiotordera": "tordera",
+    "radioulldecona": "ulldecona",
+    "radiovic": "osona",
+    "radiovila": "valles-occidental",
+    "radiovilablareix": "girona",
+    "radiovilafant": "emporda",
+    "radiovitamenia": "valles-oriental",
+    "rap107": "valles-oriental",
+    "ripolletradio": "valles-occidental",
+    "rna": "andorra",
+    "rodadeberaradio": "tarragona",
+    "sarrocaradio": "penedes",
+    "solsonafm": "solsones",
+    "tarragonaradio": "tarragona",
+    "terrassaradio": "terrassa",
+    "ua1lleida": "lleida",
+    "vilassardedaltradio": "maresme",
+    "vilassarradio": "maresme",
+    "voltregaradio": "osona",
+    "radiovallromanes": "valles-oriental"
+  },
+  "zones": {
+    "paisos-catalans": {
+      "name": "Països Catalans",
+      "title": "Notícies dels Països Catalans",
+      "fallback": null,
+      "sources": [
+        "vilaweb",
+        "324",
+        "ara",
+        "nacio",
+        "elnacional",
+        "elnacional-directe",
+        "elpunt",
+        "eltemps",
+        "directa",
+        "critic",
+        "apunt",
+        "ib3"
+      ],
+      "maxPerSource": 4
+    },
+    "pais-valencia": {
+      "name": "País Valencià",
+      "title": "Notícies del País Valencià",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "apunt",
+        "laveu",
+        "valenciadiari",
+        "vilaweb-pv"
+      ]
+    },
+    "illes-balears": {
+      "name": "Illes Balears",
+      "title": "Notícies de les Illes Balears",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "ib3",
+        "arabalears",
+        "dbalears",
+        "epa-mallorca"
+      ]
+    },
+    "menorca": {
+      "name": "Menorca",
+      "title": "Notícies de Menorca",
+      "fallback": "illes-balears",
+      "sources": [
+        "aramenorca",
+        "epa-menorca"
+      ]
+    },
+    "andorra": {
+      "name": "Andorra",
+      "title": "Notícies d'Andorra",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "diariandorra",
+        "periodicad",
+        "bondia",
+        "andorraara"
+      ]
+    },
+    "catalunya-nord": {
+      "name": "Catalunya del Nord",
+      "title": "Notícies de la Catalunya del Nord",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "arrels",
+        "epa-rossello",
+        "vilaweb-cn"
+      ]
+    },
+    "valles-occidental": {
+      "name": "Vallès Occidental",
+      "title": "Notícies del Vallès Occidental",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "epa-vallesocc",
+        "diarisabadell",
+        "diariterrassa",
+        "radiosabadell",
+        "canalterrassa",
+        "cugat",
+        "totsantcugat",
+        "isabadell"
+      ]
+    },
+    "sant-cugat": {
+      "name": "Sant Cugat",
+      "title": "Notícies de Sant Cugat",
+      "fallback": "valles-occidental",
+      "sources": [
+        "cugat",
+        "totsantcugat",
+        "epa-santcugat"
+      ]
+    },
+    "sabadell": {
+      "name": "Sabadell",
+      "title": "Notícies de Sabadell",
+      "fallback": "valles-occidental",
+      "sources": [
+        "radiosabadell",
+        "diarisabadell",
+        "isabadell",
+        "epa-sabadell"
+      ]
+    },
+    "terrassa": {
+      "name": "Terrassa",
+      "title": "Notícies de Terrassa",
+      "fallback": "valles-occidental",
+      "sources": [
+        "canalterrassa",
+        "diariterrassa",
+        "epa-terrassa"
+      ]
+    },
+    "valles-oriental": {
+      "name": "Vallès Oriental",
+      "title": "Notícies del Vallès Oriental",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "el9nou-vo",
+        "epa-vallesor"
+      ]
+    },
+    "osona": {
+      "name": "Osona",
+      "title": "Notícies d'Osona",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "el9nou-osona",
+        "nacio-osona",
+        "epa-osona",
+        "epa-vic"
+      ]
+    },
+    "girona": {
+      "name": "Girona",
+      "title": "Notícies de Girona",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "diarigirona",
+        "epa-girona",
+        "epa-girones"
+      ]
+    },
+    "garrotxa": {
+      "name": "Garrotxa",
+      "title": "Notícies de la Garrotxa",
+      "fallback": "girona",
+      "sources": [
+        "garrotxadigital",
+        "epa-olot",
+        "epa-garrotxa"
+      ]
+    },
+    "emporda": {
+      "name": "Empordà",
+      "title": "Notícies de l'Empordà",
+      "fallback": "girona",
+      "sources": [
+        "radiopalafrugell",
+        "emporda",
+        "horanova",
+        "epa-baixemporda",
+        "epa-palafrugell",
+        "epa-altemporda"
+      ]
+    },
+    "selva": {
+      "name": "Selva",
+      "title": "Notícies de la Selva",
+      "fallback": "girona",
+      "sources": [
+        "epa-selva",
+        "epa-blanes"
+      ]
+    },
+    "lleida": {
+      "name": "Lleida",
+      "title": "Notícies de Lleida",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "segre",
+        "lleidadiari",
+        "lamanyana",
+        "nacio-lleida",
+        "epa-lleida",
+        "epa-segria"
+      ]
+    },
+    "urgell": {
+      "name": "Urgell",
+      "title": "Notícies de l'Urgell",
+      "fallback": "lleida",
+      "sources": [
+        "novatarrega",
+        "epa-tarrega",
+        "epa-urgell"
+      ]
+    },
+    "tarragona": {
+      "name": "Tarragona",
+      "title": "Notícies del Camp de Tarragona",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "tarragonaradio",
+        "diarimes",
+        "tarragonadigital",
+        "reusdigital",
+        "epa-tarragona",
+        "epa-tarragones",
+        "radiociutat"
+      ]
+    },
+    "terres-ebre": {
+      "name": "Terres de l'Ebre",
+      "title": "Notícies de les Terres de l'Ebre",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "imagina",
+        "ebredigital",
+        "marfanta",
+        "epa-montsia",
+        "epa-baixebre",
+        "epa-amposta",
+        "epa-tortosa",
+        "canalte",
+        "radiotortosa",
+        "amposta"
+      ]
+    },
+    "catalunya-central": {
+      "name": "Catalunya central",
+      "title": "Notícies de la Catalunya central",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "regio7",
+        "nacio-manresa",
+        "epa-bergueda",
+        "epa-puigreig",
+        "epa-bages",
+        "epa-manresa"
+      ]
+    },
+    "maresme": {
+      "name": "Maresme",
+      "title": "Notícies del Maresme",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "radiocalella",
+        "capgros",
+        "epa-maresme",
+        "epa-calella",
+        "epa-mataro"
+      ]
+    },
+    "barcelona": {
+      "name": "Barcelona",
+      "title": "Notícies de Barcelona",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "beteve",
+        "epa-barcelones",
+        "totbarcelona"
+      ]
+    },
+    "badalona": {
+      "name": "Badalona",
+      "title": "Notícies de Badalona",
+      "fallback": "barcelona",
+      "sources": [
+        "epa-badalona"
+      ]
+    },
+    "baix-llobregat": {
+      "name": "Baix Llobregat",
+      "title": "Notícies del Baix Llobregat",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "epa-baixllob",
+        "fetasantfeliu",
+        "epa-santboi",
+        "epa-santjust",
+        "epa-castelldefels"
+      ]
+    },
+    "penedes": {
+      "name": "Penedès i Garraf",
+      "title": "Notícies del Penedès i el Garraf",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "eixdiari",
+        "epa-altpenedes",
+        "epa-baixpenedes",
+        "epa-garraf"
+      ]
+    },
+    "anoia": {
+      "name": "Anoia",
+      "title": "Notícies de l'Anoia",
+      "fallback": "paisos-catalans",
+      "sources": [
+        "anoiadiari",
+        "epa-anoia",
+        "epa-igualada"
+      ]
+    },
+    "ripolles": {
+      "name": "Ripollès",
+      "title": "Notícies del Ripollès",
+      "fallback": "girona",
+      "sources": [
+        "epa-ripolles",
+        "epa-ripoll",
+        "el9nou-osona"
+      ]
+    },
+    "alt-urgell": {
+      "name": "Alt Urgell",
+      "title": "Notícies de l'Alt Urgell",
+      "fallback": "lleida",
+      "sources": [
+        "radioseu",
+        "epa-alturgell",
+        "epa-laseu"
+      ]
+    },
+    "conca-de-barbera": {
+      "name": "Conca de Barberà",
+      "title": "Notícies de la Conca de Barberà",
+      "fallback": "tarragona",
+      "sources": [
+        "novaconca",
+        "epa-concadebarbera"
+      ]
+    },
+    "baix-camp": {
+      "name": "Baix Camp",
+      "title": "Notícies del Baix Camp",
+      "fallback": "tarragona",
+      "sources": [
+        "canalreus",
+        "reusdigital",
+        "epa-baixcamp",
+        "epa-reus"
+      ]
+    },
+    "solsones": {
+      "name": "Solsonès",
+      "title": "Notícies del Solsonès",
+      "fallback": "catalunya-central",
+      "sources": [
+        "epa-solsones"
+      ]
+    },
+    "pitiuses": {
+      "name": "Pitiüses",
+      "title": "Notícies de les Pitiüses",
+      "fallback": "illes-balears",
+      "sources": [
+        "epa-eivissa"
+      ]
+    },
+    "horta": {
+      "name": "Horta i Camp de Túria",
+      "title": "Notícies de l'Horta i el Camp de Túria",
+      "fallback": "pais-valencia",
+      "sources": [
+        "epa-horta",
+        "epa-hortasud",
+        "epa-campdeturia"
+      ]
+    },
+    "sitges": {
+      "name": "Sitges",
+      "title": "Notícies de Sitges",
+      "fallback": "penedes",
+      "sources": [
+        "radiomaricel"
+      ]
+    },
+    "palafolls": {
+      "name": "Palafolls",
+      "title": "Notícies de Palafolls",
+      "fallback": "maresme",
+      "sources": [
+        "radiopalafolls"
+      ]
+    },
+    "tordera": {
+      "name": "Tordera",
+      "title": "Notícies de Tordera",
+      "fallback": "maresme",
+      "sources": [
+        "radiotordera"
+      ]
+    },
+    "ulldecona": {
+      "name": "Ulldecona",
+      "title": "Notícies de l'Ulldecona",
+      "fallback": "terres-ebre",
+      "sources": [
+        "uradio"
+      ]
+    },
+    "el-prat": {
+      "name": "el Prat de Llobregat",
+      "title": "Notícies del Prat de Llobregat",
+      "fallback": "baix-llobregat",
+      "sources": [
+        "elprat",
+        "epa-elprat"
+      ]
+    },
+    "les-planes": {
+      "name": "les Planes d'Hostoles",
+      "title": "Notícies de les Planes d'Hostoles",
+      "fallback": "garrotxa",
+      "sources": [
+        "radiolesplanes"
+      ]
+    },
+    "codines": {
+      "name": "Sant Feliu de Codines",
+      "title": "Notícies de Sant Feliu de Codines",
+      "fallback": "valles-oriental",
+      "sources": [
+        "onacodinenca"
+      ]
+    },
+    "sant-andreu": {
+      "name": "Sant Andreu",
+      "title": "Notícies de Sant Andreu de Palomar",
+      "fallback": "barcelona",
+      "sources": [
+        "radiosantandreu"
+      ]
+    }
+  },
+  "sources": {
+    "324": {
+      "name": "3Cat Notícies",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0"
+    },
+    "vilaweb": {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed"
+    },
+    "ara": {
+      "name": "Ara",
+      "url": "https://www.ara.cat/rss/latest/"
+    },
+    "nacio": {
+      "name": "Nació Digital",
+      "url": "https://naciodigital.cat/rss/portada",
+      "allowGeneric": true
+    },
+    "elnacional": {
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml"
+    },
+    "elnacional-directe": {
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_elnacional_live_ca.xml"
+    },
+    "elpunt": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona/nacional.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "eltemps": {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica"
+    },
+    "directa": {
+      "name": "Directa",
+      "url": "https://directa.cat/feed"
+    },
+    "critic": {
+      "name": "Crític",
+      "url": "https://www.elcritic.cat/feed"
+    },
+    "apunt": {
+      "name": "À Punt",
+      "url": "https://www.apuntmedia.es/rss/"
+    },
+    "laveu": {
+      "name": "Diari La Veu",
+      "url": "https://www.diarilaveu.cat/feed"
+    },
+    "valenciadiari": {
+      "name": "València Diari",
+      "url": "https://valenciadiari.com/feed/"
+    },
+    "vilaweb-pv": {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/categoria/pais/pais-valencia/feed/"
+    },
+    "ib3": {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed"
+    },
+    "arabalears": {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/latest/"
+    },
+    "dbalears": {
+      "name": "dBalears",
+      "url": "https://www.dbalears.cat/feed.rss"
+    },
+    "aramenorca": {
+      "name": "Ara Menorca",
+      "url": "https://www.arabalears.cat/rss/category/section/1125297/"
+    },
+    "diariandorra": {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/rss/home.xml"
+    },
+    "periodicad": {
+      "name": "El Periòdic d'Andorra",
+      "url": "https://elperiodic.ad/feed/"
+    },
+    "bondia": {
+      "name": "Bondia",
+      "url": "https://www.bondia.ad/rss.xml"
+    },
+    "andorraara": {
+      "name": "Andorra Ara",
+      "url": "https://andorraara.com/feed/"
+    },
+    "arrels": {
+      "name": "Ràdio Arrels",
+      "url": "https://www.radioarrels.cat/rss"
+    },
+    "epa-rossello": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/rossello.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "vilaweb-cn": {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/categoria/pais/catalunya-nord/feed/"
+    },
+    "cugat": {
+      "name": "Cugat Mèdia",
+      "url": "https://www.cugat.cat/feed"
+    },
+    "totsantcugat": {
+      "name": "Tot Sant Cugat",
+      "url": "https://www.totsantcugat.cat/uploads/feeds/feed_tot_ca.xml"
+    },
+    "epa-santcugat": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/santcugatdelvalles.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "radiosabadell": {
+      "name": "Ràdio Sabadell",
+      "url": "https://radiosabadell.fm/rss.xml"
+    },
+    "diarisabadell": {
+      "name": "Diari de Sabadell",
+      "url": "https://www.diaridesabadell.com/rss"
+    },
+    "isabadell": {
+      "name": "iSabadell",
+      "url": "https://www.isabadell.cat/feed"
+    },
+    "epa-sabadell": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/sabadell.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "canalterrassa": {
+      "name": "Canal Terrassa",
+      "url": "https://canalterrassa.cat/feed/"
+    },
+    "diariterrassa": {
+      "name": "Diari de Terrassa",
+      "url": "https://www.diarideterrassa.com/rss"
+    },
+    "epa-terrassa": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/terrassa.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-vallesocc": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/vallesoccidental.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "el9nou-vo": {
+      "name": "El 9 Nou",
+      "url": "https://el9nou.cat/feed",
+      "linkContains": "/valles-oriental/"
+    },
+    "epa-vallesor": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/vallesoriental.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "el9nou-osona": {
+      "name": "El 9 Nou",
+      "url": "https://el9nou.cat/feed",
+      "linkContains": "/osona-ripolles/"
+    },
+    "nacio-osona": {
+      "name": "Nació Osona",
+      "url": "https://naciodigital.cat/feed/osona"
+    },
+    "epa-osona": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/osona.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-vic": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/vic.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "diarigirona": {
+      "name": "Diari de Girona",
+      "url": "https://www.diaridegirona.cat/rss"
+    },
+    "epa-girona": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/girona.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-girones": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/girones.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "garrotxadigital": {
+      "name": "Garrotxa Digital",
+      "url": "https://www.garrotxadigital.cat/rss"
+    },
+    "epa-olot": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/olot.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-garrotxa": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/garrotxa.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "radiopalafrugell": {
+      "name": "Ràdio Palafrugell",
+      "url": "https://radiopalafrugell.cat/feed/"
+    },
+    "emporda": {
+      "name": "Empordà",
+      "url": "https://www.emporda.info/rss"
+    },
+    "horanova": {
+      "name": "Hora Nova",
+      "url": "https://www.horanova.cat/rss"
+    },
+    "epa-baixemporda": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/baixemporda.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-palafrugell": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/palafrugell.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-selva": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/selva.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-blanes": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/blanes.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "segre": {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml"
+    },
+    "lleidadiari": {
+      "name": "Lleida Diari",
+      "url": "https://lleidadiari.cat/feed/"
+    },
+    "lamanyana": {
+      "name": "La Manyana",
+      "url": "https://lamanyana.cat/feed/"
+    },
+    "nacio-lleida": {
+      "name": "Nació Lleida",
+      "url": "https://naciodigital.cat/feed/lleida"
+    },
+    "epa-lleida": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/lleida.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-segria": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/segria.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "novatarrega": {
+      "name": "Nova Tàrrega",
+      "url": "https://www.novatarrega.cat/rss"
+    },
+    "epa-tarrega": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/tarrega.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-urgell": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/urgell.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "tarragonaradio": {
+      "name": "Tarragona Ràdio",
+      "url": "https://www.tarragonaradio.cat/feed/"
+    },
+    "diarimes": {
+      "name": "Diari Més",
+      "url": "https://www.diarimes.com/ca/rss/home.xml"
+    },
+    "tarragonadigital": {
+      "name": "Tarragona Digital",
+      "url": "https://tarragonadigital.com/rss"
+    },
+    "reusdigital": {
+      "name": "Reus Digital",
+      "url": "https://reusdigital.cat/rss"
+    },
+    "epa-tarragona": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/tarragona.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-tarragones": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/tarragones.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "imagina": {
+      "name": "Imagina Ràdio",
+      "url": "https://www.imaginaradio.cat/feed/"
+    },
+    "ebredigital": {
+      "name": "Ebre Digital",
+      "url": "https://ebredigital.cat/feed/"
+    },
+    "marfanta": {
+      "name": "Marfanta",
+      "url": "https://www.marfanta.com/feed/"
+    },
+    "epa-montsia": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/montsia.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-baixebre": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/baixebre.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-amposta": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/amposta.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-tortosa": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/tortosa.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "regio7": {
+      "name": "Regió7",
+      "url": "https://www.regio7.cat/rss"
+    },
+    "nacio-manresa": {
+      "name": "Nació Manresa",
+      "url": "https://naciodigital.cat/feed/manresa"
+    },
+    "epa-bergueda": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/bergueda.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-puigreig": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/puigreig.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "radiocalella": {
+      "name": "Ràdio Calella",
+      "url": "https://www.radiocalellatv.cat/feed/"
+    },
+    "capgros": {
+      "name": "Capgròs",
+      "url": "https://capgros.elnacional.cat/uploads/feeds/feed_ca.xml"
+    },
+    "epa-maresme": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/maresme.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-calella": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/calella.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "beteve": {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/"
+    },
+    "epa-barcelones": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/barcelones.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ],
+      "allowGeneric": true
+    },
+    "epa-badalona": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/badalona.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-baixllob": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/baixllobregat.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "fetasantfeliu": {
+      "name": "Fet a Sant Feliu",
+      "url": "https://www.fetasantfeliu.cat/sindica"
+    },
+    "epa-santboi": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/santboidellobregat.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-santjust": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/santjustdesvern.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-castelldefels": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/castelldefels.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "radiociutat": {
+      "name": "Ràdio Ciutat de Tarragona",
+      "url": "https://radiociutat.com/feed"
+    },
+    "canalreus": {
+      "name": "Canal Reus",
+      "url": "https://canalreus.cat/feed/"
+    },
+    "novaconca": {
+      "name": "Nova Conca",
+      "url": "https://www.novaconca.cat/rss"
+    },
+    "canalte": {
+      "name": "Canal Terres de l'Ebre",
+      "url": "https://canalte.cat/feed/"
+    },
+    "totbarcelona": {
+      "name": "El Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed"
+    },
+    "radiomaricel": {
+      "name": "Ràdio Maricel",
+      "url": "https://www.radiomaricel.cat/feed/"
+    },
+    "radiopalafolls": {
+      "name": "Ràdio Palafolls",
+      "url": "https://radiopalafolls.cat/feed/"
+    },
+    "radiotordera": {
+      "name": "Ràdio Tordera",
+      "url": "https://radiotordera.cat/radio/?feed=rss2"
+    },
+    "uradio": {
+      "name": "Ràdio Ulldecona",
+      "url": "https://uradio.cat/feed"
+    },
+    "radioseu": {
+      "name": "RàdioSeu",
+      "url": "https://www.radioseu.cat/rss.xml"
+    },
+    "elprat": {
+      "name": "El Prat Ràdio",
+      "url": "https://www.elprat.digital/feed"
+    },
+    "radiolesplanes": {
+      "name": "Ràdio les Planes",
+      "url": "https://www.radiolesplanes.com/feed/"
+    },
+    "onacodinenca": {
+      "name": "Ona Codinenca",
+      "url": "https://onacodinenca.cat/rss.xml"
+    },
+    "radiosantandreu": {
+      "name": "Ràdio Sant Andreu",
+      "url": "https://www.radiosantandreu.com/feed/"
+    },
+    "eixdiari": {
+      "name": "Eix Diari",
+      "url": "https://www.eixdiari.cat/serveis/rss/rss.aspx?section=t"
+    },
+    "anoiadiari": {
+      "name": "Anoia Diari",
+      "url": "https://www.anoiadiari.cat/rss"
+    },
+    "radiotortosa": {
+      "name": "Ràdio Tortosa",
+      "url": "https://radiotortosa.cat/feed/"
+    },
+    "amposta": {
+      "name": "Ajuntament d'Amposta",
+      "url": "https://amposta.cat/noticies.rss"
+    },
+    "epa-ripolles": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/ripolles.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-altemporda": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/altemporda.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-anoia": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/anoia.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-garraf": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/garraf.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-altpenedes": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/altpenedes.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-baixpenedes": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/baixpenedes.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-concadebarbera": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/concadebarbera.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-baixcamp": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/baixcamp.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-alturgell": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/alturgell.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-solsones": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/solsones.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-bages": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/bages.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-mallorca": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/mallorca.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-menorca": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/menorca.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-eivissa": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/eivissa.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-horta": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/horta.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-hortasud": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/hortasud.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-campdeturia": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/comarca/campdeturia.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-ripoll": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/ripoll.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-igualada": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/igualada.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-reus": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/reus.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-laseu": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/laseudurgell.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-manresa": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/manresa.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-elprat": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/elpratdellobregat.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    },
+    "epa-mataro": {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/mataro.feed?type=rss",
+      "allowedHosts": [
+        "lesportiudecatalunya.cat"
+      ]
+    }
+  }
+}

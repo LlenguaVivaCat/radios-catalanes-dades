@@ -1,0 +1,74 @@
+{
+ "versio": 2,
+ "fonts": {
+  "viquitexts": {
+   "que": "poemes",
+   "titular": "Viquitexts (ca.wikisource.org): transcripcions",
+   "dret": "domini públic"
+  },
+  "santoral": {
+   "que": "santoral",
+   "titular": "Viquipèdia en català (pàgines de cada dia) i en anglès (General Roman Calendar)",
+   "dret": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pamies-tematic": {
+   "que": "refranys",
+   "titular": "Víctor Pàmies, Refranyer temàtic (tematic.dites.cat)",
+   "dret": "CC BY 2.5",
+   "url": "https://creativecommons.org/licenses/by/2.5/es/"
+  },
+  "viquidites": {
+   "que": "refranys",
+   "titular": "Viquidites (ca.wikiquote.org)",
+   "dret": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "gargallo": {
+   "que": "refranys",
+   "titular": "Jose Gargallo Gregori, El Refranyer (elrefranyer.com)",
+   "dret": "amb permís de l'autor; per reutilitzar-los cal el seu permís"
+  },
+  "amat": {
+   "que": "refranys",
+   "titular": "Joan Carles Amat, Quatre cents aforismes cathalans (1718)",
+   "dret": "domini públic"
+  },
+  "ros": {
+   "que": "refranys",
+   "titular": "Carles Ros, Tratat de adages y refranys valencians (1788)",
+   "dret": "domini públic"
+  },
+  "onu": {
+   "que": "dies mundials",
+   "titular": "Nacions Unides; noms en català del Parlament de Catalunya o traduïts",
+   "dret": "fets"
+  }
+ },
+ "poemes": {
+  "2026-11-16": {
+   "titol": "Prosa",
+   "autor": "Josep Alcoverro",
+   "naixement": 1880,
+   "mort": 1908,
+   "obra": "Aplech de versos",
+   "any": 1907,
+   "text": "          Fa temps qu'estem enfeynats\n        ab capítuls, dot, llegats\n        y altres coses enutjoses;\n        mes, a cada dos per tres,\n        aquest ditxós interès\n        fa que perillen les noces.\n\n          Tu, per lo que puga ser,\n        vas brodant d'allò més be\n        tot un be de Deu de roba;\n        ta mare, regatejant,\n        no tira may endavant\n        la compra dels nostres mobles.\n\n        Y aixís tot és insegur;\n        res sé jo ni res saps tu\n        y'l temps depressa s'escorre,\n        avuy sembla que mellor,\n        demà sembla que pitjor,\n        entre'l temor y l'angoixa.\n\n          El rossinyol, entre tant,\n        el qu'alegrava ab son cant\n        nostres hores més ditxoses,\n        sense cap formalitat\n        fa temps que s'ha maridat\n        ab comare rossinyola.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AAplech_de_versos_%281907%29.djvu/35",
+   "fontId": "viquitexts"
+  },
+  "2026-11-17": {
+   "titol": "Ara, i cada demà",
+   "autor": "Joan Salvat-Papasseit",
+   "naixement": 1894,
+   "mort": 1924,
+   "obra": "El poema de La rosa als llavis",
+   "any": 1923,
+   "text": "                              Si anessis lluny\n\nSi anessis lluny\n              tan lluny que no et sabés\ntampoc ningú sabria el meu destí,\ncap altre llavi no em tindria pres\nperò amb el teu nom faria el meu camí.\n\nUn ram de noies no em fora conhort\nni la cançó sota el dring de la copa,\nvaixells de guerra vinguessin al Port\nprou hi aniria, mariner de popa.\n\nSi jo posava la bandera al pal\ni era molt alta, t'hi veuria a dalt.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AEl_poema_de_La_rosa_als_llavis_%281923%29.pdf/91",
+   "fontId": "viquitexts"
+  }
+ },
+ "serial": 5,
+ "serialDies": 2
+}
