@@ -1,5 +1,5 @@
 {
-  "serial": 3,
+  "serial": 4,
   "versio": 2,
  "iniciCicle": "2026-11-16",
  "fonts": {
@@ -44,6 +44,11 @@
   "onu": {
    "que": "dies mundials",
    "titular": "Nacions Unides; noms en català del Parlament de Catalunya o traduïts",
+   "dret": "fets"
+  },
+  "efemerides": {
+   "que": "tal dia com avui",
+   "titular": "Viquipèdia en català (pàgines de cada dia) i Wikidata: els fets; les frases són pròpies",
    "dret": "fets"
   }
  },
@@ -11901,6 +11906,22 @@
      "text": "Pluja per Santa Margarida, pluja maleïda.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2010,
+      "text": "La UNESCO declara Patrimoni Cultural Immaterial de la Humanitat els castells i el Cant de la Sibil·la de Mallorca.",
+      "url": "https://ca.wikipedia.org/wiki/Castells"
+     }
+    ],
+    [
+     {
+      "any": 2014,
+      "text": "Mor a Barcelona el filòleg i lingüista Antoni Maria Badia i Margarit.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_Maria_Badia_i_Margarit"
+     }
+    ]
    ]
   },
   "11-17": {
@@ -12175,6 +12196,22 @@
      "text": "Per Sant Andreu, els set frares no veureu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2005,
+      "text": "Barcelona acull la primera Conferència Mediterrània de Nacions sense Estat, amb els Països Catalans entre els participants.",
+      "url": "https://ca.wikipedia.org/wiki/Confer%C3%A8ncia_Mediterr%C3%A0nia_de_Nacions_sense_Estat"
+     }
+    ],
+    [
+     {
+      "any": 1920,
+      "text": "Neix a Barcelona l'arqueòleg i prehistoriador Miquel Tarradell.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_Tarradell_i_Mateu"
+     }
+    ]
    ]
   },
   "11-25": {
@@ -12212,6 +12249,22 @@
      "text": "La roda de Santa Caterina, amb vuit dies no se fina",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2005,
+      "text": "La UNESCO declara la Patum de Berga Patrimoni Oral i Immaterial de la Humanitat.",
+      "url": "https://ca.wikipedia.org/wiki/UNESCO"
+     }
+    ],
+    [
+     {
+      "any": 1892,
+      "text": "Neix a Alaior, a l'illa de Menorca, la biòloga Margarida Comas i Camps.",
+      "url": "https://ca.wikipedia.org/wiki/Margarida_Comas_i_Camps"
+     }
+    ]
    ]
   },
   "11-26": {
@@ -12247,6 +12300,22 @@
      "text": "Sant Silvestre, porta l'any del cabestre.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1876,
+      "text": "Es funda a Barcelona l'Associació Catalanista d'Excursions Científiques, antecedent del Centre Excursionista de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Associaci%C3%B3_Catalanista_d'Excursions_Cient%C3%ADfiques"
+     }
+    ],
+    [
+     {
+      "any": 1934,
+      "text": "Joaquim Font i Cussó descobreix la Venus de Badalona, vestigi de la Baetulo romana, durant unes obres a la ciutat.",
+      "url": "https://ca.wikipedia.org/wiki/Joaquim_Font_i_Cuss%C3%B3"
+     }
+    ]
    ]
   },
   "11-27": {
@@ -12283,6 +12352,22 @@
      "text": "Si plou passada la Mare de Déu del llit, el ramader es fa ric",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1977,
+      "text": "Es clou el Congrés de Cultura Catalana i es publica el Manifest de la Cultura Catalana.",
+      "url": "https://ca.wikipedia.org/wiki/Congr%C3%A9s_de_Cultura_Catalana"
+     }
+    ],
+    [
+     {
+      "any": 1747,
+      "text": "Mor a Palma el pintor barroc Guillem Mesquida i Munar, representant del tenebrisme.",
+      "url": "https://ca.wikipedia.org/wiki/Guillem_Mesquida_i_Munar"
+     }
+    ]
    ]
   },
   "11-28": {
@@ -12312,6 +12397,22 @@
      "text": "Pel juny fresc, per la Mare de Déu del Carme serè, i per Sant Jaume calor, fan l'any bo i millor.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1995,
+      "text": "S'inaugura oficialment el Museu d'Art Contemporani de Barcelona, el MACBA.",
+      "url": "https://ca.wikipedia.org/wiki/Museu_d'Art_Contemporani_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1895,
+      "text": "Neix a València el pianista, compositor i director d'orquestra Josep Iturbi.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Iturbi_B%C3%A0guena"
+     }
+    ]
    ]
   },
   "11-29": {
@@ -12348,6 +12449,22 @@
      "text": "Sant Sadurní, el fred gros ja és aquí.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1870,
+      "text": "Neix a Castellterçol Enric Prat de la Riba, primer president de la Mancomunitat de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Enric_Prat_de_la_Riba_i_Sarr%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1833,
+      "text": "Es posa en marxa a Barcelona el vapor Bonaplata, la primera fàbrica de Catalunya moguda per un motor de vapor.",
+      "url": "https://ca.wikipedia.org/wiki/F%C3%A0brica_Bonaplata"
+     }
+    ]
    ]
   },
   "11-30": {
@@ -12382,6 +12499,22 @@
      "text": "De Tots Sants a Sant Andreu, un mes breu, i de Sant Andreu a Nadal, no hi ha pas tant",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1932,
+      "text": "S'enllesteix la publicació del «Diccionari general de la llengua catalana», dirigit per Pompeu Fabra.",
+      "url": "https://ca.wikipedia.org/wiki/Diccionari_general_de_la_llengua_catalana"
+     }
+    ],
+    [
+     {
+      "any": 1928,
+      "text": "Neix a Castelló de la Plana el lingüista Germà Colón, especialista en lexicologia catalana.",
+      "url": "https://ca.wikipedia.org/wiki/Germ%C3%A0_Col%C3%B3n_i_Dom%C3%A8nech"
+     }
+    ]
    ]
   },
   "12-01": {
@@ -12417,6 +12550,22 @@
      "text": "Sant Eloi, quan era xic, era un noi; quan era mitjà, era un capellà, i ara que és gran és un sant",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1941,
+      "text": "Neix a Mequinensa l'escriptor en llengua catalana Jesús Moncada.",
+      "url": "https://ca.wikipedia.org/wiki/Jes%C3%BAs_Moncada_i_Estruga"
+     }
+    ],
+    [
+     {
+      "any": 1973,
+      "text": "Lluís Maria Xirinacs comença davant la presó Model una vaga de fam per l'amnistia dels presos polítics.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Maria_Xirinacs_i_Damians"
+     }
+    ]
    ]
   },
   "12-02": {
@@ -12455,6 +12604,22 @@
      "text": "Si plou per Santa Bibiana, plou nou setmanes.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1976,
+      "text": "Obre les portes a Barcelona el Teatre Lliure, amb Fabià Puigserver al capdavant i l'estrena de «Camí de nit, 1854».",
+      "url": "https://ca.wikipedia.org/wiki/Teatre_Lliure"
+     }
+    ],
+    [
+     {
+      "any": 1753,
+      "text": "Neix a Alacant el metge militar Francisco Javier Balmis, cirurgià honorari de Carles IV.",
+      "url": "https://ca.wikipedia.org/wiki/Francisco_Javier_Balmis"
+     }
+    ]
    ]
   },
   "12-03": {
@@ -13454,5 +13619,5 @@
    "diaSetmana": 4
   }
  ],
- "serialDies": 2
+ "serialDies": 3
 }

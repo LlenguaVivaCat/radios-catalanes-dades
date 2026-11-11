@@ -43,6 +43,11 @@
    "que": "dies mundials",
    "titular": "Nacions Unides; noms en català del Parlament de Catalunya o traduïts",
    "dret": "fets"
+  },
+  "efemerides": {
+   "que": "tal dia com avui",
+   "titular": "Viquipèdia en català (pàgines de cada dia) i Wikidata: els fets; les frases són pròpies",
+   "dret": "fets"
   }
  },
  "poemes": {
@@ -67,8 +72,173 @@
    "text": "                              Si anessis lluny\n\nSi anessis lluny\n              tan lluny que no et sabés\ntampoc ningú sabria el meu destí,\ncap altre llavi no em tindria pres\nperò amb el teu nom faria el meu camí.\n\nUn ram de noies no em fora conhort\nni la cançó sota el dring de la copa,\nvaixells de guerra vinguessin al Port\nprou hi aniria, mariner de popa.\n\nSi jo posava la bandera al pal\ni era molt alta, t'hi veuria a dalt.",
    "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AEl_poema_de_La_rosa_als_llavis_%281923%29.pdf/91",
    "fontId": "viquitexts"
+  },
+  "2026-11-18": {
+   "titol": "La Destral y 'l sandalo",
+   "autor": "Felip Jacint Sala",
+   "naixement": 1819,
+   "mort": 1895,
+   "obra": "Primer llibret de faulas",
+   "any": 1888,
+   "text": "Si ab cops crudels al Sándalo aromátich\n        fereix la Destral,\nell, en revenja, generós li dona\n        son odor fragant.\n\nSímil d'est arbre, la virtut cristiana\n        torna bé per mal.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3APrimer_llibret_de_faulas_%281888%29.djvu/14",
+   "fontId": "viquitexts"
+  },
+  "2026-11-19": {
+   "titol": "Sol solet",
+   "autor": "Joan Maragall",
+   "naixement": 1860,
+   "mort": 1911,
+   "obra": "Visions & Cants",
+   "any": 1900,
+   "text": "Quan jo era petit\nvivia arraulit\nen un carrer negre.\nEl mur hi era humid,\nprô l sol hi era alegre.\n\nPer'llà a Sant Josep\nel bon sol solet\nlliscava i lluïa\npel carreró estret.\n\nEn mon còs neulit\nllavors jo sentia\nuna esgarrifança\nde goig i alegria.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AVisions_%26_Cants_%281900%29.djvu/47",
+   "fontId": "viquitexts"
+  },
+  "2026-11-20": {
+   "titol": "Ran de mar",
+   "autor": "Miquel Costa i Llobera",
+   "naixement": 1854,
+   "mort": 1922,
+   "obra": "Poesies d'en Miquel Costa y Llobera",
+   "any": 1885,
+   "text": "Jugant tot sol per la plaja\nCorria un ninet descals,\nCorria seguint la retxa\nQue separa terra y mar.\nPerò la retxa ben justa\nSos peus no trobavan may:\nTan prest l'ona 'ls hi banyava,\nTan prest l'ona 's feya en-llá.\nJo pensava: per la vida\nCorrent axí també anám;\nCom ell entre mar y terra,\nCorrém entre bens y mals.\nGoig y penes, mals y ditxes...\nRes té 'l mon més destriat;\nPerò entre mitx una retxa\n¿Qui en el mon la hi trassará?",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3APoesies_%281885%29.djvu/60",
+   "fontId": "viquitexts"
+  },
+  "2026-11-21": {
+   "titol": "La Dòna hermosa",
+   "autor": "Joan Maragall",
+   "naixement": 1860,
+   "mort": 1911,
+   "obra": "Visions & Cants",
+   "any": 1900,
+   "text": "La presencia de la Dòna hermosa\nte fa humil i devot contemplatiu.\nEn la presencia de la Dòna hermosa\nhi ha quelcom d'un repòs definitiu.\n\nLa partida de la Dòna hermosa\nte deixa il·luminat hermosament.\nEn la partida de la Dòna hermosa\nhi ha una estela de llum que s va perdent.\n\nEl record de la Dòna hermosa\nte fa trist i anyorat somniadô.\nEn el record de la Dòna hermosa\nhi ha una forta i suau meditació.\n\nL'oblit de la Dòna hermosa\nés mort, resurrecció i deslliurament.\nEn l'oblit de la Dòna hermosa\nhi ha l'etern recomençament.\n                              1898",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AVisions_%26_Cants_%281900%29.djvu/56",
+   "fontId": "viquitexts"
+  },
+  "2026-11-22": {
+   "titol": "Cansó de la Estrella",
+   "autor": "Jacint Verdaguer",
+   "naixement": 1845,
+   "mort": 1902,
+   "obra": "Cansons de Montserrat",
+   "any": 1885,
+   "text": "A un brillant Estel\nli digué la terra:\nFloreta del cel,\npósat en ma serra;\nquan veu que s'hi posa,\nma patria ditxosa\nli diu ab amor:\n\nEstrelleta ó Rosa,\n  flor d'or,\nEstrelleta ó Rosa,\nquèdat en mon cor.\n\nLa estrellada nit\nne te gelosía\ny en son camp florit\nara la voldria;\n\nmes ma patria bella\ndiu á sa Poncella\nsempre ab mes amor:\n\nRoseta ó Estrella,\n  flor d'or,\nRoseta ó Estrella,\nfes cel del meu cor.\n\n        6 Setembre 1879.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3ACansons_de_Montserrat_%281885%29.djvu/13",
+   "fontId": "viquitexts"
+  },
+  "2026-11-23": {
+   "titol": "Las dos copas",
+   "autor": "Felip Jacint Sala",
+   "naixement": 1819,
+   "mort": 1895,
+   "obra": "Primer llibret de faulas",
+   "any": 1888,
+   "text": "—¿No son d'igual cristall eixas dos copas?—\n        me preguntá ma filla;\n—¿per què, donchs, al polsarlas la una calla,\n        y la altra tan fort xiscla?\n—Aquella es plena arran, y aquesta es buyda;\n        vet'aquí tot l'enigma.\nY las testas humanas ¡còm s'hi semblan!\n        —¿També son cristallinas?\n—Nó, filla meva, nó; mes fan com ellas:\n        com més buydas, més xisclan.—",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3APrimer_llibret_de_faulas_%281888%29.djvu/12",
+   "fontId": "viquitexts"
+  },
+  "2026-11-24": {
+   "titol": "Damunt mon vaixell",
+   "autor": "Joan Salvat-Papasseit",
+   "naixement": 1894,
+   "mort": 1924,
+   "obra": "L'irradiador del Port i les gavines",
+   "any": 1921,
+   "text": "Damunt mon vaixell\nl'arc de Sant Martí\ncom un gran cinyell.\nTotes les sirenes\nengrontxant-se en ell.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AL%27irradiador_del_port_i_les_gavines_%281921%29.djvu/127",
+   "fontId": "viquitexts"
+  },
+  "2026-11-25": {
+   "titol": "Lo sant nom de Jesús",
+   "autor": "Jacint Verdaguer",
+   "naixement": 1845,
+   "mort": 1902,
+   "obra": "Cántichs",
+   "any": 1893,
+   "text": "            Jesús, Jesús, nom dolcíssim,\n                    delicia del cel,\n            sellau mon cor amantíssim,\n                    oh nom suavíssim,\n                    mes dols que la mel.\n\n      Dols es per mi l'aroma de les roses,\n  dols es per mi lo cant dels rossinyols;\n  nom de Jesús, quan en mon llavi 't posas,\n  nom de Jesús, encara tu ets mes dols.\n\n      Qui us ha gustat vol sempre assaborirvos,\n  qui us ha trobat no us vol deixar may mes;\n  nom de Jesús, com sello vull tenirvos\n  en vida y mort sobre mon cor imprés.\n\n      Nom de Jesús, tu ets música á la orella,\n  néctar al llavi, al paladar dolsor;\n  tu per mos ulls ets del matí la estrella,\n  pel cor ferit lo bálsam del amor.\n\n      Jesús, Jesús, quan trenca l'alba clara,\n  jo assaboresch vostre dolcíssim nom,\n  quan ve la nit l'assaboresch encara,\n  ¡qui 'l pogués dar á assaborí á tothom!\n\n      Nom de Jesús, rosada de dolsura,\n  en nostres cors cayeu vespre y matí;\n  los cors hont plou eixa rosada pura\n  van á florir al celestial jardí.\n\n      Jesús, Jesús, diré de nit y dia ;\n  dihent, Jesús, esperaré la mort;\n  nom de Jesús, y en la última agonía,\n  nom de Jesús, siau mon passaport.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AC%C3%A1ntichs.djvu/14",
+   "fontId": "viquitexts"
+  },
+  "2026-11-26": {
+   "titol": "Desolació",
+   "autor": "Joan Alcover",
+   "naixement": 1854,
+   "mort": 1926,
+   "obra": "Cap al tard",
+   "any": 1909,
+   "text": "  Jo so l'esqueix d'un arbre, esponerós ahí,\nqu'als segadors feya ombra a l'hora de la sesta;\nmes branques, una a una, va rompre la tempesta,\ny'l llamp, fins a la terra, ma soca mitxpartí.\n\n  Brots de migrades fulles coronen el bossí\nobert y sens entranyes, que de la soca resta;\ncremar he vist ma llenya; com fumarol de festa,\nal cel he vist anarse'n la millô part de mi.\n\n  Y l'amargor de viure xucla m'arrel esclava,\ny sent brostar les fulles y sent pujar la sava,\ny m'aida a esperar l'hora de caure un sol conort.\n\n  Cada ferida mostra la perdua d'una branca;\nsens jo, res parlaría de la meitat que'm manca;\njo visch sols pera planye' lo que de mi s'es mort.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3ACap_al_tard_%281909%29.djvu/69",
+   "fontId": "viquitexts"
+  },
+  "2026-11-27": {
+   "titol": "Diumenge",
+   "autor": "Joan Salvat-Papasseit",
+   "naixement": 1894,
+   "mort": 1924,
+   "obra": "L'irradiador del Port i les gavines",
+   "any": 1921,
+   "text": "Avui volen tan altes\n                les gavines del Port,\nque planejen només:\nel pal més jove i prim\ndel «Maria-Angeleta»,\n                  sota la bola d'or,\nou el dring transparent de llurs ales quietes\n\nDe cara al sol\n            cent veles;\ni el banderol vermell que rumbeja el seu frec.\n\nEl vaporet passeja els bells somnis atlàntics,\n        ran dels molls en la calma:\nL'home de les taronjes passa el carretó ple.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AL%27irradiador_del_port_i_les_gavines_%281921%29.djvu/81",
+   "fontId": "viquitexts"
+  },
+  "2026-11-28": {
+   "titol": "Salutació",
+   "autor": "Joan Alcover",
+   "naixement": 1854,
+   "mort": 1926,
+   "obra": "Cap al tard",
+   "any": 1909,
+   "text": "  Cap a-n el Nort s'aixeca'l mont;\nels carboners hi fan la sitja,\ny dins l'espay sense calitja\nveuen la costa de l'enfront.\n\n  De banda a banda de la mar\nles terres baixes no's coneixen;\nperò si'ls pics no's descubreixen,\nja se veurán en dia clar.\n\n  Vent de llevant boires empeny,\n¡oh trovadors de Catalunya!\nDamunt la mar que los allunya,\nel Puig-Major veu el Montseny.\n\n  Mallorca veu el Montserrat,\ny si de nit no se colombra,\nulls de claror donem a l'ombra,\nposem-hi fochs de germandat.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3ACap_al_tard_%281909%29.djvu/51",
+   "fontId": "viquitexts"
+  },
+  "2026-11-29": {
+   "titol": "Cant de novembre",
+   "autor": "Joan Maragall",
+   "naixement": 1860,
+   "mort": 1911,
+   "obra": "Visions & Cants",
+   "any": 1900,
+   "text": "     El vermell dels arbres,\nencès per la posta — dels sols invernals,\n     delita i penetra\nlo mateix que aquells verds primaverals.\nGermans, alcem els cors, que tot és bell,\n     el verd i el vermell!\n\nAlcem els cors cantant la vida entera\namb els brots i am les fulles que sen van;\ngosem el dia séns mirâ endarrera,\nsense pensâ amb els dies que vindran.\n     Gosa'l moment;\n     gosa'l moment que t convida,\ni correras alegre a tot combat:\n     un dia de vida és vida:\ngosa l moment que t'ha sigut donat.\n\nNo t'entristeixin, doncs, els funerals Novembres,\nni planyis mort lo que ha tingut ple ser...\nDe planye és el donzell que ageu sos membres\nans d'haver-los cançat en el plaer.\n                              1895",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AVisions_%26_Cants_%281900%29.djvu/71",
+   "fontId": "viquitexts"
+  },
+  "2026-11-30": {
+   "titol": "Flor d'ametller",
+   "autor": "Joan Salvat-Papasseit",
+   "naixement": 1894,
+   "mort": 1924,
+   "obra": "La gesta dels estels",
+   "any": 1922,
+   "text": "                              a Jaume Mercadé.\n\npètal de galta\n            —quin toc que té\npètal de galta de noia en rosa\naquella noia que hom veu del tren\ntota senzilla      de tant cofoia\n\nsi no és l'enginy caçador d'aloses\n—ningú ho atina ara al gener—\n\no  bé una estesa de roba nova\nque es fes la núvia\n                pel maig que ve\n\no  bé una sina\n          —tot de xuclets",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3ALa_Gesta_dels_Estels_%281922%29.djvu/103",
+   "fontId": "viquitexts"
+  },
+  "2026-12-01": {
+   "titol": "Llir entre carts",
+   "autor": "Josep Alcoverro",
+   "naixement": 1880,
+   "mort": 1908,
+   "obra": "Aplech de versos",
+   "any": 1907,
+   "text": "  En el despatx de casa teva\nso entrat avuy aquest matí.\nEra dejorn; mentre esperava\nhe anat guaytant d'ací d'allí.\nRes m'era nou: ni aquells infolis,\nni l'escriptori gran, macís,\nni aquella caixa tan feixuga\nque tant d'argent amaga dins,\nni la paret ab plans, diplomes\ny calendaris a desdir,\ntot sense gust ni simetria,\nsense que l'art hi presidís.\nFicsant l'esguart incert, de sopte,\npoch ho diries lo que he vist:\nuna capseta que brodares\nab tal riquesa de perfils,\nqu'aquell regust de tanta prosa\ncom per encant s'és esvahit.\nBenhajes tu, qu'ab mans de fada\nfas brillar flors en plena nit.",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AAplech_de_versos_%281907%29.djvu/29",
+   "fontId": "viquitexts"
+  },
+  "2026-12-02": {
+   "titol": "A montanya",
+   "autor": "Joan Maragall",
+   "naixement": 1860,
+   "mort": 1911,
+   "obra": "Visions & Cants",
+   "any": 1900,
+   "text": "M'agrada l balcó gran de la muralla\nquan la gent de la vila hi va a badar\ni amb ull ja quasi incommobible aguaita\nel pas de la llunyana tempestat.\n\nPassa la tempestat esgarrifosa\nper damunt de la serra allà al davant,\ntremolant de llampecs, silencïosa\nper la gent de la vila i la del pla.\n\nCom hi deu ploure en les profondes gorges\ni en els plans solitaris de les valls!\nProu l'huracà ls açota aquells cims nusos\ni peta l'aigua en aquells rocs tant grans;\ns'astoren els remats, el pastor crida,\ni algun abet cau mig-partit pel llamp!\n\nPerò en el balcó gran de la muralla\nno se sent res: la gent hi va a badar,\ni amb ull ja quasi incommobible aguaita\nel pas de la llunyana tempestat.\n                              Puigcerdà, 1897",
+   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AVisions_%26_Cants_%281900%29.djvu/52",
+   "fontId": "viquitexts"
   }
  },
- "serial": 5,
- "serialDies": 2
+ "serial": 6,
+ "serialDies": 3
 }
