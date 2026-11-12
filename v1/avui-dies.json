@@ -1,5 +1,5 @@
 {
-  "serial": 4,
+  "serial": 5,
   "versio": 2,
  "iniciCicle": "2026-11-16",
  "fonts": {
@@ -29,6 +29,11 @@
   "gargallo": {
    "que": "refranys",
    "titular": "Jose Gargallo Gregori, El Refranyer (elrefranyer.com)",
+   "dret": "amb permís de l'autor; per reutilitzar-los cal el seu permís"
+  },
+  "gimeno": {
+   "que": "refranys",
+   "titular": "Antoni Gimeno, Enciam de totes herbes (tionia1.pangea.org)",
    "dret": "amb permís de l'autor; per reutilitzar-los cal el seu permís"
   },
   "amat": {
@@ -85,6 +90,22 @@
      "text": "Per Nadal i per Any Nou muda d'amo i muda el sou",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1899,
+      "text": "Surt el primer número de «La Veu de Catalunya», diari en català que es publica a Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/La_Veu_de_Catalunya"
+     }
+    ],
+    [
+     {
+      "any": 1900,
+      "text": "Neix a Girona el músic i dibuixant Xavier Cugat.",
+      "url": "https://ca.wikipedia.org/wiki/Xavier_Cugat_i_Mingall"
+     }
+    ]
    ]
   },
   "01-02": {
@@ -119,6 +140,22 @@
      "text": "Qui esquila pel gener, esquila per l'any sencer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1460,
+      "text": "Joanot Martorell comença a escriure la novel·la «Tirant lo Blanc».",
+      "url": "https://ca.wikipedia.org/wiki/Tirant_lo_Blanc"
+     }
+    ],
+    [
+     {
+      "any": 1964,
+      "text": "Mor a Barcelona el botànic, farmacèutic i químic Pius Font i Quer.",
+      "url": "https://ca.wikipedia.org/wiki/Pius_Font_i_Quer"
+     }
+    ]
    ]
   },
   "01-03": {
@@ -151,6 +188,22 @@
      "text": "Pel gener, cada ovella amb son corder, sinó a la tripa, o al braguer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1904,
+      "text": "Surt a Barcelona el primer número d'«En Patufet», el primer setmanari infantil en català.",
+      "url": "https://ca.wikipedia.org/wiki/En_Patufet"
+     }
+    ],
+    [
+     {
+      "any": 1826,
+      "text": "Neix a Altafulla el geògraf i explorador Joaquim Gatell.",
+      "url": "https://ca.wikipedia.org/wiki/Joaquim_Gatell_i_Folch"
+     }
+    ]
    ]
   },
   "01-04": {
@@ -189,6 +242,22 @@
      "text": "Bóta de Sant Ferriol",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1866,
+      "text": "Neix a Barcelona el pintor i cartellista Ramon Casas.",
+      "url": "https://ca.wikipedia.org/wiki/Ramon_Casas_i_Carb%C3%B3"
+     }
+    ],
+    [
+     {
+      "any": 1917,
+      "text": "Comença a Palma la segona etapa del setmanari cultural i polític «La Veu de Mallorca».",
+      "url": "https://ca.wikipedia.org/wiki/La_Veu_de_Mallorca"
+     }
+    ]
    ]
   },
   "01-05": {
@@ -222,6 +291,22 @@
      "text": "Gener gelat, fa el maig florit i gemmat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1895,
+      "text": "Se celebra a Igualada la primera cavalcada de Reis de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Cavalcada_dels_Reis_Mags"
+     }
+    ],
+    [
+     {
+      "any": 1881,
+      "text": "Neix a Maella, a la Franja de Ponent, l'escultor Pau Gargallo.",
+      "url": "https://ca.wikipedia.org/wiki/Pau_Gargallo_i_Catal%C3%A1n"
+     }
+    ]
    ]
   },
   "01-06": {
@@ -248,6 +333,22 @@
      "text": "Neu abans de festes mata persones i bèsties",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1791,
+      "text": "Neix a Ontinyent el compositor romàntic Josep Melcior Gomis.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Melcior_Gomis"
+     }
+    ],
+    [
+     {
+      "any": 1640,
+      "text": "Les tropes catalanes recuperen el castell de Salses, que els francesos havien ocupat.",
+      "url": "https://ca.wikipedia.org/wiki/Principat_de_Catalunya"
+     }
+    ]
    ]
   },
   "01-07": {
@@ -281,6 +382,22 @@
      "text": "Per Sant Julià, cent passes de marrà.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1836,
+      "text": "Neix a València el poeta Teodor Llorente, figura principal de la Renaixença valenciana.",
+      "url": "https://ca.wikipedia.org/wiki/Teodor_Llorente"
+     }
+    ],
+    [
+     {
+      "any": 1942,
+      "text": "Neix al Pertús, al Vallespir, la cantant i compositora de parla catalana Jocelyne Jocya.",
+      "url": "https://ca.wikipedia.org/wiki/Jocelyne_Jocya"
+     }
+    ]
    ]
   },
   "01-08": {
@@ -309,6 +426,22 @@
      "text": "Gats de gener valen molt diner.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1918,
+      "text": "S'estrena al Teatre Romea de Barcelona «Rondalla d'esparvers», de Josep Maria de Sagarra.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Maria_de_Sagarra"
+     }
+    ],
+    [
+     {
+      "any": 1932,
+      "text": "Mor a Palma el lingüista i eclesiàstic Antoni Maria Alcover.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_Maria_Alcover"
+     }
+    ]
    ]
   },
   "01-09": {
@@ -338,6 +471,22 @@
      "text": "De Nadal a sant Julià, tretze dies hi cal comptar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1855,
+      "text": "Neix a Reus el diplomàtic, egiptòleg i historiador Eduard Toda.",
+      "url": "https://ca.wikipedia.org/wiki/Eduard_Toda_i_G%C3%BCell"
+     }
+    ],
+    [
+     {
+      "any": 1920,
+      "text": "Mor a Barcelona el periodista i escriptor mallorquí Miquel dels Sants Oliver.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_dels_Sants_Oliver_i_Tolr%C3%A0"
+     }
+    ]
    ]
   },
   "01-10": {
@@ -349,7 +498,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Qui per Sant Pere va i no torna l'endemà, pel juliol ha de tornar.",
+     "text": "El gener és la clau de l'any.",
      "fontId": "viquidites"
     },
     {
@@ -364,6 +513,22 @@
      "text": "Calb com Sant Pere",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1401,
+      "text": "Martí l'Humà funda l'Estudi General de Medicina de Barcelona, antecedent de la Universitat de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Mart%C3%AD_l'Hum%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1913,
+      "text": "Neix a Eivissa el poeta, dramaturg i traductor Marià Villangómez.",
+      "url": "https://ca.wikipedia.org/wiki/Mari%C3%A0_Villang%C3%B3mez_Llobet"
+     }
+    ]
    ]
   },
   "01-11": {
@@ -393,6 +558,22 @@
      "text": "El gener fredolic entra bufant-se els dits",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1284,
+      "text": "El rei Pere el Gran concedeix a Barcelona el privilegi Recognoverunt Proceres.",
+      "url": "https://ca.wikipedia.org/wiki/Recognoverunt_Proceres"
+     }
+    ],
+    [
+     {
+      "any": 1849,
+      "text": "Neix a València el pintor impressionista Ignasi Pinazo.",
+      "url": "https://ca.wikipedia.org/wiki/Ignasi_Pinazo_i_Camarlench"
+     }
+    ]
    ]
   },
   "01-12": {
@@ -410,8 +591,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "La bóta de Sant Ferriol",
-     "fontId": "pamies-tematic"
+     "text": "Al gener, tanca la porta i encén el braser.",
+     "fontId": "viquidites"
     },
     {
      "text": "Durar com la bóta de Sant Ferriol",
@@ -425,6 +606,22 @@
      "text": "Irem a Sant Ferriol, i ballarem, si Déu ho vol",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1934,
+      "text": "S'inaugura a Lleida l'emissora EAJ-42 Ràdio Lleida, de la xarxa de Ràdio Associació de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Lleida"
+     }
+    ],
+    [
+     {
+      "any": 1591,
+      "text": "Neix a Xàtiva el pintor i gravador barroc Josep de Ribera, lo Spagnoletto.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_de_Ribera"
+     }
+    ]
    ]
   },
   "01-13": {
@@ -454,6 +651,22 @@
      "text": "Sant Hilari, terra de pixaners.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1964,
+      "text": "Ràdio Barcelona emet el primer «Radioscope», el programa en català de Salvador Escamilla.",
+      "url": "https://ca.wikipedia.org/wiki/R%C3%A0dio_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 2000,
+      "text": "Mor a València l'escriptor Enric Valor, considerat el patriarca de les lletres valencianes.",
+      "url": "https://ca.wikipedia.org/wiki/Enric_Valor_i_Vives"
+     }
+    ]
    ]
   },
   "01-14": {
@@ -487,6 +700,22 @@
      "text": "Aigua de gener emprenya l'oliver",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1913,
+      "text": "El ple de l'Institut d'Estudis Catalans aprova les Normes Ortogràfiques de la llengua catalana.",
+      "url": "https://ca.wikipedia.org/wiki/Institut_d'Estudis_Catalans"
+     }
+    ],
+    [
+     {
+      "any": 1628,
+      "text": "Mor a València el pintor Francesc Ribalta, influït pel tenebrisme.",
+      "url": "https://ca.wikipedia.org/wiki/Francesc_Ribalta"
+     }
+    ]
    ]
   },
   "01-15": {
@@ -518,6 +747,22 @@
      "text": "Per Sant Pau i Sant Vicenç Sever, el vi al celler",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1981,
+      "text": "Es crea el Consell Executiu, el govern andorrà, i comença la separació de poders a Andorra.",
+      "url": "https://ca.wikipedia.org/wiki/Consell_Executiu_d'Andorra"
+     }
+    ],
+    [
+     {
+      "any": 2005,
+      "text": "Mor a Barcelona la cantant d'òpera i soprano lírica Victòria dels Àngels.",
+      "url": "https://ca.wikipedia.org/wiki/Vict%C3%B2ria_dels_%C3%80ngels"
+     }
+    ]
    ]
   },
   "01-16": {
@@ -544,6 +789,22 @@
      "text": "La llocada de gener va a pondre al paller",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1984,
+      "text": "TV3, el primer canal de Televisió de Catalunya, comença a emetre de manera regular.",
+      "url": "https://ca.wikipedia.org/wiki/TV3"
+     }
+    ],
+    [
+     {
+      "any": 1924,
+      "text": "Neix al País Valencià el guionista i dibuixant de còmics Eugeni Giner.",
+      "url": "https://ca.wikipedia.org/wiki/Eugeni_Giner"
+     }
+    ]
    ]
   },
   "01-17": {
@@ -555,7 +816,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Voltar més que els porcs de Sant Antoni. [o Donar més voltes que els garrins de Sant Antoni]",
+     "text": "Entre Sant Antoni i Sant Sebastià, més fred que entre tot l'any fa.",
      "fontId": "gargallo"
     },
     {
@@ -570,6 +831,22 @@
      "text": "Sant Antoni del porquet, a les velles fa carasses i a les joves fa l’ullet",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1365,
+      "text": "Es documenta per primera vegada la revetla de Sant Antoni a sa Pobla, a Mallorca.",
+      "url": "https://ca.wikipedia.org/wiki/Festes_de_Sant_Antoni_de_Sa_Pobla"
+     }
+    ],
+    [
+     {
+      "any": 1959,
+      "text": "Mor a Barcelona Joan Amades i Gelats, el folklorista que recull les tradicions populars catalanes.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Amades_i_Gelats"
+     }
+    ]
    ]
   },
   "01-18": {
@@ -602,6 +879,22 @@
      "text": "Pel gener, no hi ha gànguil llebrer ni bou carreter",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1941,
+      "text": "S'inaugura el Museu Marítim de Barcelona, a l'antiga seu de les Drassanes Reials.",
+      "url": "https://ca.wikipedia.org/wiki/Museu_Mar%C3%ADtim_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1898,
+      "text": "Neix a Barcelona Carles Buïgas, arquitecte i luminotècnic que dissenya la Font Màgica de Montjuïc.",
+      "url": "https://ca.wikipedia.org/wiki/Carles_Bu%C3%AFgas_i_Sans"
+     }
+    ]
    ]
   },
   "01-19": {
@@ -632,6 +925,22 @@
      "text": "El sol de desembre i del gener porta gelades pel febrer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1907,
+      "text": "S'estrena al Teatre Principal de Barcelona «La Santa Espina», amb text d'Àngel Guimerà i música d'Enric Morera.",
+      "url": "https://ca.wikipedia.org/wiki/La_Santa_Espina_(rondalla)"
+     }
+    ],
+    [
+     {
+      "any": 1832,
+      "text": "Neix a València Salvador Giner i Vidal, compositor i professor de música.",
+      "url": "https://ca.wikipedia.org/wiki/Salvador_Giner_i_Vidal"
+     }
+    ]
    ]
   },
   "01-20": {
@@ -662,6 +971,22 @@
      "text": "Per sant Sebastià, una hora més de caminar.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1401,
+      "text": "S'obre a la llotja de Barcelona la Taula de Canvi, considerada el primer banc públic d'Europa.",
+      "url": "https://ca.wikipedia.org/wiki/Taula_de_canvi"
+     }
+    ],
+    [
+     {
+      "any": 1850,
+      "text": "Neix a Alcoi, a l'Alcoià, el pintor valencià Emili Sala i Francés.",
+      "url": "https://ca.wikipedia.org/wiki/Emili_Sala_i_Franc%C3%A9s"
+     }
+    ]
    ]
   },
   "01-21": {
@@ -690,6 +1015,22 @@
      "text": "Si per Santa Agnès fa bo, aniran be les vinyes.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1973,
+      "text": "El cantautor Lluís Llach debuta als escenaris de l'Olympia de París.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Llach_i_Grande"
+     }
+    ],
+    [
+     {
+      "any": 1923,
+      "text": "Mor a Inca la poetessa mallorquina Marcel·lina Moragues Ginart.",
+      "url": "https://ca.wikipedia.org/wiki/Marcel%C2%B7lina_Moragues_Ginart"
+     }
+    ]
    ]
   },
   "01-22": {
@@ -719,6 +1060,22 @@
      "text": "Si per Sant Vicenç fa bon temps, pel setembre els raïms plens.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1949,
+      "text": "Es crea a la ciutat d'Eivissa l'Institut d'Estudis Eivissencs.",
+      "url": "https://ca.wikipedia.org/wiki/Institut_d'Estudis_Eivissencs"
+     }
+    ],
+    [
+     {
+      "any": 1755,
+      "text": "Mor a Barcelona Antoni Viladomat i Manalt, pintor del barroc català.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_Viladomat_i_Manalt"
+     }
+    ]
    ]
   },
   "01-23": {
@@ -745,6 +1102,22 @@
      "text": "Déu nos guard de pols de gener i fang de juliol",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1501,
+      "text": "Una butlla del papa Alexandre VI, Roderic de Borja, reconeix la universitat nascuda de l'Estudi General de València.",
+      "url": "https://ca.wikipedia.org/wiki/Alexandre_VI"
+     }
+    ],
+    [
+     {
+      "any": 1350,
+      "text": "Neix a València Vicent Ferrer, el frare dominic que predica per mig Europa i és venerat com a sant.",
+      "url": "https://ca.wikipedia.org/wiki/Sant_Vicent_Ferrer"
+     }
+    ]
    ]
   },
   "01-24": {
@@ -780,6 +1153,22 @@
      "text": "Per Sant Francesc, agafa els tords amb vesc.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1913,
+      "text": "L'Institut d'Estudis Catalans promulga les Normes ortogràfiques, fruit de la codificació de Pompeu Fabra.",
+      "url": "https://ca.wikipedia.org/wiki/Normes_ortogr%C3%A0fiques"
+     }
+    ],
+    [
+     {
+      "any": 2023,
+      "text": "Mor a València Vicent Salvador i Liern, poeta, assagista i filòleg.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Salvador_i_Liern"
+     }
+    ]
    ]
   },
   "01-25": {
@@ -810,6 +1199,22 @@
      "text": "Qui té a sant Pere no ampra a sant Pau",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1962,
+      "text": "Mor a Illa, al Rosselló, l'escriptor nord-català Josep Sebastià Pons.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Sebasti%C3%A0_Pons"
+     }
+    ],
+    [
+     {
+      "any": 1151,
+      "text": "Robert d'Aguiló dona la terra de Riudoms a Arnau de Palomar perquè hi aixequi un castell: és l'origen del poble.",
+      "url": "https://ca.wikipedia.org/wiki/Robert_d'Aguil%C3%B3"
+     }
+    ]
    ]
   },
   "01-26": {
@@ -847,6 +1252,22 @@
      "text": "Pel gener i pel febrer, busca la llebre al seu joquer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1862,
+      "text": "Arriba el primer tren a Girona; la línia continuarà després cap a Figueres i Portbou.",
+      "url": "https://ca.wikipedia.org/wiki/Tren_de_vapor"
+     }
+    ],
+    [
+     {
+      "any": 1995,
+      "text": "El Govern de les Illes Balears declara parc natural sa Dragonera, una illa que roman deshabitada.",
+      "url": "https://ca.wikipedia.org/wiki/Dragonera"
+     }
+    ]
    ]
   },
   "01-27": {
@@ -885,6 +1306,22 @@
      "text": "L'aigua de gener tot l'any se manté",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1966,
+      "text": "Mor a l'Escala Caterina Albert, l'escriptora coneguda pel nom de ploma de Víctor Català.",
+      "url": "https://ca.wikipedia.org/wiki/V%C3%ADctor_Catal%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1794,
+      "text": "Mor a València Francesc Pérez Bayer, erudit i humanista de la Il·lustració.",
+      "url": "https://ca.wikipedia.org/wiki/Francesc_P%C3%A9rez_Bayer"
+     }
+    ]
    ]
   },
   "01-28": {
@@ -902,7 +1339,7 @@
    "santoralVisibles": 1,
    "mundials": [
     {
-     "nom": "2019) UNESCOCAT: <",
+     "nom": "Dia Internacional de la Convivència Pacífica",
      "org": "Nacions Unides",
      "font": "https://www.un.org/en/observances/list-days-weeks"
     }
@@ -924,6 +1361,22 @@
      "text": "Ço que no és birba al gener es queda tot l'any per fer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1993,
+      "text": "Mor a Palma Josep Maria Llompart, poeta, assagista, crític literari, editor i traductor.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Maria_Llompart_de_la_Pe%C3%B1a"
+     }
+    ],
+    [
+     {
+      "any": 2023,
+      "text": "Mor a Barcelona Xavier Rubert de Ventós, filòsof, escriptor i polític.",
+      "url": "https://ca.wikipedia.org/wiki/Xavier_Rubert_de_Vent%C3%B3s"
+     }
+    ]
    ]
   },
   "01-29": {
@@ -950,6 +1403,22 @@
      "text": "Qui pel mes de gener berena, pel mes de maig badalla",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1867,
+      "text": "Neix a València Vicent Blasco Ibáñez, escriptor, periodista i polític.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Blasco_Ib%C3%A1%C3%B1ez"
+     }
+    ],
+    [
+     {
+      "any": 1987,
+      "text": "Mor a Barcelona Josep Vicenç Foix, poeta, periodista i assagista.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Vicen%C3%A7_Foix"
+     }
+    ]
    ]
   },
   "01-30": {
@@ -985,6 +1454,22 @@
      "text": "Desembre molt fred, bon gener i millor esplet",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1991,
+      "text": "Mor a Barcelona Josep Ferrater Mora, filòsof català.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Ferrater_Mora"
+     }
+    ],
+    [
+     {
+      "any": 1806,
+      "text": "Mor a Sant Petersburg Vicent Martín i Soler, compositor valencià del classicisme.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADn_i_Soler"
+     }
+    ]
    ]
   },
   "01-31": {
@@ -1004,8 +1489,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Pel juny serà Sant Joan; per l'agost, maria; pel gener, l'Epifania; i Sant Pere el juny; tant si es",
-     "fontId": "pamies-tematic"
+     "text": "Feina de gener no la canviïs per diner.",
+     "fontId": "viquidites"
     },
     {
      "text": "Dolent estalviador és el matiner de desembre i de gener",
@@ -1019,6 +1504,22 @@
      "text": "Saó de gener, per les abelles va bé",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1929,
+      "text": "Apareix el primer número de la revista «Mirador».",
+      "url": "https://ca.wikipedia.org/wiki/Mirador_(revista)"
+     }
+    ],
+    [
+     {
+      "any": 1927,
+      "text": "Mor a Barcelona l'escriptor català Josep Pin i Soler.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Pin_i_Soler"
+     }
+    ]
    ]
   },
   "02-01": {
@@ -1050,6 +1551,22 @@
      "text": "Si plou per sant Pau, hivern, adéu-siau, i si fa sol ve un hivern tou",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1984,
+      "text": "Un grup de batlles signa la Declaració de Mequinensa, que reconeix el català de la Franja com a patrimoni cultural de l'Aragó.",
+      "url": "https://ca.wikipedia.org/wiki/Declaraci%C3%B3_de_Mequinensa"
+     }
+    ],
+    [
+     {
+      "any": 1918,
+      "text": "Neix a Tarragona Montserrat Abelló i Soler, poetessa i traductora.",
+      "url": "https://ca.wikipedia.org/wiki/Montserrat_Abell%C3%B3_i_Soler"
+     }
+    ]
    ]
   },
   "02-02": {
@@ -1089,6 +1606,22 @@
      "text": "Si trona entre la Mare de Déu de la Candelària i la de Març, hi ha quaranta dies més d'hivern",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1208,
+      "text": "Neix a Montpeller Jaume I el Conqueridor, rei d'Aragó, de Mallorca i de València i comte de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Jaume_el_Conqueridor"
+     }
+    ],
+    [
+     {
+      "any": 1974,
+      "text": "Lluís Llach torna a cantar al Palau de la Música Catalana després de quatre anys d'exili.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Llach"
+     }
+    ]
    ]
   },
   "02-03": {
@@ -1119,6 +1652,22 @@
      "text": "Com farà el dia tres, farà tot el mes",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1112,
+      "text": "Ramon Berenguer III es casa a Arle amb Dolça de Provença, i la Provença s'incorpora al comtat de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Ramon_Berenguer_III"
+     }
+    ],
+    [
+     {
+      "any": 2001,
+      "text": "Mor a Barcelona el lingüista i neohel·lenista Eudald Solà i Farrés.",
+      "url": "https://ca.wikipedia.org/wiki/Eudald_Sol%C3%A0_i_Farr%C3%A9s"
+     }
+    ]
    ]
   },
   "02-04": {
@@ -1158,6 +1707,22 @@
      "text": "Pel febrer, el cargol ja és carriler",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1499,
+      "text": "Comença a funcionar la impremta del monestir de Montserrat.",
+      "url": "https://ca.wikipedia.org/wiki/Impremta"
+     }
+    ],
+    [
+     {
+      "any": 1955,
+      "text": "Neix a Masquefa la lingüista Carme Junyent Figueras.",
+      "url": "https://ca.wikipedia.org/wiki/Carme_Junyent_Figueras"
+     }
+    ]
    ]
   },
   "02-05": {
@@ -1188,6 +1753,22 @@
      "text": "Per Santa Aguedeta, palpa el cul de la polleta; si no li trobes l’ou, torna-hi el dia nou",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1483,
+      "text": "Comença a València la construcció de la Llotja de la Seda.",
+      "url": "https://ca.wikipedia.org/wiki/Llotja_de_la_Seda"
+     }
+    ],
+    [
+     {
+      "any": 1875,
+      "text": "Neix a Lleida Ricard Viñes i Roda, pianista i compositor.",
+      "url": "https://ca.wikipedia.org/wiki/Ricard_Vi%C3%B1es_i_Roda"
+     }
+    ]
    ]
   },
   "02-06": {
@@ -1225,6 +1806,22 @@
      "text": "Sant Miquelet de Vinebre, Santa Paulina d'Ascó, guardeu-nos de l'E, que diuen que és un traïdor.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2012,
+      "text": "Mor a l'Alguer Maria Chessa Lai, rimadora en alguerès i figura de la cultura catalana a Sardenya.",
+      "url": "https://ca.wikipedia.org/wiki/Maria_Chessa_Lai"
+     }
+    ],
+    [
+     {
+      "any": 2022,
+      "text": "S'estrena «Després de tu», la primera sèrie coproduïda entre À Punt, TV3 i IB3.",
+      "url": "https://ca.wikipedia.org/wiki/Despr%C3%A9s_de_tu"
+     }
+    ]
    ]
   },
   "02-07": {
@@ -1271,6 +1868,22 @@
      "text": "El blat diu: pel febrer pentina'm bé i pel març no em toquis pas",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1888,
+      "text": "Àngel Guimerà estrena «Mar i cel» al Teatre Romea de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/%C3%80ngel_Guimer%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1940,
+      "text": "Neix a Felanitx l'escriptor mallorquí Miquel Bauçà Rosselló.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_Bau%C3%A7%C3%A0_Rossell%C3%B3"
+     }
+    ]
    ]
   },
   "02-08": {
@@ -1323,6 +1936,22 @@
      "text": "Pel febrer, busca la guilla son joquer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1976,
+      "text": "Manifestacions per tot Barcelona sota el lema «Llibertat, Amnistia i Estatut d'Autonomia», convocades per l'Assemblea de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Manifestacions_per_l'amnistia_del_febrer_de_1976"
+     }
+    ],
+    [
+     {
+      "any": 1911,
+      "text": "Neix a Albalat de la Ribera Maria Mulet, mestra i escriptora valenciana.",
+      "url": "https://ca.wikipedia.org/wiki/Maria_Mulet"
+     }
+    ]
    ]
   },
   "02-09": {
@@ -1379,6 +2008,22 @@
      "text": "Pluja de febrer, cada gota val un diner",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2005,
+      "text": "L'Acadèmia Valenciana de la Llengua reconeix la unitat de la llengua catalana, tot i que recomana dir-ne valencià.",
+      "url": "https://ca.wikipedia.org/wiki/Acad%C3%A8mia_Valenciana_de_la_Llengua"
+     }
+    ],
+    [
+     {
+      "any": 1884,
+      "text": "Neix a Barcelona l'escriptor Josep Carner i Puig-Oriol.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Carner_i_Puig-Oriol"
+     }
+    ]
    ]
   },
   "02-10": {
@@ -1441,6 +2086,22 @@
      "text": "Si el febrer riu, el fred reviu.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1955,
+      "text": "Surt a Montserrat el primer número de «Serra d'Or», encara com a portaveu del Chor Montserratí.",
+      "url": "https://ca.wikipedia.org/wiki/Serra_d'Or"
+     }
+    ],
+    [
+     {
+      "any": 2022,
+      "text": "Mor a Sencelles l'escriptora Maria Antònia Oliver, premi d'Honor de les Lletres Catalanes.",
+      "url": "https://ca.wikipedia.org/wiki/Maria_Ant%C3%B2nia_Oliver_Cabrer"
+     }
+    ]
    ]
   },
   "02-11": {
@@ -1459,8 +2120,8 @@
    ],
    "refranys": [
     {
-     "text": "Si el cucut no canta per sant Benet, cantarà per Setmana Santa, o sinó, és senyal que és mort o pres a França",
-     "fontId": "pamies-tematic"
+     "text": "Pel mes de febrer floreix l'ametller.",
+     "fontId": "viquidites"
     },
     {
      "text": "Pel febrer has de llaurar el que al març vulguis sembrar",
@@ -1474,6 +2135,22 @@
      "text": "Febrer arribat, xucles en mar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1419,
+      "text": "El bisbe d'Urgell autoritza la creació del Consell General d'Andorra, conegut com a Consell de la Terra.",
+      "url": "https://ca.wikipedia.org/wiki/Consell_General_d'Andorra"
+     }
+    ],
+    [
+     {
+      "any": 2003,
+      "text": "Mor a Peníscola Alfred Ayza Roca, filòleg i escriptor valencià.",
+      "url": "https://ca.wikipedia.org/wiki/Alfred_Ayza_Roca"
+     }
+    ]
    ]
   },
   "02-12": {
@@ -1536,6 +2213,22 @@
      "text": "Per santa Eulàlia es tallen les canyes",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1910,
+      "text": "El pilot Julien Mamet sobrevola l'hipòdrom de Can Tunis de Barcelona: és el primer vol d'un aeroplà a la península.",
+      "url": "https://ca.wikipedia.org/wiki/Aeropl%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1819,
+      "text": "Mor a Maó Joan Ramis i Ramis, escriptor i historiador menorquí.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Ramis_i_Ramis"
+     }
+    ]
    ]
   },
   "02-13": {
@@ -1580,6 +2273,22 @@
      "text": "Quan l'ametller floreix pel març, vés-hi, si t'hi fan anar, però, si floreix pel febrer, vés-hi amb un paner",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1778,
+      "text": "Neix a Barcelona Ferran Sor i Muntades, guitarrista i compositor.",
+      "url": "https://ca.wikipedia.org/wiki/Ferran_Sor_i_Muntades"
+     }
+    ],
+    [
+     {
+      "any": 2006,
+      "text": "Comença a Barcelona el congrés mundial de telefonia mòbil 3GSM, el primer cop que s'hi celebra.",
+      "url": "https://ca.wikipedia.org/wiki/3GSM"
+     }
+    ]
    ]
   },
   "02-14": {
@@ -1633,6 +2342,22 @@
      "text": "Per Sant Valentí, l’ametler florit",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1933,
+      "text": "S'estrena al Teatre Romea «El cafè de la Marina», de Josep Maria de Sagarra, amb la companyia Vila-Daví.",
+      "url": "https://ca.wikipedia.org/wiki/El_Caf%C3%A8_de_la_Marina"
+     }
+    ],
+    [
+     {
+      "any": 1917,
+      "text": "Neix a Borriana Assumpta González i Cubertorer, escriptora teatral valenciana.",
+      "url": "https://ca.wikipedia.org/wiki/Assumpta_Gonz%C3%A0lez_i_Cubertorer"
+     }
+    ]
    ]
   },
   "02-15": {
@@ -1696,6 +2421,22 @@
      "text": "Quan febrer plora abril, riu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1921,
+      "text": "Es publica a Palma el Manifest de l'Ultra, signat per Jorge Luis Borges, Joan Alomar, Fortunio Bonanova i Jacob Sureda.",
+      "url": "https://ca.wikipedia.org/wiki/Ultraisme"
+     }
+    ],
+    [
+     {
+      "any": 1740,
+      "text": "Neix a Planes l'humanista Joan Andrés i Morell, autor de la primera història de la literatura universal i comparada.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Andr%C3%A9s_i_Morell"
+     }
+    ]
    ]
   },
   "02-16": {
@@ -1721,6 +2462,22 @@
      "text": "Al mes de febrer, la neu fuig com un ca llebrer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1918,
+      "text": "S'obre a les Galeries Dalmau de Barcelona la primera exposició individual de Joan Miró, amb 64 obres.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Mir%C3%B3_i_Ferr%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 2011,
+      "text": "Mor a Pontellà, al Rosselló, el cantautor nord-català Jordi Barre.",
+      "url": "https://ca.wikipedia.org/wiki/Jordi_Barre"
+     }
+    ]
    ]
   },
   "02-17": {
@@ -1752,6 +2509,22 @@
      "text": "Per Febrer has de llaurar, el que pel Març vulguis sembrar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1976,
+      "text": "Mor a Barcelona la poeta catalana Clementina Arderiu i Voltas.",
+      "url": "https://ca.wikipedia.org/wiki/Clementina_Arderiu_i_Voltas"
+     }
+    ],
+    [
+     {
+      "any": 1929,
+      "text": "S'instal·la al carrer de Pelai de Barcelona el primer fotomaton, un servei de fotos ràpides.",
+      "url": "https://ca.wikipedia.org/wiki/Fotomaton"
+     }
+    ]
    ]
   },
   "02-18": {
@@ -1801,6 +2574,22 @@
      "text": "El febrer no deixa ovella ni corder",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1965,
+      "text": "Joan Manuel Serrat actua per primera vegada en públic, al programa de ràdio de Salvador Escamilla.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Manuel_Serrat"
+     }
+    ],
+    [
+     {
+      "any": 1991,
+      "text": "Mor a Palma el filòleg i lingüista menorquí Francesc de Borja Moll i Casasnovas.",
+      "url": "https://ca.wikipedia.org/wiki/Francesc_de_Borja_Moll_i_Casasnovas"
+     }
+    ]
    ]
   },
   "02-19": {
@@ -1854,6 +2643,22 @@
      "text": "Pel febrer curt, ni el peix té suc",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1841,
+      "text": "Neix a Tortosa el compositor, musicòleg i pedagog Felip Pedrell i Sabaté.",
+      "url": "https://ca.wikipedia.org/wiki/Felip_Pedrell_i_Sabat%C3%A9"
+     }
+    ],
+    [
+     {
+      "any": 1802,
+      "text": "Neix a Traiguera, al Baix Maestrat, el lingüista Pere Labèrnia Esteller.",
+      "url": "https://ca.wikipedia.org/wiki/Pere_Lab%C3%A8rnia_Esteller"
+     }
+    ]
    ]
   },
   "02-20": {
@@ -1885,6 +2690,22 @@
      "text": "Viatjar en el cavall de Sant Francesc",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2017,
+      "text": "L'escriptora Isabel-Clara Simó rep el Premi d'Honor de les Lletres Catalanes, que concedeix Òmnium Cultural.",
+      "url": "https://ca.wikipedia.org/wiki/Isabel-Clara_Sim%C3%B3_i_Monllor"
+     }
+    ],
+    [
+     {
+      "any": 1667,
+      "text": "Mor a València el pintor barroc valencià Jeroni Jacint d'Espinosa.",
+      "url": "https://ca.wikipedia.org/wiki/Jeroni_Jacint_d'Espinosa"
+     }
+    ]
    ]
   },
   "02-21": {
@@ -1940,8 +2761,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Si plou per Sant Pere Regalat, plou quaranta dies de comptat",
-     "fontId": "pamies-tematic"
+     "text": "Al febrer, ja és jornaler.",
+     "fontId": "viquidites"
     },
     {
      "text": "La missa de Sant Pere, missa verdadera",
@@ -1955,6 +2776,22 @@
      "text": "Per Sant Pere, festa a Abrera, a Olesa per Sant Joan, i els cornuts d'Esparreguera per Santa Eulàlia",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1923,
+      "text": "Albert Einstein visita Barcelona, convidat per Esteve Terradas als cursos que organitza la Mancomunitat de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Albert_Einstein"
+     }
+    ],
+    [
+     {
+      "any": 1985,
+      "text": "Mor a Barcelona l'escriptor Salvador Espriu i Castelló, als 71 anys.",
+      "url": "https://ca.wikipedia.org/wiki/Salvador_Espriu_i_Castell%C3%B3"
+     }
+    ]
    ]
   },
   "02-23": {
@@ -1990,6 +2827,22 @@
      "text": "A mig febrer, jornal sencer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1891,
+      "text": "Pau Casals ofereix a Barcelona el seu primer concert públic, a l'edat de catorze anys.",
+      "url": "https://ca.wikipedia.org/wiki/Pau_Casals_i_Defill%C3%B3"
+     }
+    ],
+    [
+     {
+      "any": 1475,
+      "text": "Lambert Palmart imprimeix a València el «Comprehensorium», el primer incunable amb data de la península.",
+      "url": "https://ca.wikipedia.org/wiki/Lambert_Palmart"
+     }
+    ]
    ]
   },
   "02-24": {
@@ -2020,6 +2873,22 @@
      "text": "Per Sant Maties, igual son les nits que els dies",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1979,
+      "text": "Surt a Girona el primer número del «Punt Diari», diari d'informació general en català.",
+      "url": "https://ca.wikipedia.org/wiki/Punt_Diari"
+     }
+    ],
+    [
+     {
+      "any": 1815,
+      "text": "Neix a Cameles, al Rosselló, Andreu Toront, inventor de la tenora moderna.",
+      "url": "https://ca.wikipedia.org/wiki/Andreu_Toront"
+     }
+    ]
    ]
   },
   "02-25": {
@@ -2055,7 +2924,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Més tard o més matiner, Carnaval dins del febrer.",
+     "text": "El febrer avergonyit es tapa la cara i surt de nit.",
      "fontId": "viquidites"
     },
     {
@@ -2070,6 +2939,22 @@
      "text": "Pel febrer, desaprofitada l'aigua que cau a la tartera",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1861,
+      "text": "Neix a Barcelona el pintor, escriptor i dramaturg Santiago Rusiñol.",
+      "url": "https://ca.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol"
+     }
+    ],
+    [
+     {
+      "any": 1926,
+      "text": "Mor a Palma l'escriptor i polític mallorquí Joan Alcover i Maspons.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Alcover_i_Maspons"
+     }
+    ]
    ]
   },
   "02-26": {
@@ -2106,6 +2991,22 @@
      "text": "Mes de febrer, un dia dolent i l'altre també",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1868,
+      "text": "Neix a Barcelona el folklorista català Aureli Capmany i Farrés.",
+      "url": "https://ca.wikipedia.org/wiki/Aureli_Capmany_i_Farr%C3%A9s"
+     }
+    ],
+    [
+     {
+      "any": 1826,
+      "text": "Joaquima de Vedruna funda a Vic la congregació de les Germanes Carmelites de la Caritat.",
+      "url": "https://ca.wikipedia.org/wiki/Germanes_Carmelites_de_la_Caritat"
+     }
+    ]
    ]
   },
   "02-27": {
@@ -2146,6 +3047,22 @@
      "text": "Febrer ventós, cara de gos.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1863,
+      "text": "Neix a València el pintor valencià Joaquim Sorolla i Bastida.",
+      "url": "https://ca.wikipedia.org/wiki/Joaquim_Sorolla_i_Bastida"
+     }
+    ],
+    [
+     {
+      "any": 1921,
+      "text": "L'Orfeó Català ofereix a Barcelona la primera audició a la península de la «Passió segons sant Mateu», de Bach.",
+      "url": "https://ca.wikipedia.org/wiki/Passi%C3%B3_segons_sant_Mateu"
+     }
+    ]
    ]
   },
   "02-28": {
@@ -2180,6 +3097,22 @@
      "text": "La neu del febrer, se l'emporta amb les potes el llebrer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1861,
+      "text": "Neix a Barcelona l'arpista i compositora Clotilde Cerdà i Bosch, activista pels drets de les dones.",
+      "url": "https://ca.wikipedia.org/wiki/Clotilde_Cerd%C3%A0_i_Bosch"
+     }
+    ],
+    [
+     {
+      "any": 1921,
+      "text": "Neix a Paterna, a l'Horta Oest, l'actor Antoni Ferrandis Monrabal.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_Ferrandis_Monrabal"
+     }
+    ]
    ]
   },
   "02-29": {
@@ -2223,8 +3156,8 @@
    "santoralVisibles": 1,
    "mundials": [
     {
-     "nom": "Dia per a la Discriminació Zero (ONUSIDA)",
-     "org": "Nacions Unides",
+     "nom": "Dia per a la Discriminació Zero",
+     "org": "ONUSIDA",
      "font": "https://www.un.org/en/observances/list-days-weeks"
     },
     {
@@ -2250,6 +3183,22 @@
      "text": "Qui poda per Sant Albí sempre tindrà vinyar i beurà bon vi.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2005,
+      "text": "Comença a emetre des de Calvià IB3 Ràdio, l'emissora pública de les Illes Balears.",
+      "url": "https://ca.wikipedia.org/wiki/IB3_Televisi%C3%B3"
+     }
+    ],
+    [
+     {
+      "any": 1886,
+      "text": "Es funda el Club Gimnàstic de Tarragona al Café del Centro, a la Rambla Nova.",
+      "url": "https://ca.wikipedia.org/wiki/Club_Gimn%C3%A0stic_de_Tarragona"
+     }
+    ]
    ]
   },
   "03-02": {
@@ -2264,8 +3213,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Tothom té, i sant Joan té es xot i sant Antoni es porc",
-     "fontId": "pamies-tematic"
+     "text": "El març marceja i la gent bogeja.",
+     "fontId": "viquidites"
     },
     {
      "text": "Olives, una per sant Joan i cent per Nadal",
@@ -2315,6 +3264,22 @@
      "text": "Pel març, la múrgola sota l'arçar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1459,
+      "text": "Mor a València el poeta Ausiàs March, nascut cap al final del segle XIV.",
+      "url": "https://ca.wikipedia.org/wiki/Ausi%C3%A0s_March"
+     }
+    ],
+    [
+     {
+      "any": 1923,
+      "text": "S'inaugura a Barcelona el viaducte de Vallcarca, sobre la riera del mateix nom.",
+      "url": "https://ca.wikipedia.org/wiki/Viaducte_de_Vallcarca"
+     }
+    ]
    ]
   },
   "03-04": {
@@ -2347,6 +3312,22 @@
      "text": "Pel març, poc espigat, i per l'abril, espigues mil",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1903,
+      "text": "Es funda a Barcelona el Centre Autonomista de Dependents del Comerç i de la Indústria, el CADCI.",
+      "url": "https://ca.wikipedia.org/wiki/Centre_Autonomista_de_Dependents_del_Comer%C3%A7_i_de_la_Ind%C3%BAstria"
+     }
+    ],
+    [
+     {
+      "any": 1953,
+      "text": "Neix a Palma el director de cinema i guionista Agustí Villaronga.",
+      "url": "https://ca.wikipedia.org/wiki/Agust%C3%AD_Villaronga_i_Riutort"
+     }
+    ]
    ]
   },
   "03-05": {
@@ -2372,7 +3353,7 @@
    ],
    "refranys": [
     {
-     "text": "La Mare de Déu de les Arenes, cura el mal de totes menes.",
+     "text": "En el març, qui no té sabates ja pot anar descalç.",
      "fontId": "viquidites"
     },
     {
@@ -2387,6 +3368,22 @@
      "text": "Mare de Déu del Carme, deu-me un bon marit, sia pobre, sia ric, mentre vingui de seguit.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1918,
+      "text": "Neix a Girona el pintor, teòric de l'art i editor Joan-Josep Tharrats i Vidal.",
+      "url": "https://ca.wikipedia.org/wiki/Joan-Josep_Tharrats_i_Vidal"
+     }
+    ],
+    [
+     {
+      "any": 2022,
+      "text": "Mor a Palamós el sociolingüista català Miquel Strubell i Trueta.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_Strubell_i_Trueta"
+     }
+    ]
    ]
   },
   "03-06": {
@@ -2418,6 +3415,22 @@
      "text": "Pel març, les xarxes a la mar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1926,
+      "text": "Una ordre governativa destitueix la junta del Col·legi d'Advocats de Barcelona per haver publicat una llista en català.",
+      "url": "https://ca.wikipedia.org/wiki/Il%C2%B7lustre_Col%C2%B7legi_de_l'Advocacia_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 2022,
+      "text": "Mor a Tiana el músic, compositor i escriptor Pau Riba i Romeva.",
+      "url": "https://ca.wikipedia.org/wiki/Pau_Riba_i_Romeva"
+     }
+    ]
    ]
   },
   "03-07": {
@@ -2432,8 +3445,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Aquest parla per sa boca, com sant Pau",
-     "fontId": "pamies-tematic"
+     "text": "Març falsa primavera que enganya al bestiar.",
+     "fontId": "viquidites"
     },
     {
      "text": "Pel març, corre el diable per totes parts",
@@ -2447,6 +3460,22 @@
      "text": "El fus va cap per avall, pel març",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1978,
+      "text": "S'estrena a Palma «Mori el Merma», obra del Teatre de la Claca amb gegants i capgrossos creats amb Joan Miró.",
+      "url": "https://ca.wikipedia.org/wiki/Palma"
+     }
+    ],
+    [
+     {
+      "any": 1927,
+      "text": "Neix a Barcelona l'escriptor, periodista i editor Josep Maria Espinàs i Massip.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Maria_Espin%C3%A0s_i_Massip"
+     }
+    ]
    ]
   },
   "03-08": {
@@ -2485,6 +3514,22 @@
      "text": "Qui riu per Sant Joan, plora per Nadal",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1897,
+      "text": "Neix a Palafrugell, al Baix Empordà, l'escriptor i periodista Josep Pla i Casadevall.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Pla_i_Casadevall"
+     }
+    ],
+    [
+     {
+      "any": 1841,
+      "text": "Neix a Barcelona el polític i escriptor Valentí Almirall i Llozer.",
+      "url": "https://ca.wikipedia.org/wiki/Valent%C3%AD_Almirall_i_Llozer"
+     }
+    ]
    ]
   },
   "03-09": {
@@ -2515,6 +3560,22 @@
      "text": "Per sant Pacià, el tord ve i l'oreneta se'n va",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1930,
+      "text": "Neix a Vic la poeta i novel·lista Maria Àngels Anglada i d'Abadal.",
+      "url": "https://ca.wikipedia.org/wiki/Maria_%C3%80ngels_Anglada_i_d'Abadal"
+     }
+    ],
+    [
+     {
+      "any": 1446,
+      "text": "Alfons el Magnànim concedeix a Girona el privilegi d'impartir titulacions, origen de l'Estudi General de la ciutat.",
+      "url": "https://ca.wikipedia.org/wiki/Alfons_el_Magn%C3%A0nim"
+     }
+    ]
    ]
   },
   "03-10": {
@@ -2546,6 +3607,22 @@
      "text": "Pel març, mal de peus i mal de cap",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1854,
+      "text": "Neix a Pollença, a Mallorca, el poeta Miquel Costa i Llobera.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_Costa_i_Llobera"
+     }
+    ],
+    [
+     {
+      "any": 1885,
+      "text": "Es lliura al rei Alfons XII el Memorial de Greuges, amb reivindicacions polítiques i econòmiques de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Memorial_de_greuges"
+     }
+    ]
    ]
   },
   "03-11": {
@@ -2577,6 +3654,22 @@
      "text": "Neu gelada al mes de març, pluja o gelada de maig",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1911,
+      "text": "S'estrena al Palau de la Música Catalana la suite per a piano «Goyescas», d'Enric Granados.",
+      "url": "https://ca.wikipedia.org/wiki/Goyescas_(Granados)"
+     }
+    ],
+    [
+     {
+      "any": 1912,
+      "text": "Neix a Girona el compositor i crític musical Xavier Montsalvatge i Bassols.",
+      "url": "https://ca.wikipedia.org/wiki/Xavier_Montsalvatge_i_Bassols"
+     }
+    ]
    ]
   },
   "03-12": {
@@ -2608,6 +3701,22 @@
      "text": "Si al març marcege a l'abril fumege",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1875,
+      "text": "Neix a Sant Feliu de Guíxols el compositor de sardanes Juli Garreta i Arboix.",
+      "url": "https://ca.wikipedia.org/wiki/Juli_Garreta_i_Arboix"
+     }
+    ],
+    [
+     {
+      "any": 1965,
+      "text": "Les autoritats franquistes expulsen l'abat Escarré, que s'exilia a Milà, arran de les declaracions fetes a «Le Monde».",
+      "url": "https://ca.wikipedia.org/wiki/Aureli_Maria_Escarr%C3%A9_i_Jan%C3%A9"
+     }
+    ]
    ]
   },
   "03-13": {
@@ -2622,8 +3731,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "El sol de març dóna cops al cap (o porta mal de cap)",
-     "fontId": "pamies-tematic"
+     "text": "El sol de març es coneix set anys a la cara.",
+     "fontId": "viquidites"
     },
     {
      "text": "Març ventós i juny calent, bon vi bon forment",
@@ -2637,6 +3746,22 @@
      "text": "Pel març ton les ovelles, tant les joves com les velles",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2012,
+      "text": "Mor a Granada l'escriptora catalana Teresa Pàmies i Bertran.",
+      "url": "https://ca.wikipedia.org/wiki/Teresa_P%C3%A0mies_i_Bertran"
+     }
+    ],
+    [
+     {
+      "any": 1961,
+      "text": "Surt a Perpinyà el primer número de la revista «Sant Joan i Barres».",
+      "url": "https://ca.wikipedia.org/wiki/Sant_Joan_i_Barres"
+     }
+    ]
    ]
   },
   "03-14": {
@@ -2667,6 +3792,22 @@
      "text": "No hi ha gall ni gallina que pel març no tingui la pepida",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1993,
+      "text": "Andorra aprova en referèndum la primera Constitució del país.",
+      "url": "https://ca.wikipedia.org/wiki/Refer%C3%A8ndum_constitucional_d'Andorra_de_1993"
+     }
+    ],
+    [
+     {
+      "any": 1937,
+      "text": "Neix a Andratx, a Mallorca, l'escriptor i periodista Baltasar Porcel i Pujol.",
+      "url": "https://ca.wikipedia.org/wiki/Baltasar_Porcel_i_Pujol"
+     }
+    ]
    ]
   },
   "03-15": {
@@ -2706,6 +3847,22 @@
      "text": "La botifarra més bona, encetada per santa Madrona",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1298,
+      "text": "Jaume el Just funda el monestir de Santa Maria de la Valldigna, amb dotze monjos i un abat vinguts de Santes Creus.",
+      "url": "https://ca.wikipedia.org/wiki/Monestir_de_Santa_Maria_de_la_Valldigna"
+     }
+    ],
+    [
+     {
+      "any": 1942,
+      "text": "Neix a Barcelona la soprano Montserrat Figueras, especialitzada en música antiga.",
+      "url": "https://ca.wikipedia.org/wiki/Montserrat_Figueras"
+     }
+    ]
    ]
   },
   "03-16": {
@@ -2740,6 +3897,22 @@
      "text": "Març oratjós i abril plujós fan el bover joiós",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2001,
+      "text": "Es posa en marxa la Viquipèdia en català, l'edició en llengua catalana de l'enciclopèdia lliure.",
+      "url": "https://ca.wikipedia.org/wiki/Viquip%C3%A8dia_en_catal%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1865,
+      "text": "Neix a Barcelona la periodista, escriptora i musicòloga Carme Karr i Alfonsetti.",
+      "url": "https://ca.wikipedia.org/wiki/Carme_Karr_i_Alfonsetti"
+     }
+    ]
    ]
   },
   "03-17": {
@@ -2769,6 +3942,22 @@
      "text": "Dites populars i refranys del mes de març",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1917,
+      "text": "Surt a la venda a Barcelona el primer número de la revista d'historietes «TBO».",
+      "url": "https://ca.wikipedia.org/wiki/TBO"
+     }
+    ],
+    [
+     {
+      "any": 1398,
+      "text": "Es dona per acabada la construcció de la Porta dels Serrans, a la ciutat de València.",
+      "url": "https://ca.wikipedia.org/wiki/Porta_dels_Serrans"
+     }
+    ]
    ]
   },
   "03-18": {
@@ -2799,6 +3988,22 @@
      "text": "El març porta mal de cap",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1981,
+      "text": "Neix a Barcelona la Crida a la Solidaritat en Defensa de la Llengua, la Cultura i la Nació Catalanes.",
+      "url": "https://ca.wikipedia.org/wiki/Crida_a_la_Solidaritat_en_Defensa_de_la_Llengua,_la_Cultura_i_la_Naci%C3%B3_Catalanes"
+     }
+    ],
+    [
+     {
+      "any": 1885,
+      "text": "Neix a Albaida, a la Vall d'Albaida, el pintor Josep Segrelles i Albert.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Segrelles_i_Albert"
+     }
+    ]
    ]
   },
   "03-19": {
@@ -2827,6 +4032,22 @@
      "text": "Per Sant Josep, verdeja el cep.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1882,
+      "text": "Es posa a Barcelona la primera pedra del temple expiatori de la Sagrada Família.",
+      "url": "https://ca.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+     }
+    ],
+    [
+     {
+      "any": 1929,
+      "text": "Neix a Roda de Ter, a Osona, el poeta, escriptor i traductor Miquel Martí i Pol.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_Mart%C3%AD_i_Pol"
+     }
+    ]
    ]
   },
   "03-20": {
@@ -2849,8 +4070,8 @@
    ],
    "refranys": [
     {
-     "text": "Per Sant Maties, tant de nit com de dies [o fa tanta nit com dia]",
-     "fontId": "gargallo"
+     "text": "A mitjans de març el sol ja fa ombra i ja canta l'alosa.",
+     "fontId": "viquidites"
     },
     {
      "text": "Per Sant Martí, el porc deixa de grunyir",
@@ -2864,6 +4085,22 @@
      "text": "Per Sant Martí es beu el bon vi",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1350,
+      "text": "Pere el Cerimoniós crea la Universitat de Perpinyà en forma d'Estudi General, la tercera de la Corona d'Aragó.",
+      "url": "https://ca.wikipedia.org/wiki/Pere_el_Cerimoni%C3%B3s"
+     }
+    ],
+    [
+     {
+      "any": 1938,
+      "text": "Neix a Sueca, a la Ribera Baixa, l'escriptor Josep Palàcios i Martínez.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Pal%C3%A0cios_i_Mart%C3%ADnez"
+     }
+    ]
    ]
   },
   "03-21": {
@@ -2927,6 +4164,22 @@
      "text": "Per Sant Benet, molta neu i molt de fred",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1905,
+      "text": "Neix a Barcelona el lingüista Joan Coromines, autor del «Diccionari etimològic i complementari de la llengua catalana».",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Coromines_i_Vigneaux"
+     }
+    ],
+    [
+     {
+      "any": 1935,
+      "text": "S'estrena al teatre Poliorama de Barcelona la comèdia «La Rambla de les Floristes», de Josep Maria de Sagarra.",
+      "url": "https://ca.wikipedia.org/wiki/Teatre_Poliorama"
+     }
+    ]
    ]
   },
   "03-22": {
@@ -2963,6 +4216,22 @@
      "text": "Març, marcedor, que de nit fa fred i de dia calor",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1931,
+      "text": "S'inaugura el tren cremallera que puja de Ribes de Freser al santuari de Núria passant per Queralbs.",
+      "url": "https://ca.wikipedia.org/wiki/Cremallera_de_N%C3%BAria"
+     }
+    ],
+    [
+     {
+      "any": 2020,
+      "text": "Mor a Barcelona el filòleg i lexicòleg valencià Germà Colón i Domènech.",
+      "url": "https://ca.wikipedia.org/wiki/Germ%C3%A0_Col%C3%B3n_i_Dom%C3%A8nech"
+     }
+    ]
    ]
   },
   "03-23": {
@@ -2995,6 +4264,22 @@
      "text": "Per Sant Josep, el pàmpol al cep",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1918,
+      "text": "Neix a Castelló de la Plana la compositora i pintora Matilde Salvador i Segarra.",
+      "url": "https://ca.wikipedia.org/wiki/Matilde_Salvador_i_Segarra"
+     }
+    ],
+    [
+     {
+      "any": 1880,
+      "text": "S'estrena al Teatre Romea de Barcelona «El forn del rei», drama en tres actes i en vers de Frederic Soler.",
+      "url": "https://ca.wikipedia.org/wiki/El_forn_del_rei"
+     }
+    ]
    ]
   },
   "03-24": {
@@ -3021,8 +4306,8 @@
    ],
    "refranys": [
     {
-     "text": "De santa Caterina a Nadal, un mes cabal",
-     "fontId": "pamies-tematic"
+     "text": "Quan març fa de maig, maig fa de març.",
+     "fontId": "viquidites"
     },
     {
      "text": "Per santa Caterina la bleda és bona com la gallina",
@@ -3036,6 +4321,22 @@
      "text": "Gall de santa Caterina, passa ben bé la farina, perquè si m'espatlles el sedàs te daré un cop de sab",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1935,
+      "text": "Neix a Mataró Pere Pubill i Calaf, Peret, creador de la rumba catalana.",
+      "url": "https://ca.wikipedia.org/wiki/Pere_Pubill_i_Calaf"
+     }
+    ],
+    [
+     {
+      "any": 1895,
+      "text": "Es crea a Barcelona la Biblioteca Pública Arús, amb 25.000 volums, per encàrrec testamentari de Rossend Arús.",
+      "url": "https://ca.wikipedia.org/wiki/Biblioteca_P%C3%BAblica_Ar%C3%BAs"
+     }
+    ]
    ]
   },
   "03-25": {
@@ -3078,6 +4379,22 @@
      "text": "L'Encarnació se n'emporta el gel i duu la calor",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1329,
+      "text": "Comença a Barcelona la construcció de l'església de Santa Maria del Mar.",
+      "url": "https://ca.wikipedia.org/wiki/Santa_Maria_del_Mar"
+     }
+    ],
+    [
+     {
+      "any": 1972,
+      "text": "Mor a la ciutat de València l'arquitecte valencià Francisco Javier Goerlich Lleó.",
+      "url": "https://ca.wikipedia.org/wiki/Francisco_Javier_Goerlich_Lle%C3%B3"
+     }
+    ]
    ]
   },
   "03-26": {
@@ -3109,6 +4426,22 @@
      "text": "Al març ix lo sol com un cabàs",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1326,
+      "text": "Els reis Jaume II i Elisenda de Montcada posen la primera pedra de l'església del monestir de Pedralbes, a Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Monestir_de_Santa_Maria_de_Pedralbes"
+     }
+    ],
+    [
+     {
+      "any": 1969,
+      "text": "Mor a Illa, al Rosselló, la poeta i pintora Simona Gay, nom de Simona Pons i Trainier.",
+      "url": "https://ca.wikipedia.org/wiki/Simona_Gay"
+     }
+    ]
    ]
   },
   "03-27": {
@@ -3123,8 +4456,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Les olives per sant Joan són com a grans de sal; per sant Pere, com a grans de pebre",
-     "fontId": "pamies-tematic"
+     "text": "Si ta casa vols obrar, pel març has de començar.",
+     "fontId": "viquidites"
     },
     {
      "text": "Una oliva a sant Joan, cent a Nadal",
@@ -3138,6 +4471,22 @@
      "text": "Per Nadal al joc, per sant Joan al foc",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1869,
+      "text": "Es publica a Barcelona el primer número de «La Flaca», revista satírica i política.",
+      "url": "https://ca.wikipedia.org/wiki/La_Flaca"
+     }
+    ],
+    [
+     {
+      "any": 1993,
+      "text": "Mor a València el poeta i periodista Vicent Andrés i Estellés.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Andr%C3%A9s_i_Estell%C3%A9s"
+     }
+    ]
    ]
   },
   "03-28": {
@@ -3148,8 +4497,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Per Sant Sixt, busca el raïm allí on l'has vist",
-     "fontId": "pamies-tematic"
+     "text": "Els ocells, per la Quaresma festegen i per Pasqua es casen.",
+     "fontId": "viquidites"
     },
     {
      "text": "No és bon Sant Sixte i Sant Ou si no plou",
@@ -3163,6 +4512,22 @@
      "text": "Neu gelada al mes de març, pluja forta al mes de maig.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1933,
+      "text": "Neix a Barcelona el pianista de jazz Tete Montoliu, cec de naixement.",
+      "url": "https://ca.wikipedia.org/wiki/Tete_Montoliu"
+     }
+    ],
+    [
+     {
+      "any": 1954,
+      "text": "Es col·loca a Barcelona la primera pedra del Camp Nou, l'estadi del Futbol Club Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Camp_Nou"
+     }
+    ]
    ]
   },
   "03-29": {
@@ -3191,6 +4556,22 @@
      "text": "Pel març, el sol crema i l'aigua rega",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1931,
+      "text": "El Patronat Escolar de Barcelona inaugura alhora onze escoles públiques, entre elles la Baldiri Reixac i la Ramon Llull.",
+      "url": "https://ca.wikipedia.org/wiki/Patronat_Escolar_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1945,
+      "text": "Neix a Costoja, al Vallespir, l'escriptor i polític nord-català Llorenç Planes.",
+      "url": "https://ca.wikipedia.org/wiki/Lloren%C3%A7_Planes"
+     }
+    ]
    ]
   },
   "03-30": {
@@ -3230,6 +4611,22 @@
      "text": "A darrers de març o a primers d'abril canta el cucut si és viu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1930,
+      "text": "Es funda el Club Joventut Badalona, «la Penya», amb el nom inicial de Penya Spirit of Badalona.",
+      "url": "https://ca.wikipedia.org/wiki/Club_Joventut_Badalona"
+     }
+    ],
+    [
+     {
+      "any": 1889,
+      "text": "Neix al Rosselló el narrador, dramaturg i poeta Carles Grandó, activista de la recuperació del català.",
+      "url": "https://ca.wikipedia.org/wiki/Carles_Grand%C3%B3"
+     }
+    ]
    ]
   },
   "03-31": {
@@ -3255,6 +4652,22 @@
      "text": "Boira en març, una ploguda en maig",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1944,
+      "text": "L'Orquestra Municipal de Barcelona, l'actual OBC, fa el primer concert al Palau de la Música, dirigida per Eduard Toldrà.",
+      "url": "https://ca.wikipedia.org/wiki/Orquestra_Municipal_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1919,
+      "text": "Mor a Barcelona l'escriptora i periodista Dolors Monserdà i Vidal.",
+      "url": "https://ca.wikipedia.org/wiki/Dolors_Monserd%C3%A0_i_Vidal"
+     }
+    ]
    ]
   },
   "04-01": {
@@ -3288,6 +4701,22 @@
      "text": "A l'abril amanix llenya i foguerill.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1918,
+      "text": "Neix a l'Aranyó, a la Segarra, l'escriptor Manuel de Pedrolo i Molina.",
+      "url": "https://ca.wikipedia.org/wiki/Manuel_de_Pedrolo_i_Molina"
+     }
+    ],
+    [
+     {
+      "any": 1908,
+      "text": "Es publica a l'Alguer el primer i únic número de la revista «La Sardenya Catalana».",
+      "url": "https://ca.wikipedia.org/wiki/La_Sardenya_Catalana"
+     }
+    ]
    ]
   },
   "04-02": {
@@ -3327,6 +4756,22 @@
      "text": "Per Sant Francesc, vetlles",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1876,
+      "text": "Neix a la ciutat de Barcelona la pintora catalana Lluïsa Vidal i Puig.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%AFsa_Vidal_i_Puig"
+     }
+    ],
+    [
+     {
+      "any": 1700,
+      "text": "Un edicte de Lluís XIV imposa el francès als actes públics del Rosselló, el Conflent i la Cerdanya i n'exclou el català.",
+      "url": "https://ca.wikipedia.org/wiki/Cronologia_de_la_repressi%25C3%25B3_del_catal%25C3%25A0"
+     }
+    ]
    ]
   },
   "04-03": {
@@ -3360,6 +4805,22 @@
      "text": "Per l'abril, barques de bou, a dormir",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2004,
+      "text": "Obre al públic el Trambaix, la xarxa de tramvia que connecta el Baix Llobregat amb Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Tram_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1924,
+      "text": "Neix a Perpinyà, al Rosselló, el compositor de sardanes Max Havart.",
+      "url": "https://ca.wikipedia.org/wiki/Max_Havart"
+     }
+    ]
    ]
   },
   "04-04": {
@@ -3376,8 +4837,8 @@
    ],
    "refranys": [
     {
-     "text": "Ser pluja d'abril!",
-     "fontId": "pamies-tematic"
+     "text": "Per l'abril cada ocell canta en son niu.",
+     "fontId": "viquidites"
     },
     {
      "text": "Si el dia tres d'abril el cucut no fa piu-piu, o és mort o és viu, o assenyala mal estiu",
@@ -3391,6 +4852,22 @@
      "text": "Si el tres d'abril el puput no ha cantat, o és mort, o és enterrat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1847,
+      "text": "Obre les portes a Barcelona, amb la funció inaugural, el Gran Teatre del Liceu.",
+      "url": "https://ca.wikipedia.org/wiki/Gran_Teatre_del_Liceu"
+     }
+    ],
+    [
+     {
+      "any": 1943,
+      "text": "Neix a Alcoi l'escriptora i periodista Isabel-Clara Simó i Monllor.",
+      "url": "https://ca.wikipedia.org/wiki/Isabel-Clara_Sim%C3%B3_i_Monllor"
+     }
+    ]
    ]
   },
   "04-05": {
@@ -3426,6 +4903,22 @@
      "text": "Dia de Sant Vicent Espanyol (22 gener), bona anyada de rém si fa bon sol",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1904,
+      "text": "Francesc Moragas funda a Barcelona la Caixa de Pensions per a la Vellesa i d'Estalvis de Catalunya i Balears.",
+      "url": "https://ca.wikipedia.org/wiki/Caixa_de_Pensions_per_a_la_Vellesa_i_d'Estalvis_de_Catalunya_i_Balears"
+     }
+    ],
+    [
+     {
+      "any": 1419,
+      "text": "Mor a Vannes, a la Bretanya, el dominic i predicador valencià sant Vicent Ferrer.",
+      "url": "https://ca.wikipedia.org/wiki/Sant_Vicent_Ferrer"
+     }
+    ]
    ]
   },
   "04-06": {
@@ -3468,6 +4961,22 @@
      "text": "Per lo mes d'abril, no te'n toquis fil",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1983,
+      "text": "El Parlament de Catalunya aprova per unanimitat la primera Llei de Normalització Lingüística.",
+      "url": "https://ca.wikipedia.org/wiki/Llei_de_Normalitzaci%C3%B3_Ling%C3%BC%C3%ADstica_a_Catalunya"
+     }
+    ],
+    [
+     {
+      "any": 2021,
+      "text": "Mor a Perpinyà l'escriptora i gastrònoma Eliana Thibaut i Comalada.",
+      "url": "https://ca.wikipedia.org/wiki/Eliana_Thibaut_i_Comalada"
+     }
+    ]
    ]
   },
   "04-07": {
@@ -3493,8 +5002,8 @@
    ],
    "refranys": [
     {
-     "text": "El qui sega a Sant Joan no li empra a Sant Pere",
-     "fontId": "pamies-tematic"
+     "text": "Abril plujós i maig ventós, fan l'any ric i profitós.",
+     "fontId": "viquidites"
     },
     {
      "text": "Les cabres, per Sant Joan, de bon matí les veuràs",
@@ -3508,6 +5017,22 @@
      "text": "Per Sant Joan, les estimades troben les enramades",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1261,
+      "text": "Jaume I jura els Furs a València davant les primeres corts forals valencianes.",
+      "url": "https://ca.wikipedia.org/wiki/Jaume_I"
+     }
+    ],
+    [
+     {
+      "any": 1895,
+      "text": "Neix a Vilanova i la Geltrú el violinista, compositor i director d'orquestra Eduard Toldrà i Soler.",
+      "url": "https://ca.wikipedia.org/wiki/Eduard_Toldr%C3%A0_i_Soler"
+     }
+    ]
    ]
   },
   "04-08": {
@@ -3533,6 +5058,22 @@
      "text": "Quan per l'abril trona, la collita és bona",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1888,
+      "text": "Obre les portes al públic a la ciutat de Barcelona l'Exposició Universal.",
+      "url": "https://ca.wikipedia.org/wiki/Exposici%C3%B3_Universal_de_Barcelona_(1888)"
+     }
+    ],
+    [
+     {
+      "any": 1861,
+      "text": "Neix a València el compositor de sarsuela Vicent Peydró i Díez.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Peydr%C3%B3_i_D%C3%ADez"
+     }
+    ]
    ]
   },
   "04-09": {
@@ -3550,8 +5091,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Per santa Mariagna, ve l'ull de bou i se'n va la piula hortolana",
-     "fontId": "pamies-tematic"
+     "text": "Si per l'abril plou el dia nou, es perden les figues flors.",
+     "fontId": "gimeno"
     },
     {
      "text": "Qui no sembra al mes d'abril, poc pa a casa portarà, i poc se n'hi en donarà que cada gota en valgui mil",
@@ -3565,6 +5106,22 @@
      "text": "Abril amb tija, maig amb espiga",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1888,
+      "text": "Neix a Lleida el botànic, farmacèutic i químic Pius Font i Quer.",
+      "url": "https://ca.wikipedia.org/wiki/Pius_Font_i_Quer"
+     }
+    ],
+    [
+     {
+      "any": 1861,
+      "text": "Un incendi iniciat al quart pis destrueix completament el Gran Teatre del Liceu de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Gran_Teatre_del_Liceu"
+     }
+    ]
    ]
   },
   "04-10": {
@@ -3597,6 +5154,22 @@
      "text": "Abril finit, el cep florit",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1980,
+      "text": "S'obre la sessió constitutiva de la primera legislatura del Parlament de Catalunya després de la dictadura franquista.",
+      "url": "https://ca.wikipedia.org/wiki/Primera_legislatura_de_la_Catalunya_auton%C3%B2mica"
+     }
+    ],
+    [
+     {
+      "any": 1816,
+      "text": "Neix a Tortosa el poeta, dramaturg i publicista Jaume Tió i Noé.",
+      "url": "https://ca.wikipedia.org/wiki/Jaume_Ti%C3%B3_i_No%C3%A9"
+     }
+    ]
    ]
   },
   "04-11": {
@@ -3628,6 +5201,22 @@
      "text": "Fred en abril (o per l'abril, o d'abril), no faltarà pa ni vi",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1872,
+      "text": "L'Ateneu Català i el Centre Mercantil Barcelonès acorden fusionar-se per fundar l'Ateneu Barcelonès.",
+      "url": "https://ca.wikipedia.org/wiki/Ateneu_Barcelon%C3%A8s"
+     }
+    ],
+    [
+     {
+      "any": 1832,
+      "text": "Neix a la ciutat de València el dramaturg Rafael Maria Liern i Cerach.",
+      "url": "https://ca.wikipedia.org/wiki/Rafael_Maria_Liern_i_Cerach"
+     }
+    ]
    ]
   },
   "04-12": {
@@ -3669,6 +5258,22 @@
      "text": "Si per l'abril el cucut no fa piu-piu, o és mort, o és viu, o sent mal estiu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1933,
+      "text": "Neix a la ciutat de Barcelona la soprano catalana Montserrat Caballé.",
+      "url": "https://ca.wikipedia.org/wiki/Montserrat_Caball%C3%A9_i_Folc"
+     }
+    ],
+    [
+     {
+      "any": 1964,
+      "text": "Mor a Barcelona l'escriptor i periodista Agustí Calvet i Pascual, conegut com a Gaziel.",
+      "url": "https://ca.wikipedia.org/wiki/Agust%C3%AD_Calvet_i_Pascual"
+     }
+    ]
    ]
   },
   "04-13": {
@@ -3700,6 +5305,22 @@
      "text": "Per Sant Martí, la neu al pi.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2019,
+      "text": "Mor als Guiamets Neus Català i Pallejà, supervivent del camp de concentració nazi de Ravensbrück.",
+      "url": "https://ca.wikipedia.org/wiki/Neus_Catal%C3%A0_i_Pallej%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1876,
+      "text": "Neix a Palma la pintora mallorquina Pilar Montaner i Maturana.",
+      "url": "https://ca.wikipedia.org/wiki/Pilar_Montaner_i_Maturana"
+     }
+    ]
    ]
   },
   "04-14": {
@@ -3737,6 +5358,22 @@
      "text": "Per Sant Valerià, el tord ve i la griva se’n va",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1931,
+      "text": "Francesc Macià proclama a Barcelona la República Catalana dins la Federació Ibèrica.",
+      "url": "https://ca.wikipedia.org/wiki/Francesc_Maci%C3%A0_i_Lluss%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1976,
+      "text": "Es constitueix a València la Taula de Forces Polítiques i Sindicals del País Valencià.",
+      "url": "https://ca.wikipedia.org/wiki/Taula_de_Forces_Pol%C3%ADtiques_i_Sindicals_del_Pa%C3%ADs_Valenci%C3%A0"
+     }
+    ]
    ]
   },
   "04-15": {
@@ -3772,6 +5409,22 @@
      "text": "A l'abril, no et llevis fil",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2015,
+      "text": "El Parlament de Catalunya aprova la creació del Moianès, que passa a ser la comarca número 42 del Principat.",
+      "url": "https://ca.wikipedia.org/wiki/Parlament_de_Catalunya"
+     }
+    ],
+    [
+     {
+      "any": 2015,
+      "text": "Mor a Banyuls de la Marenda la cantautora i activista política Teresa Rebull.",
+      "url": "https://ca.wikipedia.org/wiki/Teresa_Rebull"
+     }
+    ]
    ]
   },
   "04-16": {
@@ -3805,6 +5458,22 @@
      "text": "Fins que la lluna d'abril no hagi passat, no donis l'hivern per acabat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1893,
+      "text": "Neix a la ciutat de Barcelona el compositor català Frederic Mompou.",
+      "url": "https://ca.wikipedia.org/wiki/Frederic_Mompou"
+     }
+    ],
+    [
+     {
+      "any": 1969,
+      "text": "L'escriptor Jordi Rubió i Balaguer rep a Barcelona el primer Premi d'Honor de les Lletres Catalanes.",
+      "url": "https://ca.wikipedia.org/wiki/Jordi_Rubi%C3%B3_i_Balaguer"
+     }
+    ]
    ]
   },
   "04-17": {
@@ -3822,8 +5491,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Diuen els goigs de Sant Elies: perquè no els guardaves quan els tenies",
-     "fontId": "pamies-tematic"
+     "text": "Per l'abril, flors, olors i predicadors.",
+     "fontId": "viquidites"
     },
     {
      "text": "Els goigs de Sant Elies: perquè no els guardaves quan els tenies",
@@ -3837,6 +5506,22 @@
      "text": "Ho haguessis fet com Sant Elies, haver-los guardat quan els tenies",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1931,
+      "text": "La República Catalana es converteix en la Generalitat de Catalunya, amb Francesc Macià de president.",
+      "url": "https://ca.wikipedia.org/wiki/Espanya"
+     }
+    ],
+    [
+     {
+      "any": 1723,
+      "text": "Mor a València Tomàs Vicent Tosca i Mascó, matemàtic, cartògraf i teòleg valencià.",
+      "url": "https://ca.wikipedia.org/wiki/Tom%C3%A0s_Vicent_Tosca_i_Masc%C3%B3"
+     }
+    ]
    ]
   },
   "04-18": {
@@ -3867,6 +5552,22 @@
      "text": "Per l'abril, ocells a mils",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1867,
+      "text": "Neix al Masnou el músic Lluís Millet i Pagès, fundador de l'Orfeó Català.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Millet_i_Pag%C3%A8s"
+     }
+    ],
+    [
+     {
+      "any": 1599,
+      "text": "El rei Felip III de Castella es casa amb Margarida d'Àustria a la catedral de València.",
+      "url": "https://ca.wikipedia.org/wiki/Margarida_d'%C3%80ustria_(reina_d'Espanya)"
+     }
+    ]
    ]
   },
   "04-19": {
@@ -3893,6 +5594,22 @@
      "text": "Abril mullat, de pa en ve carregat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1922,
+      "text": "Es funda a Barcelona el PEN català, el tercer del món després de l'anglès i el francès.",
+      "url": "https://ca.wikipedia.org/wiki/PEN_catal%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1882,
+      "text": "Neix a Castelló de la Plana l'empresari, polític i mecenes Gaetà Huguet i Segarra.",
+      "url": "https://ca.wikipedia.org/wiki/Gaet%C3%A0_Huguet_i_Segarra"
+     }
+    ]
    ]
   },
   "04-20": {
@@ -3932,6 +5649,22 @@
      "text": "Si trona per l'abril, ve bon estiu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1893,
+      "text": "Neix a la ciutat de Barcelona el pintor català Joan Miró i Ferrà.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Mir%C3%B3_i_Ferr%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1905,
+      "text": "La revista «Joventut» publica l'últim plec de la novel·la «Solitud», de Caterina Albert.",
+      "url": "https://ca.wikipedia.org/wiki/Joventut_(revista)"
+     }
+    ]
    ]
   },
   "04-21": {
@@ -4007,9 +5740,26 @@
      "text": "Per l'abril abriló, bon brossat formatge millor",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1866,
+      "text": "El bisbe d'Urgell Josep Caixal promulga a Andorra la llei coneguda com la «Nova Reforma».",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Caixal_i_Estrad%C3%A9"
+     }
+    ],
+    [
+     {
+      "any": 1890,
+      "text": "Neix a Carcaixent, a la Ribera Alta, Joan Vert, compositor valencià de sarsueles.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Vert"
+     }
+    ]
    ]
   },
   "04-23": {
+   "especial": "Sant Jordi",
    "santoral": [
     "Sant Jordi, màrtir, patró de Catalunya",
     "Sant Adalbert de Praga, bisbe i màrtir",
@@ -4021,11 +5771,6 @@
    ],
    "santoralVisibles": 2,
    "mundials": [
-    {
-     "nom": "Dia Internacional de les Noies en les TIC",
-     "org": "UIT",
-     "font": "https://www.un.org/en/observances/list-days-weeks"
-    },
     {
      "nom": "Dia Mundial del Llibre i del Dret d'Autor",
      "org": "UNESCO",
@@ -4059,6 +5804,22 @@
      "text": "Per Sant Jordi, mira l’ordi",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1976,
+      "text": "Surt a Barcelona, el dia de Sant Jordi, el primer número del diari «Avui».",
+      "url": "https://ca.wikipedia.org/wiki/Diari_Avui"
+     }
+    ],
+    [
+     {
+      "any": 1981,
+      "text": "Mor a Llofriu, al Baix Empordà, l'escriptor Josep Pla i Casadevall.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Pla_i_Casadevall"
+     }
+    ]
    ]
   },
   "04-24": {
@@ -4101,6 +5862,22 @@
      "text": "Si per l'abril plou el dia nou es perden les figues flors",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1896,
+      "text": "S'estrena al Teatre Romea de Barcelona «La festa del blat», d'Àngel Guimerà.",
+      "url": "https://ca.wikipedia.org/wiki/La_festa_del_blat"
+     }
+    ],
+    [
+     {
+      "any": 1864,
+      "text": "Neix al Cabanyal de València el dramaturg, novel·lista, compositor i periodista Bernat Morales i Sanmartín.",
+      "url": "https://ca.wikipedia.org/wiki/Bernat_Morales_i_Sanmart%C3%ADn"
+     }
+    ]
    ]
   },
   "04-25": {
@@ -4118,11 +5895,6 @@
     {
      "nom": "Dia Mundial de la Malària",
      "org": "OMS",
-     "font": "https://www.un.org/en/observances/list-days-weeks"
-    },
-    {
-     "nom": "Dia Internacional de les Nenes en les TIC (ITU)",
-     "org": "Nacions Unides",
      "font": "https://www.un.org/en/observances/list-days-weeks"
     }
    ],
@@ -4143,6 +5915,22 @@
      "text": "Passats els Dolors, barques al secador, i per Sant Marc, altra vegada en mar",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1707,
+      "text": "Les tropes borbòniques derroten les austriacistes a la batalla d'Almansa, que obre el Regne de València a la conquesta.",
+      "url": "https://ca.wikipedia.org/wiki/Batalla_d'Almansa"
+     }
+    ],
+    [
+     {
+      "any": 1969,
+      "text": "Mor a Montevideo, a l'Uruguai, l'actriu Margarida Xirgu i Subirà.",
+      "url": "https://ca.wikipedia.org/wiki/Margarida_Xirgu_i_Subir%C3%A0"
+     }
+    ]
    ]
   },
   "04-26": {
@@ -4167,8 +5955,8 @@
      "font": "https://www.un.org/en/observances/list-days-weeks"
     },
     {
-     "nom": "Dia Mundial de la Propietat Intel·lectual (OMPI)",
-     "org": "Nacions Unides",
+     "nom": "Dia Mundial de la Propietat Intel·lectual",
+     "org": "OMPI",
      "font": "https://www.un.org/en/observances/list-days-weeks"
     }
    ],
@@ -4189,6 +5977,22 @@
      "text": "L'abril, treu l'espiga a relluir",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1987,
+      "text": "Vuit mil persones ballen a Lleida una sardana de cinc quilòmetres de llargada i entren al llibre Guinness dels rècords.",
+      "url": "https://ca.wikipedia.org/wiki/Llibre_Guinness_dels_r%C3%A8cords"
+     }
+    ],
+    [
+     {
+      "any": 1924,
+      "text": "Neix a Castelló de la Plana el periodista i polític valencià Vicent Ventura i Beltran.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Ventura_i_Beltran"
+     }
+    ]
    ]
   },
   "04-27": {
@@ -4204,7 +6008,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Per la Mare de Déu d'Agost, a les set ja és fosc.",
+     "text": "A Montserrat, tothom que hi ha anat bé n'ha tornat.",
      "fontId": "viquidites"
     },
     {
@@ -4219,6 +6023,22 @@
      "text": "La Mare de Déu d'Agost, diada molt assenyalada, maduren els albercocs i alguna pruna de frare",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1947,
+      "text": "La festa d'entronització de la Mare de Déu de Montserrat es converteix en una gran manifestació catalanista sota la dictadura.",
+      "url": "https://ca.wikipedia.org/wiki/Entronitzaci%C3%B3_de_la_Mare_de_D%C3%A9u_de_Montserrat_de_1947"
+     }
+    ],
+    [
+     {
+      "any": 1940,
+      "text": "Mor a la ciutat de Barcelona el pintor català Joaquim Mir Trinxet.",
+      "url": "https://ca.wikipedia.org/wiki/Joaquim_Mir_Trinxet"
+     }
+    ]
    ]
   },
   "04-28": {
@@ -4241,8 +6061,8 @@
    ],
    "refranys": [
     {
-     "text": "Plou i neve, a la porta de Sant Pere, plou i fa sol, a la porta de Sant Pol",
-     "fontId": "pamies-tematic"
+     "text": "No hi ha abril sense espigues.",
+     "fontId": "viquidites"
     },
     {
      "text": "Per Sant Pere el dia enrera (18 de gener)",
@@ -4256,6 +6076,22 @@
      "text": "Més anomenat que Sant Pere per les trones",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1907,
+      "text": "Surt a Barcelona el primer número de «Feminal», publicació feminista mensual en català dirigida per Carme Karr.",
+      "url": "https://ca.wikipedia.org/wiki/Feminal"
+     }
+    ],
+    [
+     {
+      "any": 1528,
+      "text": "Mor a Salern, al Regne de Sicília, el militar i poeta valencià Hug de Montcada i de Cardona.",
+      "url": "https://ca.wikipedia.org/wiki/Hug_de_Montcada_i_de_Cardona"
+     }
+    ]
    ]
   },
   "04-29": {
@@ -4294,6 +6130,22 @@
      "text": "Per Santa Caterina, l'oli a l'oliva, i per Sant Llop, l'oli pertot",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2013,
+      "text": "El Celler de Can Roca és escollit a Londres primer restaurant del món per la revista britànica «The Restaurant Magazine».",
+      "url": "https://ca.wikipedia.org/wiki/El_Celler_de_Can_Roca"
+     }
+    ],
+    [
+     {
+      "any": 1930,
+      "text": "Neix a Manacor l'escriptor mallorquí Miquel Àngel Riera Nadal.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_%C3%80ngel_Riera_Nadal"
+     }
+    ]
    ]
   },
   "04-30": {
@@ -4365,8 +6217,8 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Per Sant Josep, crema!",
-     "fontId": "pamies-tematic"
+     "text": "El primer de maig, a fira me'n vaig.",
+     "fontId": "viquidites"
     },
     {
      "text": "Per Sant Josep, cada oreneta en son indret",
@@ -4380,6 +6232,22 @@
      "text": "Per Sant Josep la crosta al cep",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1859,
+      "text": "Es restauren a Barcelona els Jocs Florals, amb la primera edició de l'època moderna.",
+      "url": "https://ca.wikipedia.org/wiki/Jocs_Florals"
+     }
+    ],
+    [
+     {
+      "any": 1531,
+      "text": "Neix a Valldemossa, a Mallorca, Caterina Tomàs i Gallard, que serà santa Catalina Thomàs.",
+      "url": "https://ca.wikipedia.org/wiki/Caterina_Tom%C3%A0s_i_Gallard"
+     }
+    ]
    ]
   },
   "05-02": {
@@ -4411,6 +6279,22 @@
      "text": "Boga i bagassa pel maig està grassa",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1754,
+      "text": "Neix a València el compositor Vicent Martín i Soler, músic del classicisme.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Mart%C3%ADn_i_Soler"
+     }
+    ],
+    [
+     {
+      "any": 1743,
+      "text": "Mor a Sant Boi de Llobregat l'advocat Rafael Casanova, darrer conseller en cap de Barcelona.",
+      "url": "https://ca.wikipedia.org/wiki/Rafael_Casanova_i_Comes"
+     }
+    ]
    ]
   },
   "05-03": {
@@ -4450,6 +6334,22 @@
      "text": "Per Sant Felip comprar i per Sant Jaume pagar bon pagador fa",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1854,
+      "text": "Neix a Palma, a Mallorca, el poeta mallorquí Joan Alcover i Maspons.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Alcover_i_Maspons"
+     }
+    ],
+    [
+     {
+      "any": 1327,
+      "text": "Es consagra l'església de Santa Maria i s'inaugura el monestir de Pedralbes, impulsat per la reina Elisenda de Montcada.",
+      "url": "https://ca.wikipedia.org/wiki/Monestir_de_Pedralbes"
+     }
+    ]
    ]
   },
   "05-04": {
@@ -4490,6 +6390,22 @@
      "text": "Pel maig, floreix el faig i canta el gaig.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1879,
+      "text": "Surt a Barcelona el primer número del «Diari Català», el primer diari escrit íntegrament en català.",
+      "url": "https://ca.wikipedia.org/wiki/Diari_Catal%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1864,
+      "text": "Neix a Campanet, a Mallorca, el periodista i escriptor Miquel dels Sants Oliver.",
+      "url": "https://ca.wikipedia.org/wiki/Miquel_dels_Sants_Oliver_i_Tolr%C3%A0"
+     }
+    ]
    ]
   },
   "05-05": {
@@ -4522,6 +6438,22 @@
      "text": "Maig, juny i juliol, qui no pesca sardina és perquè no vol",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1872,
+      "text": "Es publica a Barcelona el primer número de «L'Esquella de la Torratxa», que durarà seixanta-set anys.",
+      "url": "https://ca.wikipedia.org/wiki/L'Esquella_de_la_Torratxa"
+     }
+    ],
+    [
+     {
+      "any": 2002,
+      "text": "Es bategen els Angelets del Vallespir, colla castellera de Sant Joan de Pladecorts, a la Catalunya del Nord.",
+      "url": "https://ca.wikipedia.org/wiki/Angelets_del_Vallespir"
+     }
+    ]
    ]
   },
   "05-06": {
@@ -4548,6 +6480,22 @@
      "text": "Pel maig, puces a raig",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1845,
+      "text": "Neix a Santa Cruz de Tenerife el poeta i dramaturg Àngel Guimerà.",
+      "url": "https://ca.wikipedia.org/wiki/%C3%80ngel_Guimer%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1540,
+      "text": "Mor a Bruges, als quaranta-vuit anys, l'humanista i filòsof valencià Joan Lluís Vives.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Llu%C3%ADs_Vives_i_March"
+     }
+    ]
    ]
   },
   "05-07": {
@@ -4580,6 +6528,22 @@
      "text": "Pel maig, floreix el blat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2009,
+      "text": "La Universitat de Lleida investeix doctor honoris causa Joan Solà i Cortassa.",
+      "url": "https://ca.wikipedia.org/wiki/Universitat_de_Lleida"
+     }
+    ],
+    [
+     {
+      "any": 2000,
+      "text": "Mor a Barcelona Avel·lí Artís-Gener, «Tísner», escriptor, escenògraf, pintor i dibuixant.",
+      "url": "https://ca.wikipedia.org/wiki/Avel%C2%B7l%C3%AD_Art%C3%ADs-Gener"
+     }
+    ]
    ]
   },
   "05-08": {
@@ -4616,6 +6580,22 @@
      "text": "Pel maig, entre la darrera i la primera espiga, la fam maleïda",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1870,
+      "text": "Surt a Barcelona el primer número del setmanari satíric «La Campana de Gràcia», que durarà més de seixanta-quatre anys.",
+      "url": "https://ca.wikipedia.org/wiki/La_Campana_de_Gr%C3%A0cia"
+     }
+    ],
+    [
+     {
+      "any": 1882,
+      "text": "Neix a Berga Ramon Vinyes i Cluet, autor d'obres de teatre, poesia i contes.",
+      "url": "https://ca.wikipedia.org/wiki/Ramon_Vinyes_i_Cluet"
+     }
+    ]
    ]
   },
   "05-09": {
@@ -4646,6 +6626,22 @@
      "text": "Aigua de maig, tot l'any dura el raig",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1993,
+      "text": "Es presenten oficialment a Barcelona els Castellers de Sants.",
+      "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sants"
+     }
+    ],
+    [
+     {
+      "any": 1844,
+      "text": "Neix a Dénia, a la Marina Alta, el religiós i historiador valencià Roc Chabàs Llorens.",
+      "url": "https://ca.wikipedia.org/wiki/Roc_Chab%C3%A0s_Llorens"
+     }
+    ]
    ]
   },
   "05-10": {
@@ -4682,6 +6678,22 @@
      "text": "Pel mes de maig, llenya i formatge",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1897,
+      "text": "«Terra baixa», d'Àngel Guimerà, es representa per primera vegada a Barcelona, al Teatre Romea.",
+      "url": "https://ca.wikipedia.org/wiki/Terra_baixa"
+     }
+    ],
+    [
+     {
+      "any": 1937,
+      "text": "Mor a Barcelona Josep Torres i Vilalta, «Toresky», locutor de ràdio, transformista i ventríloc.",
+      "url": "https://ca.wikipedia.org/wiki/Toresky"
+     }
+    ]
    ]
   },
   "05-11": {
@@ -4712,6 +6724,22 @@
      "text": "De l’estiuet de sant Martí a l’hivernet de sant Mamet, mig any complet",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1938,
+      "text": "Neix a Sanaüja, a la Segarra, el poeta i arquitecte Joan Margarit i Consarnau.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Margarit_i_Consarnau"
+     }
+    ],
+    [
+     {
+      "any": 1561,
+      "text": "Els sollerics, amb l'ajuda de bunyolins i alaroners, rebutgen l'atac d'un estol de corsaris otomans a la vila de Sóller.",
+      "url": "https://ca.wikipedia.org/wiki/Pirateria_barbaresca"
+     }
+    ]
    ]
   },
   "05-12": {
@@ -4749,6 +6777,22 @@
      "text": "Per Santa Creu ni una falcia veureu i per Sant Pancraç n'hi ha per totes parts",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1980,
+      "text": "Mercè Rodoreda rep a Barcelona el Premi d'Honor de les Lletres Catalanes.",
+      "url": "https://ca.wikipedia.org/wiki/Merc%C3%A8_Rodoreda_i_Gurgui"
+     }
+    ],
+    [
+     {
+      "any": 1753,
+      "text": "Neix a la ciutat de València el pintor valencià Agustí Esteve i Marquès.",
+      "url": "https://ca.wikipedia.org/wiki/Agust%C3%AD_Esteve_i_Marqu%C3%A8s"
+     }
+    ]
    ]
   },
   "05-13": {
@@ -4782,6 +6826,22 @@
      "text": "La missa de Sant Pere, val per totes les altres de l'any",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1943,
+      "text": "Neix a Barcelona Mercè Vilaret i Llop, realitzadora pionera de la televisió a Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Merc%C3%A8_Vilaret_i_Llop"
+     }
+    ],
+    [
+     {
+      "any": 1582,
+      "text": "Dos-cents pirates desembarquen a sa Foradada, a Deià, i són vençuts per una cinquantena d'homes.",
+      "url": "https://ca.wikipedia.org/wiki/Sa_Foradada"
+     }
+    ]
    ]
   },
   "05-14": {
@@ -4815,6 +6875,22 @@
      "text": "Per Sant Maties, ja són ben llargs tots els dies",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1924,
+      "text": "S'inaugura a Barcelona el monument a mossèn Jacint Verdaguer.",
+      "url": "https://ca.wikipedia.org/wiki/Monument_a_Moss%C3%A8n_Jacint_Verdaguer_(Barcelona)"
+     }
+    ],
+    [
+     {
+      "any": 1907,
+      "text": "Neix a Borriana, a la Plana Baixa, el futur cardenal Vicent Enrique i Tarancón.",
+      "url": "https://ca.wikipedia.org/wiki/Vicent_Enrique_i_Taranc%C3%B3n"
+     }
+    ]
    ]
   },
   "05-15": {
@@ -4861,6 +6937,22 @@
      "text": "Per Sant Isidre, el blat deu ser igualat.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1325,
+      "text": "Ramon Muntaner comença a escriure la seva «Crònica» a la seva alqueria de Xirivella.",
+      "url": "https://ca.wikipedia.org/wiki/Ramon_Muntaner"
+     }
+    ],
+    [
+     {
+      "any": 1939,
+      "text": "Mor a la ciutat de Barcelona l'escriptor català Joaquim Ruyra i Oms.",
+      "url": "https://ca.wikipedia.org/wiki/Joaquim_Ruyra_i_Oms"
+     }
+    ]
    ]
   },
   "05-16": {
@@ -4903,6 +6995,22 @@
      "text": "Sembra el julivert pel maig i tot l'any en tindràs.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1894,
+      "text": "Neix a la ciutat de Barcelona l'escriptor català Joan Salvat-Papasseit.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Salvat-Papasseit"
+     }
+    ],
+    [
+     {
+      "any": 1825,
+      "text": "Neix a Palma el poeta, bibliògraf i lingüista Marià Aguiló i Fuster.",
+      "url": "https://ca.wikipedia.org/wiki/Mari%C3%A0_Aguil%C3%B3_i_Fuster"
+     }
+    ]
    ]
   },
   "05-17": {
@@ -4935,6 +7043,22 @@
      "text": "A's maig, faves a sacs.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1705,
+      "text": "Els vigatans es reuneixen a l'ermita de Sant Sebastià amb representants dels aliats per preparar el pacte de Gènova.",
+      "url": "https://ca.wikipedia.org/wiki/Ermita_de_Sant_Sebasti%C3%A0_(Vic)"
+     }
+    ],
+    [
+     {
+      "any": 1860,
+      "text": "Neix a Tortosa, al Baix Ebre, l'escultor Agustí Querol i Subirats.",
+      "url": "https://ca.wikipedia.org/wiki/Agust%C3%AD_Querol_i_Subirats"
+     }
+    ]
    ]
   },
   "05-18": {
@@ -4970,6 +7094,22 @@
      "text": "No diguis blat, fins que el maig no hagi passat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1869,
+      "text": "Republicans federals d'Aragó, Catalunya, el País Valencià i les Illes Balears signen el pacte de Tortosa per una Espanya federal.",
+      "url": "https://ca.wikipedia.org/wiki/Pacte_de_Tortosa"
+     }
+    ],
+    [
+     {
+      "any": 1908,
+      "text": "Neix a Barcelona el metge i pacifista Moisès Broggi i Vallès, que viurà més de cent anys.",
+      "url": "https://ca.wikipedia.org/wiki/Mois%C3%A8s_Broggi_i_Vall%C3%A8s"
+     }
+    ]
    ]
   },
   "05-19": {
@@ -12651,6 +14791,22 @@
      "text": "Per Sant Francesc, les magranes",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1899,
+      "text": "Un grup d'estudiants funda a Barcelona la Institució Catalana d'Història Natural.",
+      "url": "https://ca.wikipedia.org/wiki/Instituci%C3%B3_Catalana_d'Hist%C3%B2ria_Natural"
+     }
+    ],
+    [
+     {
+      "any": 1956,
+      "text": "Mor a Montuïri, a Mallorca, la glosadora i pagesa Catalina Pocoví Mayol.",
+      "url": "https://ca.wikipedia.org/wiki/Catalina_Pocov%C3%AD_Mayol"
+     }
+    ]
    ]
   },
   "12-04": {
@@ -12688,6 +14844,22 @@
      "text": "Bàrbara no ens deixeu",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2013,
+      "text": "Mor a Sant Feliu de Llobregat l'escriptora, lexicòloga i bibliotecària Joana Raspall.",
+      "url": "https://ca.wikipedia.org/wiki/Joana_Raspall_i_Juanola"
+     }
+    ],
+    [
+     {
+      "any": 2016,
+      "text": "Mor a Sant Nazari de Rosselló l'escriptor i polític nord-català Llorenç Planes.",
+      "url": "https://ca.wikipedia.org/wiki/Lloren%C3%A7_Planes"
+     }
+    ]
    ]
   },
   "12-05": {
@@ -12724,6 +14896,22 @@
      "text": "Desembre nevat, blat assegurat; emplenarà el graner i farem bon paller",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1998,
+      "text": "La UNESCO declara Patrimoni de la Humanitat més de 750 jaciments d'art rupestre llevantí de l'arc mediterrani.",
+      "url": "https://ca.wikipedia.org/wiki/UNESCO"
+     }
+    ],
+    [
+     {
+      "any": 1939,
+      "text": "Neix a Barcelona l'arquitecte i urbanista Ricard Bofill i Leví.",
+      "url": "https://ca.wikipedia.org/wiki/Ricard_Bofill_i_Lev%C3%AD"
+     }
+    ]
    ]
   },
   "12-06": {
@@ -12749,6 +14937,22 @@
      "text": "Doneu-nos, Sant Nicolau, un marit ben ric, si us plau.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1961,
+      "text": "Surt a Barcelona el primer número de la revista infantil i juvenil «Cavall Fort».",
+      "url": "https://ca.wikipedia.org/wiki/Cavall_Fort"
+     }
+    ],
+    [
+     {
+      "any": 1844,
+      "text": "Neix a Castelló de la Plana la mezzosoprano Elena Sanz Martínez d'Arrizala.",
+      "url": "https://ca.wikipedia.org/wiki/Elena_Sanz_Mart%C3%ADnez_d'Arrizala"
+     }
+    ]
    ]
   },
   "12-07": {
@@ -12780,6 +14984,22 @@
      "text": "Si el desembre plou, bon any nou",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1985,
+      "text": "Mor a Deià, a Mallorca, el poeta anglès Robert Graves.",
+      "url": "https://ca.wikipedia.org/wiki/Robert_Graves"
+     }
+    ],
+    [
+     {
+      "any": 1941,
+      "text": "Mor a Barcelona el músic Lluís Millet i Pagès, fundador de l'Orfeó Català.",
+      "url": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Millet_i_Pag%C3%A8s"
+     }
+    ]
    ]
   },
   "12-08": {
@@ -12813,6 +15033,22 @@
      "text": "Tronada entre la Concepció i la Candelera, mal any se’ns espera",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1861,
+      "text": "Neix a Banyuls de la Marenda l'escultor, pintor i gravador Aristides Maillol.",
+      "url": "https://ca.wikipedia.org/wiki/Aristides_Maillol"
+     }
+    ],
+    [
+     {
+      "any": 1906,
+      "text": "Margarida Xirgu debuta com a professional al Romea fent de Blanca a «Mar i cel», d'Àngel Guimerà.",
+      "url": "https://ca.wikipedia.org/wiki/Margarida_Xirgu_i_Subir%C3%A0"
+     }
+    ]
    ]
   },
   "12-09": {
@@ -12834,8 +15070,8 @@
    ],
    "refranys": [
     {
-     "text": "Per Sant Joan, a Olesa la fan",
-     "fontId": "pamies-tematic"
+     "text": "Desembre nevat, bon any per al blat.",
+     "fontId": "viquidites"
     },
     {
      "text": "Per Sant Joan, celler buit amb molta fam",
@@ -12849,6 +15085,22 @@
      "text": "Aigua de Sant Joan no dóna pa ni vi",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1895,
+      "text": "Neix a Barcelona la mezzosoprano lírica Conxita Supervia i Pascual.",
+      "url": "https://ca.wikipedia.org/wiki/Concepci%C3%B3_Supervia_i_Pascual"
+     }
+    ],
+    [
+     {
+      "any": 1600,
+      "text": "Mor a la ciutat de València l'escriptora mística Margarita Agulló.",
+      "url": "https://ca.wikipedia.org/wiki/Margarita_Agull%C3%B3"
+     }
+    ]
    ]
   },
   "12-10": {
@@ -12881,6 +15133,22 @@
      "text": "Santa Eulàlia de Barcelona, qui no camina s'estalona.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1933,
+      "text": "Ràdio Associació de Catalunya inaugura EAJ-38 Ràdio Girona, la primera emissora de la seva xarxa.",
+      "url": "https://ca.wikipedia.org/wiki/R%C3%A0dio_Girona"
+     }
+    ],
+    [
+     {
+      "any": 1926,
+      "text": "Neix a Santanyí, a Mallorca, el poeta i escriptor Blai Bonet i Rigo.",
+      "url": "https://ca.wikipedia.org/wiki/Blai_Bonet_i_Rigo"
+     }
+    ]
    ]
   },
   "12-11": {
@@ -12912,6 +15180,22 @@
      "text": "Desembre, moltes coses es fan, però ja som a fi d'any",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1824,
+      "text": "Neix a Barcelona l'escriptor, historiador i polític Víctor Balaguer.",
+      "url": "https://ca.wikipedia.org/wiki/V%C3%ADctor_Balaguer_i_Cirera"
+     }
+    ],
+    [
+     {
+      "any": 2015,
+      "text": "La UNESCO nomena Barcelona Ciutat de la Literatura dins la Xarxa de Ciutats Creatives.",
+      "url": "https://ca.wikipedia.org/wiki/Ciutat_de_la_Literatura"
+     }
+    ]
    ]
   },
   "12-12": {
@@ -12950,6 +15234,22 @@
      "text": "Desembre, el mes més vell de l'any",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1889,
+      "text": "L'enginyer Francesc Bonet i Dalmau patenta a Barcelona el Bonet, el primer automòbil d'explosió del país.",
+      "url": "https://ca.wikipedia.org/wiki/Tricicle_Bonet"
+     }
+    ],
+    [
+     {
+      "any": 1827,
+      "text": "Mor a Palma Maria Pascuala Caro Sureda, científica il·lustrada, doctora en filosofia i religiosa.",
+      "url": "https://ca.wikipedia.org/wiki/Maria_Pascuala_Caro_Sureda"
+     }
+    ]
    ]
   },
   "12-13": {
@@ -12966,7 +15266,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Que santa Llúcia ens/et/... conserve la vista",
+     "text": "De Santa Llúcia a Nadal, dotze dies de cabal.",
      "fontId": "gargallo"
     },
     {
@@ -12981,6 +15281,22 @@
      "text": "Per Santa Llúcia, minva la nit i creix el dia.",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1951,
+      "text": "Se celebra clandestinament, a la llibreria Catalònia de Barcelona, la primera Nit de Santa Llúcia.",
+      "url": "https://ca.wikipedia.org/wiki/Nit_liter%C3%A0ria_de_Santa_Ll%C3%BAcia"
+     }
+    ],
+    [
+     {
+      "any": 1923,
+      "text": "Neix a Barcelona el pintor Antoni Tàpies i Puig.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_T%C3%A0pies_i_Puig"
+     }
+    ]
    ]
   },
   "12-14": {
@@ -13012,6 +15328,22 @@
      "text": "Per Sant Joan, calura, mal de perdiu i de freixura",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1927,
+      "text": "S'inaugura la ruta aèria entre Barcelona i Madrid, primer vol comercial de la companyia Iberia.",
+      "url": "https://ca.wikipedia.org/wiki/Iberia_(aerol%C3%ADnia)"
+     }
+    ],
+    [
+     {
+      "any": 1945,
+      "text": "Neix a la Marina Alta l'escriptor Joan Baptista Mengual i Llull, conegut com a Isa Tròlec.",
+      "url": "https://ca.wikipedia.org/wiki/Isa_Tr%C3%B2lec"
+     }
+    ]
    ]
   },
   "12-15": {
@@ -13046,6 +15378,22 @@
      "text": "Si per desembre trona, la collita serà bona",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1829,
+      "text": "S'inaugura el Teatre Principal de Maó, el teatre d'òpera més antic d'Espanya.",
+      "url": "https://ca.wikipedia.org/wiki/Teatre_Principal_(Ma%C3%B3)"
+     }
+    ],
+    [
+     {
+      "any": 1950,
+      "text": "Mor a Barcelona l'escriptor Josep Maria Folch i Torres.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Maria_Folch_i_Torres"
+     }
+    ]
    ]
   },
   "12-16": {
@@ -13072,6 +15420,22 @@
      "text": "Qui en desembre ha de festejar, vora del foc s'ha de ficar",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1981,
+      "text": "Mor a València el filòleg, historiador i escriptor Manuel Sanchis i Guarner.",
+      "url": "https://ca.wikipedia.org/wiki/Manuel_Sanchis_i_Guarner"
+     }
+    ],
+    [
+     {
+      "any": 1908,
+      "text": "Neix a Anglès la pintora Remedios Varo.",
+      "url": "https://ca.wikipedia.org/wiki/Remedios_Varo"
+     }
+    ]
    ]
   },
   "12-17": {
@@ -13105,6 +15469,22 @@
      "text": "Deixar fet un sant Llàtzer",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1910,
+      "text": "S'inaugura a Barcelona el Petit Moulin Rouge, la sala que avui coneixem com El Molino.",
+      "url": "https://ca.wikipedia.org/wiki/El_Molino"
+     }
+    ],
+    [
+     {
+      "any": 1868,
+      "text": "Neix a Barcelona l'astrònom català Josep Comas i Solà.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Comas_i_Sol%C3%A0"
+     }
+    ]
    ]
   },
   "12-18": {
@@ -13142,6 +15522,22 @@
      "text": "Pel desembre, gelades i nevades i sopes escaldades",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1913,
+      "text": "Un decret del Govern espanyol permet mancomunar les diputacions i obre el camí a la Mancomunitat de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Mancomunitat_de_Catalunya"
+     }
+    ],
+    [
+     {
+      "any": 2020,
+      "text": "Mor a Sant Julià de Lòria Òscar Ribas Reig, el primer cap de govern d'Andorra.",
+      "url": "https://ca.wikipedia.org/wiki/%C3%92scar_Ribas_Reig"
+     }
+    ]
    ]
   },
   "12-19": {
@@ -13176,6 +15572,22 @@
      "text": "Per Cap d'Any el dia s'allarga un pam (31 de desembre)",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1992,
+      "text": "S'emet la primera Marató de TV3, dedicada a la leucèmia.",
+      "url": "https://ca.wikipedia.org/wiki/Marat%C3%B3_de_TV3"
+     }
+    ],
+    [
+     {
+      "any": 1834,
+      "text": "Neix a Alcoi, a l'Alcoià, el pintor valencià Antoni Gisbert i Pérez.",
+      "url": "https://ca.wikipedia.org/wiki/Antoni_Gisbert_i_P%C3%A9rez"
+     }
+    ]
    ]
   },
   "12-20": {
@@ -13216,6 +15628,22 @@
      "text": "Desembre ben fred, bon any i bon esplet",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1911,
+      "text": "Mor a Barcelona el poeta Joan Maragall, figura cabdal del modernisme.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Maragall"
+     }
+    ],
+    [
+     {
+      "any": 1974,
+      "text": "Torna a obrir les portes a Andorra la Vella la Biblioteca Nacional d'Andorra.",
+      "url": "https://ca.wikipedia.org/wiki/Biblioteca_Nacional_d'Andorra"
+     }
+    ]
    ]
   },
   "12-21": {
@@ -13255,6 +15683,22 @@
      "text": "Per sant Tomàs, neu al nas",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1997,
+      "text": "Mor a Santanyí el poeta i escriptor mallorquí Blai Bonet.",
+      "url": "https://ca.wikipedia.org/wiki/Blai_Bonet_i_Rigo"
+     }
+    ],
+    [
+     {
+      "any": 1651,
+      "text": "Neix a València l'erudit Tomàs Vicent Tosca, matemàtic, cartògraf i teòleg.",
+      "url": "https://ca.wikipedia.org/wiki/Tom%C3%A0s_Vicent_Tosca_i_Masc%C3%B3"
+     }
+    ]
    ]
   },
   "12-22": {
@@ -13282,6 +15726,22 @@
      "text": "Desembre, gelat i nevat, mata els cucs i prepara el bon any.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1909,
+      "text": "Es clou a València l'Exposició Regional Valenciana, una mostra del comerç i la indústria.",
+      "url": "https://ca.wikipedia.org/wiki/Exposici%C3%B3_Regional_Valenciana_del_1909"
+     }
+    ],
+    [
+     {
+      "any": 1932,
+      "text": "Neix a Roda de Ter l'escriptor, pedagog i periodista Emili Teixidor.",
+      "url": "https://ca.wikipedia.org/wiki/Emili_Teixidor_i_Viladec%C3%A0s"
+     }
+    ]
    ]
   },
   "12-23": {
@@ -13299,7 +15759,7 @@
    "mundials": [],
    "refranys": [
     {
-     "text": "Per Sant Joan, a collir el gram",
+     "text": "Desembre nevat, bon any assegurat",
      "fontId": "pamies-tematic"
     },
     {
@@ -13314,6 +15774,22 @@
      "text": "A Asnurri, les rovellades; Sant Joan, les del rovell; a Ars, les malxollades del Rota dels Ministrells.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1815,
+      "text": "Neix a Centelles l'enginyer i urbanista Ildefons Cerdà.",
+      "url": "https://ca.wikipedia.org/wiki/Ildefons_Cerd%C3%A0_i_Sunyer"
+     }
+    ],
+    [
+     {
+      "any": 1975,
+      "text": "Es crea a Barcelona el Consell de Forces Polítiques de Catalunya.",
+      "url": "https://ca.wikipedia.org/wiki/Consell_de_Forces_Pol%C3%ADtiques_de_Catalunya"
+     }
+    ]
    ]
   },
   "12-24": {
@@ -13352,6 +15828,22 @@
      "text": "Per Nadal i per Cap d’Any, cada u amb el seu company",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1985,
+      "text": "Els Pets fan el primer concert, a l'Ateneu Llentisclell de Constantí.",
+      "url": "https://ca.wikipedia.org/wiki/Els_Pets"
+     }
+    ],
+    [
+     {
+      "any": 1887,
+      "text": "Neix a València Lucrezia Bori, cantant d'òpera i soprano lírica.",
+      "url": "https://ca.wikipedia.org/wiki/Lucrezia_Bori"
+     }
+    ]
    ]
   },
   "12-25": {
@@ -13383,6 +15875,22 @@
      "text": "Per Nadal, el dia més curt de l'any",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1704,
+      "text": "Cau un meteorit a Catalunya, i a Terrassa se'n recuperen alguns fragments.",
+      "url": "https://ca.wikipedia.org/wiki/Meteorit_de_Barcelona"
+     }
+    ],
+    [
+     {
+      "any": 1948,
+      "text": "Mor a Prada de Conflent Pompeu Fabra, filòleg i enginyer.",
+      "url": "https://ca.wikipedia.org/wiki/Pompeu_Fabra_i_Poch"
+     }
+    ]
    ]
   },
   "12-26": {
@@ -13413,6 +15921,22 @@
      "text": "Per Nadal, un pas de pardal. Per Sant Esteve, un pas de llebre, i per Any Nou, un pas de bou",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1482,
+      "text": "Es col·loca a València la primera pedra de la Llotja de la Seda, obra de Pere Compte.",
+      "url": "https://ca.wikipedia.org/wiki/Llotja_de_la_Seda"
+     }
+    ],
+    [
+     {
+      "any": 1810,
+      "text": "Neix a Vilafranca del Penedès el pintor i escriptor Pau Milà i Fontanals.",
+      "url": "https://ca.wikipedia.org/wiki/Pau_Mil%C3%A0_i_Fontanals"
+     }
+    ]
    ]
   },
   "12-27": {
@@ -13445,6 +15969,22 @@
      "text": "De Nadal a Sant Joan, Sant Esteve lo més gran",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1985,
+      "text": "Barcelona sol·licita oficialment l'organització dels Jocs Olímpics.",
+      "url": "https://ca.wikipedia.org/wiki/Jocs_Ol%C3%ADmpics_d'Estiu_de_1992"
+     }
+    ],
+    [
+     {
+      "any": 1350,
+      "text": "Neix a Perpinyà Joan I el Caçador, rei de la Corona d'Aragó.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_el_Ca%C3%A7ador"
+     }
+    ]
    ]
   },
   "12-28": {
@@ -13471,6 +16011,22 @@
      "text": "Dites i refranys de l'any: desembre, hivern i Nadal",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1928,
+      "text": "Neix a Barcelona el poeta Màrius Sampere i Passarell.",
+      "url": "https://ca.wikipedia.org/wiki/M%C3%A0rius_Sampere_i_Passarell"
+     }
+    ],
+    [
+     {
+      "any": 1887,
+      "text": "Neix a Campos la cuinera i divulgadora gastronòmica Coloma Abrines, Madò Coloma Solera.",
+      "url": "https://ca.wikipedia.org/wiki/Coloma_Abrines_Vidal"
+     }
+    ]
    ]
   },
   "12-29": {
@@ -13499,6 +16055,22 @@
      "text": "Desembre nevat, bon any de blat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2013,
+      "text": "L'Obra Cultural Balear concedeix el premi Francesc de Borja Moll a la Viquipèdia en català.",
+      "url": "https://ca.wikipedia.org/wiki/Viquip%C3%A8dia_en_catal%C3%A0"
+     }
+    ],
+    [
+     {
+      "any": 1876,
+      "text": "Neix al Vendrell, al Baix Penedès, el violoncel·lista Pau Casals.",
+      "url": "https://ca.wikipedia.org/wiki/Pau_Casals_i_Defill%C3%B3"
+     }
+    ]
    ]
   },
   "12-30": {
@@ -13528,6 +16100,22 @@
      "text": "Neus pel desembre, bon any pel que ve",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1242,
+      "text": "Jaume I conquereix la vila d'Alzira, a la Ribera Alta.",
+      "url": "https://ca.wikipedia.org/wiki/Jaume_I"
+     }
+    ],
+    [
+     {
+      "any": 1998,
+      "text": "Mor a Barcelona el poeta Joan Brossa.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Brossa_i_Cuervo"
+     }
+    ]
    ]
   },
   "12-31": {
@@ -13558,6 +16146,22 @@
      "text": "Per Sant Silvestre, un pas de destre",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1229,
+      "text": "Jaume I entra a la ciutat de Mallorca després de conquerir l'illa al soldà almohade.",
+      "url": "https://ca.wikipedia.org/wiki/Jaume_I"
+     }
+    ],
+    [
+     {
+      "any": 2023,
+      "text": "Mor a Barcelona la fotògrafa catalana Colita.",
+      "url": "https://ca.wikipedia.org/wiki/Colita"
+     }
+    ]
    ]
   }
  },
@@ -13619,5 +16223,5 @@
    "diaSetmana": 4
   }
  ],
- "serialDies": 3
+ "serialDies": 5
 }
