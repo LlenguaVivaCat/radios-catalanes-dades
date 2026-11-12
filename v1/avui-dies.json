@@ -1,5 +1,5 @@
 {
-  "serial": 5,
+  "serial": 6,
   "versio": 2,
  "iniciCicle": "2026-11-16",
  "fonts": {
@@ -14096,6 +14096,22 @@
      "text": "Qui pel novembre no ha sembrat, que no sembri que ja és tard",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1945,
+      "text": "Mor a Caldes de Montbui l'escultor, pintor i dissenyador de joies Manuel Martínez Hugué.",
+      "url": "https://ca.wikipedia.org/wiki/Manuel_Mart%C3%ADnez_Hugu%C3%A9"
+     }
+    ],
+    [
+     {
+      "any": 1708,
+      "text": "Les tropes filipistes ocupen la vila de Dénia durant la guerra de Successió.",
+      "url": "https://ca.wikipedia.org/wiki/Felip_V_d'Espanya"
+     }
+    ]
    ]
   },
   "11-18": {
@@ -14134,6 +14150,22 @@
      "text": "És com els fesols de Santa Pau, un bull i cuits.",
      "fontId": "viquidites"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 2004,
+      "text": "Javier Solana comunica, en nom de la Unió Europea, als governs dels estats membres que català i valencià són la mateixa llengua.",
+      "url": "https://ca.wikipedia.org/wiki/Javier_Solana_Madariaga"
+     }
+    ],
+    [
+     {
+      "any": 1871,
+      "text": "Neix a Collbató, al Baix Llobregat, el compositor i escriptor Amadeu Vives i Roig.",
+      "url": "https://ca.wikipedia.org/wiki/Amadeu_Vives_i_Roig"
+     }
+    ]
    ]
   },
   "11-19": {
@@ -14169,6 +14201,22 @@
      "text": "Pel novembre tot el blat al graner o enterrat",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1857,
+      "text": "S'inaugura a Palma el Teatre Principal, que aleshores porta el nom de Teatre de la Princesa.",
+      "url": "https://ca.wikipedia.org/wiki/Teatre_Principal_(Palma)"
+     }
+    ],
+    [
+     {
+      "any": 1963,
+      "text": "Mor a Begur la ballarina i cantant de flamenc catalana Carmen Amaya.",
+      "url": "https://ca.wikipedia.org/wiki/Carmen_Amaya"
+     }
+    ]
    ]
   },
   "11-20": {
@@ -14209,6 +14257,22 @@
      "text": "El novembre, vi per vendre",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1490,
+      "text": "Es publica a València la primera edició de «Tirant lo Blanc».",
+      "url": "https://ca.wikipedia.org/wiki/Tirant_lo_Blanc"
+     }
+    ],
+    [
+     {
+      "any": 1931,
+      "text": "Neix a Barcelona l'historiador Josep Fontana i Lázaro, professor emèrit de la Universitat Pompeu Fabra.",
+      "url": "https://ca.wikipedia.org/wiki/Josep_Fontana_i_L%C3%A1zaro"
+     }
+    ]
    ]
   },
   "11-21": {
@@ -14240,6 +14304,22 @@
      "text": "Anar enflocat com el llit de la Mare de Déu",
      "fontId": "pamies-tematic"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1852,
+      "text": "Neix a Vila-real el compositor i guitarrista Francesc Tàrrega.",
+      "url": "https://ca.wikipedia.org/wiki/Francesc_d'Ass%C3%ADs_T%C3%A0rrega_i_Eixea"
+     }
+    ],
+    [
+     {
+      "any": 1993,
+      "text": "Els Minyons de Terrassa carreguen per primer cop en la història el 2 de 9 amb folre i manilles.",
+      "url": "https://ca.wikipedia.org/wiki/Minyons_de_Terrassa"
+     }
+    ]
    ]
   },
   "11-22": {
@@ -14269,6 +14349,15 @@
      "text": "Santa Cecília clara, tot l'advent emborbollada",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1901,
+      "text": "Neix a Sagunt, al Camp de Morvedre, el compositor i pianista Joaquín Rodrigo.",
+      "url": "https://ca.wikipedia.org/wiki/Joaqu%C3%ADn_Rodrigo_Vidre"
+     }
+    ]
    ]
   },
   "11-23": {
@@ -14303,6 +14392,22 @@
      "text": "Per Sant Clement, apreta el fred de calent",
      "fontId": "gargallo"
     }
+   ],
+   "efemerides": [
+    [
+     {
+      "any": 1922,
+      "text": "Neix a Sueca, a la Ribera Baixa, l'assagista Joan Fuster i Ortells.",
+      "url": "https://ca.wikipedia.org/wiki/Joan_Fuster_i_Ortells"
+     }
+    ],
+    [
+     {
+      "any": 1983,
+      "text": "Les Corts Valencianes aproven la Llei d'Ús i Ensenyament del Valencià.",
+      "url": "https://ca.wikipedia.org/wiki/Llei_d'%C3%9As_i_Ensenyament_del_Valenci%C3%A0"
+     }
+    ]
    ]
   },
   "11-24": {
@@ -16223,5 +16328,5 @@
    "diaSetmana": 4
   }
  ],
- "serialDies": 5
+ "serialDies": 6
 }
