@@ -1,5 +1,5 @@
 {
-  "serial": 10,
+  "serial": 11,
   "version": 2,
   "source": "llenguaviva.cat",
   "license": "Tots els drets reservats",
@@ -26,7 +26,11 @@
         "lat": 41.3924,
         "lon": 2.1414
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 1
+      }
     },
     {
       "id": "rac1",
@@ -52,7 +56,20 @@
         "lat": 41.3925,
         "lon": 2.1459
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "triton",
+        "mount": "RAC_1AAC_RW",
+        "clock": {
+          "baseMs": 1790820826455,
+          "segmentMs": 9984.580498866213,
+          "encoderOffsetsMs": {
+            "22743": 560016,
+            "27773": 0
+          }
+        },
+        "latencySeconds": 70
+      }
     },
     {
       "id": "rna",
@@ -74,7 +91,11 @@
         "lat": 42.5069,
         "lon": 1.5213
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 10
+      }
     },
     {
       "id": "apuntfm",
@@ -96,7 +117,11 @@
         "lat": 39.5109,
         "lon": -0.4245
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 5
+      }
     },
     {
       "id": "ib3",
@@ -191,7 +216,11 @@
         "lat": 41.3924,
         "lon": 2.1414
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 2
+      }
     },
     {
       "id": "flaixfm",
@@ -261,7 +290,11 @@
         "lat": 41.3924,
         "lon": 2.1414
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 3
+      }
     },
     {
       "id": "catmusica",
@@ -285,7 +318,11 @@
         "lat": 41.3924,
         "lon": 2.1414
       },
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 2
+      }
     },
     {
       "id": "radiovilablareix",
@@ -659,6 +696,32 @@
       "coverage": "territory"
     },
     {
+      "id": "rabradio",
+      "name": "RAB Ràdio",
+      "shortName": "RAB Ràdio",
+      "territory": "catalunya",
+      "category": "generalista",
+      "streamUrl": "https://s3.radio.co/sf09831a0e/listen",
+      "streamType": "mp3",
+      "fallbackUrls": [],
+      "website": "https://rab.cat",
+      "logo": "rabradio",
+      "hasIcyMetadata": true,
+      "lang": "ca",
+      "loudnessLufs": -16,
+      "lowBitrateUrl": "https://s3.radio.co/sf09831a0e/low",
+      "place": {
+        "name": "Barcelona",
+        "area": "Barcelonès",
+        "lat": 41.4,
+        "lon": 2.198
+      },
+      "band": "am",
+      "region": "barcelona",
+      "coverage": "territory",
+      "newUntil": "2026-11-25"
+    },
+    {
       "id": "coolturafm",
       "name": "Cooltura FM",
       "shortName": "Cooltura FM",
@@ -679,7 +742,11 @@
         "lon": 2.1769
       },
       "band": "am",
-      "region": "barcelona"
+      "region": "barcelona",
+      "outage": {
+        "since": "2026-11-12",
+        "message": "L'emissió per internet de Cooltura FM no funciona des del 12 de novembre. Ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "radiojoventut",
@@ -1574,7 +1641,11 @@
         "lon": 2.4828
       },
       "band": "am",
-      "region": "barcelona"
+      "region": "barcelona",
+      "outage": {
+        "since": "2026-11-13",
+        "message": "L'emissió per internet de Ràdio Llavaneres no funciona des del 13 de novembre. Ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "radiovitamenia",
@@ -1848,9 +1919,12 @@
         "lat": 41.5318,
         "lon": 2.2982
       },
-      "newUntil": "2026-11-16",
       "band": "am",
-      "region": "barcelona"
+      "region": "barcelona",
+      "outage": {
+        "since": "2026-11-13",
+        "message": "L'emissió per internet de Ràdio Vallromanes no funciona des del 13 de novembre. Ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "radiomarina",
@@ -2659,11 +2733,7 @@
         "lon": 1.6119
       },
       "band": "am",
-      "region": "penedes",
-      "outage": {
-        "since": "2026-11-10",
-        "message": "L'emissió per internet de Sarroca Ràdio no funciona des del 10 de novembre. Ja ho sabem i ho seguim."
-      }
+      "region": "penedes"
     },
     {
       "id": "onabitlles",
@@ -3141,7 +3211,11 @@
       },
       "band": "am",
       "region": "andorra",
-      "coverage": "territory"
+      "coverage": "territory",
+      "rewind": {
+        "type": "hls",
+        "latencySeconds": 10
+      }
     },
     {
       "id": "aldaiaradio",
