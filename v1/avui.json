@@ -56,17 +56,6 @@
   }
  },
  "poemes": {
-  "2026-11-16": {
-   "titol": "Prosa",
-   "autor": "Josep Alcoverro",
-   "naixement": 1880,
-   "mort": 1908,
-   "obra": "Aplech de versos",
-   "any": 1907,
-   "text": "          Fa temps qu'estem enfeynats\n        ab capítuls, dot, llegats\n        y altres coses enutjoses;\n        mes, a cada dos per tres,\n        aquest ditxós interès\n        fa que perillen les noces.\n\n          Tu, per lo que puga ser,\n        vas brodant d'allò més be\n        tot un be de Deu de roba;\n        ta mare, regatejant,\n        no tira may endavant\n        la compra dels nostres mobles.\n\n        Y aixís tot és insegur;\n        res sé jo ni res saps tu\n        y'l temps depressa s'escorre,\n        avuy sembla que mellor,\n        demà sembla que pitjor,\n        entre'l temor y l'angoixa.\n\n          El rossinyol, entre tant,\n        el qu'alegrava ab son cant\n        nostres hores més ditxoses,\n        sense cap formalitat\n        fa temps que s'ha maridat\n        ab comare rossinyola.",
-   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AAplech_de_versos_%281907%29.djvu/35",
-   "fontId": "viquitexts"
-  },
   "2026-11-17": {
    "titol": "Ara, i cada demà",
    "autor": "Joan Salvat-Papasseit",
@@ -1784,6 +1773,6 @@
    "fontId": "viquitexts"
   }
  },
- "serial": 8,
+ "serial": 9,
  "serialDies": 6
 }
