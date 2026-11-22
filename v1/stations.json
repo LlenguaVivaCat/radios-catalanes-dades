@@ -1,5 +1,5 @@
 {
-  "serial": 11,
+  "serial": 12,
   "version": 2,
   "source": "llenguaviva.cat",
   "license": "Tots els drets reservats",
@@ -61,7 +61,7 @@
         "type": "triton",
         "mount": "RAC_1AAC_RW",
         "clock": {
-          "baseMs": 1790820826455,
+          "baseMs": 1790820898000,
           "segmentMs": 9984.580498866213,
           "encoderOffsetsMs": {
             "22743": 560016,
@@ -716,10 +716,10 @@
         "lat": 41.4,
         "lon": 2.198
       },
+      "newUntil": "2026-11-25",
       "band": "am",
       "region": "barcelona",
-      "coverage": "territory",
-      "newUntil": "2026-11-25"
+      "coverage": "territory"
     },
     {
       "id": "coolturafm",
@@ -742,11 +742,7 @@
         "lon": 2.1769
       },
       "band": "am",
-      "region": "barcelona",
-      "outage": {
-        "since": "2026-11-12",
-        "message": "L'emissió per internet de Cooltura FM no funciona des del 12 de novembre. Ja ho sabem i ho seguim."
-      }
+      "region": "barcelona"
     },
     {
       "id": "radiojoventut",
@@ -1920,11 +1916,7 @@
         "lon": 2.2982
       },
       "band": "am",
-      "region": "barcelona",
-      "outage": {
-        "since": "2026-11-13",
-        "message": "L'emissió per internet de Ràdio Vallromanes no funciona des del 13 de novembre. Ja ho sabem i ho seguim."
-      }
+      "region": "barcelona"
     },
     {
       "id": "radiomarina",
@@ -2860,7 +2852,11 @@
         "lon": 0.9236
       },
       "band": "am",
-      "region": "camp-de-tarragona"
+      "region": "camp-de-tarragona",
+      "outage": {
+        "since": "2026-11-21",
+        "message": "L'emissió per internet de Ràdio l'Hospitalet de l'Infant ha fallat aquests dies (des del 21 de novembre). Si no sona, ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "constantiradio",
@@ -3087,7 +3083,11 @@
         "lon": 0.4929
       },
       "band": "am",
-      "region": "terres-de-l-ebre"
+      "region": "terres-de-l-ebre",
+      "outage": {
+        "since": "2026-11-21",
+        "message": "L'emissió per internet de la Plana Ràdio ha fallat aquests dies (des del 21 de novembre). Si no sona, ja ho sabem i ho seguim."
+      }
     },
     {
       "id": "radiotarrega",
