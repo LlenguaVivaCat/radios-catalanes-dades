@@ -56,50 +56,6 @@
   }
  },
  "poemes": {
-  "2026-11-17": {
-   "titol": "Ara, i cada demà",
-   "autor": "Joan Salvat-Papasseit",
-   "naixement": 1894,
-   "mort": 1924,
-   "obra": "El poema de La rosa als llavis",
-   "any": 1923,
-   "text": "                              Si anessis lluny\n\nSi anessis lluny\n              tan lluny que no et sabés\ntampoc ningú sabria el meu destí,\ncap altre llavi no em tindria pres\nperò amb el teu nom faria el meu camí.\n\nUn ram de noies no em fora conhort\nni la cançó sota el dring de la copa,\nvaixells de guerra vinguessin al Port\nprou hi aniria, mariner de popa.\n\nSi jo posava la bandera al pal\ni era molt alta, t'hi veuria a dalt.",
-   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AEl_poema_de_La_rosa_als_llavis_%281923%29.pdf/91",
-   "fontId": "viquitexts"
-  },
-  "2026-11-18": {
-   "titol": "La Destral y 'l sandalo",
-   "autor": "Felip Jacint Sala",
-   "naixement": 1819,
-   "mort": 1895,
-   "obra": "Primer llibret de faulas",
-   "any": 1888,
-   "text": "Si ab cops crudels al Sándalo aromátich\n        fereix la Destral,\nell, en revenja, generós li dona\n        son odor fragant.\n\nSímil d'est arbre, la virtut cristiana\n        torna bé per mal.",
-   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3APrimer_llibret_de_faulas_%281888%29.djvu/14",
-   "fontId": "viquitexts"
-  },
-  "2026-11-19": {
-   "titol": "Sol solet",
-   "autor": "Joan Maragall",
-   "naixement": 1860,
-   "mort": 1911,
-   "obra": "Visions & Cants",
-   "any": 1900,
-   "text": "Quan jo era petit\nvivia arraulit\nen un carrer negre.\nEl mur hi era humid,\nprô l sol hi era alegre.\n\nPer'llà a Sant Josep\nel bon sol solet\nlliscava i lluïa\npel carreró estret.\n\nEn mon còs neulit\nllavors jo sentia\nuna esgarrifança\nde goig i alegria.",
-   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3AVisions_%26_Cants_%281900%29.djvu/47",
-   "fontId": "viquitexts"
-  },
-  "2026-11-20": {
-   "titol": "Ran de mar",
-   "autor": "Miquel Costa i Llobera",
-   "naixement": 1854,
-   "mort": 1922,
-   "obra": "Poesies d'en Miquel Costa y Llobera",
-   "any": 1885,
-   "text": "Jugant tot sol per la plaja\nCorria un ninet descals,\nCorria seguint la retxa\nQue separa terra y mar.\nPerò la retxa ben justa\nSos peus no trobavan may:\nTan prest l'ona 'ls hi banyava,\nTan prest l'ona 's feya en-llá.\nJo pensava: per la vida\nCorrent axí també anám;\nCom ell entre mar y terra,\nCorrém entre bens y mals.\nGoig y penes, mals y ditxes...\nRes té 'l mon més destriat;\nPerò entre mitx una retxa\n¿Qui en el mon la hi trassará?",
-   "font": "https://ca.wikisource.org/wiki/P%C3%A0gina%3APoesies_%281885%29.djvu/60",
-   "fontId": "viquitexts"
-  },
   "2026-11-21": {
    "titol": "La Dòna hermosa",
    "autor": "Joan Maragall",
@@ -1773,6 +1729,6 @@
    "fontId": "viquitexts"
   }
  },
- "serial": 9,
+ "serial": 10,
  "serialDies": 6
 }
